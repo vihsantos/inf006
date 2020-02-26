@@ -1,0 +1,230 @@
+//Africa
+
+Melkbosstrand; Equiano; n.a; 4
+Melkbosstrand; SAFE; 13500; 6
+Melkbosstrand; SAT-3/WASC; 14350; 12
+Umbogintwini; Meltingpot Indianoceanic Submarine System (METISS); 3200; 4
+Mtunzini; Eastern Africa Submarine System (EASSy); 10500; 9
+Mtunzini; SAFE; 13500; 6
+Mtunzini; SEACOM/Tata TGN-Eurasia; 15000; 8
+Yzerfontein; West African Cable System (WACS); 14530; 13
+Maputo; Eastern Africa Submarine System (EASSy); 10500; 9
+Maputo; SEACOM/Tata TGN-Eurasia; 15000; 8
+Toliara; 
+Maputo; Eastern Africa Submarine System (EASSy); 10500; 9
+Fort Dauphin; Meltingpot Indianoceanic Submarine System (METISS); 3200; 4
+Toamasina; Lower Indian Ocean Network (LION); 1.060; 3
+Saint Paul; SAFE; 13500; 6
+Sainte Marie;  Lower Indian Ocean Network (LION); 1.060; 3
+Baie Jacotet; Mauritius and Rodrigues Submarine Cable System (MARS); 677; 2
+Baie Jacotet; SAFE; 13500; 6
+Le Port; Meltingpot Indianoceanic Submarine System (METISS); 3200; 4
+Baie du Tombeau;  Meltingpot Indianoceanic Submarine System (METISS); 3200; 4
+Terre Rouge; Lower Indian Ocean Network (LION); 1.060; 3
+Moroni; Avassa; 260; 4
+Moroni; Eastern Africa Submarine System (EASSy); 10500; 9
+Moroni; FLY-LION3; 400; 2
+Chindini; Avassa; 260; 4
+Chindini; Comoros Domestic Cable System; n.a; 3
+Fomboni Moheli; Comoros Domestic Cable System; n.a; 3
+Mutsamudu; Comoros Domestic Cable System; n.a; 3
+Mutsamudu; Avassa; 260; 4
+Kaweni; FLY-LION3; 400; 2
+Kaweni; Lower Indian Ocean Network 2 (LION2); 2.700; 2
+Mamoudzou; Avassa; 260; 4
+Dar Es Salaam; Eastern Africa Submarine System (EASSy); 10500; 9
+Dar Es Salaam; SEACOM/Tata TGN-Eurasia; 15000; 8
+Dar Es Salaam; Seychelles to East Africa System (SEAS); 1.930; 2
+Mombasa; Dijibouti Africa Regional Express 1 (DARE1); 4.854; 4
+Mombasa; Eastern Africa Submarine System (EASSy); 10500; 9
+Mombasa; PEACE Cable; 15.000; 12 
+Mombasa; SEACOM/Tata TGN-Eurasia; 15000; 8
+Mombasa; The East African Marine System (TEAMS); 4.900; 2
+Kismayo; PEACE Cable; 15.000; 12 
+Mogadishu; Dijibouti Africa Regional Express 1 (DARE1); 4.854; 4
+Mogadishu; Eastern Africa Submarine System (EASSy); 10500; 9
+Mogadishu; PEACE Cable; 15.000; 12 
+Hobyo; PEACE Cable; 15.000; 12 
+Bosaso; Dijibouti Africa Regional Express 1 (DARE1); 4.854; 4
+Bosaso; Gulf2Africa; 1.500; 3 
+Bosaso;PEACE Cable; 15.000; 12 
+Berbera; Gulf2Africa; 1.500; 3 
+Dijibouti City; Aden-Dijibouti; 269; 2
+Dijibouti City; Asia Africa Europe-1 (AAE-1); 25.000; 20
+Dijibouti City; Dijibouti Africa Regional Express 1 (DARE1); 4.854; 4
+Dijibouti City; Eastern Africa Submarine System (EASSy); 10500; 9
+Dijibouti City; Europe India Gateway (EIG); 15.000; 12
+Dijibouti City; Middle East North Africa (MENA) Cable System/Gulf Bridge International; 8.000; 6 
+Dijibouti City; PEACE Cable; 15.000; 12 
+Dijibouti City; SEACOM/Tata TGN-Eurasia; 15000; 8
+Dijibouti City; SeaMeWe-3; 39.000; 39
+Dijibouti City; SeaMeWe-5; 20.000; 18
+Port Sudan; Eastern Africa Submarine System (EASSy); 10500; 9
+Port Sudan; FALCON; 10.300; 16
+Port Sudan; Saudi Arabia-Sudan1 (SAS-1); 333; 2
+Port Sudan; Saudi Arabia-Sudan2 (SAS-2); 330; 2
+Zafarana; Asia Africa Europe-1 (AAE-1); 25.000; 20
+Zafarana; Europe India Gateway (EIG); 15.000; 12
+Zafarana; Middle East North Africa (MENA) Cable System/Gulf Bridge International; 8.000; 6 
+Zafarana; PEACE Cable; 15.000; 12 
+Zafarana; SEACOM/Tata TGN-Eurasia; 15000; 8
+Zafarana; SeaMeWe-5; 20.000; 18
+Suez; FALCON; 10.300; 16
+Suez; FLAG Europe-Asia (FEA); 28.000; 16
+Suez; IMEWE; 12.091; 9
+Suez; SeaMeWe-3; 39.000; 39
+Suez; SeaMeWe-4; 20.000; 16
+Alexandria; Aletar; 787; 2 
+Alexandria; FLAG Europe-Asia (FEA); 28.000; 16
+Alexandria; Hawk; 3.400; 3
+Alexandria; IMEWE; 12.091; 9
+Alexandria; SeaMeWe-3; 39.000; 39
+Alexandria; SeaMeWe-4; 20.000; 16
+Abu Talat; Asia Africa Europe-1 (AAE-1); 25.000; 20
+Abu Talat; Europe India Gateway (EIG); 15.000; 12
+Abu Talat; Middle East North Africa (MENA) Cable System/Gulf Bridge International; 8.000; 6 
+Abu Talat; PEACE Cable; 15.000; 12 
+Abu Talat; SeaMeWe-5; 20.000; 18
+Abu Talat; TE North/TGN-Eurasia/ SEACOM/ Alexandros/ Medex; 3.634; 4
+El-Quawef; Tobrok-Emasaed Cable System; 178; 2
+Tubruq; LFON (Libyan Fiber Optic Network); 1.639; 13
+Tubruq; Tobrok-Emasaed Cable System; 178; 2
+Derna; LFON (Libyan Fiber Optic Network); 1.639; 13
+Derna; Silphium; 425; 2
+Al Bayda; LFON (Libyan Fiber Optic Network); 1.639; 13
+Tolmeda; LFON (Libyan Fiber Optic Network); 1.639; 13
+Benghazi; LFON (Libyan Fiber Optic Network); 1.639; 13
+Brega; LFON (Libyan Fiber Optic Network); 1.639; 13
+Ras Lanuf; LFON (Libyan Fiber Optic Network); 1.639; 13
+Sirte; LFON (Libyan Fiber Optic Network); 1.639; 13
+Misrata; LFON (Libyan Fiber Optic Network); 1.639; 13
+Al Khums; LFON (Libyan Fiber Optic Network); 1.639; 13
+Tripoli; Europe India Gateway (EIG); 15.000; 12
+Tripoli; Italy-Libya; 570; 2
+Tripoli; LFON (Libyan Fiber Optic Network); 1.639; 13
+Zawia; LFON (Libyan Fiber Optic Network); 1.639; 13
+Zuwara; LFON (Libyan Fiber Optic Network); 1.639; 13
+Kelibia; Didon; 170; 2
+Kelibia; HANNIBAL System; 178; 2
+Kelibia; Trapani-Kelibia; 209; 2
+Bizerte; SeaMeWe-4; 20.000; 16
+Annaba; Med Cable Network; 1.300; 4
+Annaba; SeaMeWe-4; 20.000; 16
+Annaba; TE North/TGN-Eurasia/ SEACOM/ Alexandros/ Medex; 3.634; 4
+Algiers; Med Cable Network; 1.300; 4
+Algiers; Oran-Valencia(ORVAL); 770; 3
+El Djamila; ALPAL-2; 312; 2
+Oran; Med Cable Network; 1.300; 4
+Oran; Oran-Valencia(ORVAL); 770; 3
+Tétouan; Estepona-Tetouan; 113; 2
+Tétouan; SeaMeWe-3; 39.000; 39
+Asilah; Atlas Offshore; 1.634; 2
+Asilah; Canalink; 1.835; 7
+Puerto del Rosario; TRANSCAN-2; 238; 4
+Arrecife; TRANSCAN-2; 238; 4
+Lanzarote; TRANSCAN-3; 210; 2
+Marrojable; TRANSCAN-2; 238; 4
+Aguimes;  TRANSCAN-2; 238; 4
+Gran Canaria; TRANSCAN-3; 210; 2
+Alta Vista; Canalink; 1.835; 7
+Alta Vista; West African Cable System (WACS); 14530; 13
+Piedra Santa; Subcan Link 1; 143; 2
+Piedra Santa; Subcan Link 2; 136; 2 
+Tarahales; Pencan-9; 1. 398; 2
+Tinocas; Canalink; 1.835; 7
+Sardina; Tenerife-Gran Canaria; 110; 2
+El Goro; CANDALTA; 110; 2
+El Goro; SAT-3/WASC; 14350; 12
+El Médano; Atlantis-2; 8.500; 7
+El Médano; Tenerife-Gran Canaria; 110; 2
+Granadilla; Africa Coast to Europe (ACE); 1.835; 22
+Granadilla; Canalink; 1.835; 7
+Granadilla; Tenerife-La Gomera-La Palma; 222; 3
+Los Realejos; Tenerife-La Palma; n.a; 2
+Candelaria; CANDALTA; 110; 2
+Candelaria; Pencan-8; 1.400; 2
+Las Caletillas; Subcan Link 1; 143; 2
+Las Caletillas; Subcan Link 2; 136; 2 
+San Sebastian de la Gomera; La Gomera-El Hierro; n.a; 2
+San Sebastian de la Gomera; Tenerife-La Palma; n.a; 2
+Valverde;  La Gomera-El Hierro; n.a; 2
+Santa Cruz de La Palma; Canalink; 1.835; 7
+Santa Cruz de La Palma; Tenerife-La Gomera-La Palma; 222; 3
+Santa Cruz de La Palma; Tenerife-La Palma; n.a; 2
+Funchal; CAM Ring; 1.120; 3
+Funchal; EllaLink; 6.200; 6
+Nouakchott; Africa Coast to Europe (ACE); 1.835; 22
+Dakar; Africa Coast to Europe (ACE); 1.835; 22
+Dakar; Atlantis-2; 8.500; 7
+Dakar; MainOne; 7.000; 5
+Dakar; SAT-3/WASC; 14350; 12
+Praia; Atlantis-2; 8.500; 7
+Praia; Cabo Verde Telecom Domestic Submarine Cable Phase 1; n.a; 5
+Praia; Cabo Verde Telecom Domestic Submarine Cable Phase 3; n.a; 8
+Praia; EllaLink; 6.200; 6
+Praia; West African Cable System (WACS); 14530; 13
+Tarrafal; Cabo Verde Telecom Domestic Submarine Cable Phase 2; n.a; 3
+Tarrafal; Cabo Verde Telecom Domestic Submarine Cable Phase 3; n.a; 8
+Vila do Maio; Cabo Verde Telecom Domestic Submarine Cable Phase 3; n.a; 8
+Sao Felipe; Cabo Verde Telecom Domestic Submarine Cable Phase 3; n.a; 8
+Nova Sintra; Cabo Verde Telecom Domestic Submarine Cable Phase 3; n.a; 8
+Porto Novo; Cabo Verde Telecom Domestic Submarine Cable Phase 2; n.a; 3
+Porto Novo; Cabo Verde Telecom Domestic Submarine Cable Phase 3; n.a; 8
+Sao Pedro; Cabo Verde Telecom Domestic Submarine Cable Phase 1; n.a; 5
+Sao Pedro; Cabo Verde Telecom Domestic Submarine Cable Phase 2; n.a; 3
+Sao Pedro; Cabo Verde Telecom Domestic Submarine Cable Phase 3; n.a; 8
+Murdeira; Cabo Verde Telecom Domestic Submarine Cable Phase 1; n.a; 5
+Banjul; Africa Coast to Europe (ACE); 1.835; 22
+Suro; Africa Coast to Europe (ACE); 1.835; 22
+Conakry; Africa Coast to Europe (ACE); 1.835; 22
+Freetown; Africa Coast to Europe (ACE); 1.835; 22
+Monrovia; Africa Coast to Europe (ACE); 1.835; 22
+Abidjan; Africa Coast to Europe (ACE); 1.835; 22
+Abidjan; MainOne; 7.000; 5
+Abidjan; SAT-3/WASC; 14350; 12
+Abidjan; West African Cable System (WACS); 14530; 13
+Accra; Africa Coast to Europe (ACE); 1.835; 22
+Accra; Glo-1; 9.800; 3
+Accra; MainOne; 7.000; 5
+Accra; SAT-3/WASC; 14350; 12
+Accra; West African Cable System (WACS); 14530; 13
+Lome; West African Cable System (WACS); 14530; 13
+Cotonou; Africa Coast to Europe (ACE); 1.835; 22
+Cotonou;  SAT-3/WASC; 14350; 12
+Lagos; Africa Coast to Europe (ACE); 1.835; 22
+Lagos; Equiano; n.a; 4
+Lagos; Glo-1; 9.800; 3
+Lagos; Glo-2; 850; 3
+Lagos; MainOne; 7.000; 5
+Lagos; Nigeria Cameroon Submarine Cable System (NCSCS); 2
+Lagos; SAT-3/WASC; 14350; 12
+Lagos; West African Cable System (WACS); 14530; 13
+Bonny; Glo-2; 850; 3
+Kwa Ibo; Glo-2; 850; 3
+Malabo; Ceiba-1; 287; 2
+Malabo; Ceiba-2; 290; 3
+Limbe; West African Cable System (WACS); 14530; 13
+Douala; SAT-3/WASC; 14350; 12
+Kribi; Africa Coast to Europe (ACE); 1.835; 22
+Kribi; Ceiba-2; 290; 3
+Kribi; Nigeria Cameroon Submarine Cable System (NCSCS); 2
+Kribi; South Atlantic Inter Link (SAIL); 5.800; 2
+Bata; Africa Coast to Europe (ACE); 1.835; 22
+Bata; Ceiba-1; 287; 2
+Bata; Ceiba-2; 290; 3
+Cabo San Juan; Mandji Fiber Optic Cable; 50; 2
+Corisco; Mandji Fiber Optic Cable; 50; 2
+Libreville; Africa Coast to Europe (ACE); 1.835; 22
+Libreville; Libreville-Port Gentil Cable; 198; 2
+Libreville; SAT-3/WASC; 14350; 12
+Port Gentil; Libreville-Port Gentil Cable; 198; 2
+Pointe-Noire; West African Cable System (WACS); 14530; 13
+Muanda; Africa Coast to Europe (ACE); 1.835; 22
+Muanda; West African Cable System (WACS); 14530; 13
+Cacuaco;  SAT-3/WASC; 14350; 12
+Luanda; Africa Coast to Europe (ACE); 1.835; 22
+Sangano; South Atlantic Cable System (SACS); 6.165; 2
+Sangano; West African Cable System (WACS); 14530; 13
+Swakopmund; Africa Coast to Europe (ACE); 1.835; 22
+Swakopmund; West African Cable System (WACS); 14530; 13
+Yzerfontein; West African Cable System (WACS); 14530; 13
