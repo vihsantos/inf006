@@ -18,6 +18,7 @@ Saint Paul; SAFE; 13500; 6
 Sainte Marie;  Lower Indian Ocean Network (LION); 1.060; 3
 Baie Jacotet; Mauritius and Rodrigues Submarine Cable System (MARS); 677; 2
 Baie Jacotet; SAFE; 13500; 6
+Grand Baie(Rodrigues); Mauritius and Rodrigues Submarine Cable System (MARS); 677; 2
 Le Port; Meltingpot Indianoceanic Submarine System (METISS); 3200; 4
 Baie du Tombeau;  Meltingpot Indianoceanic Submarine System (METISS); 3200; 4
 Terre Rouge; Lower Indian Ocean Network (LION); 1.060; 3
@@ -46,10 +47,10 @@ Mogadishu; Eastern Africa Submarine System (EASSy); 10500; 9
 Mogadishu; PEACE Cable; 15.000; 12 
 Hobyo; PEACE Cable; 15.000; 12 
 Bosaso; Dijibouti Africa Regional Express 1 (DARE1); 4.854; 4
-Bosaso; Gulf2Africa; 1.500; 3 
+Bosaso; Gulf2Africa(G2A); 1.500; 3 
 Bosaso;PEACE Cable; 15.000; 12 
-Berbera; Gulf2Africa; 1.500; 3 
-Dijibouti City; Aden-Dijibouti; 269; 2
+Berbera; Gulf2Africa(G2A); 1.500; 3 
+Dijibouti City; Aden-DijiAbouti; 269; 2
 Dijibouti City; Asia Africa Europe-1 (AAE-1); 25.000; 20
 Dijibouti City; Dijibouti Africa Regional Express 1 (DARE1); 4.854; 4
 Dijibouti City; Eastern Africa Submarine System (EASSy); 10500; 9
@@ -228,3 +229,135 @@ Sangano; West African Cable System (WACS); 14530; 13
 Swakopmund; Africa Coast to Europe (ACE); 1.835; 22
 Swakopmund; West African Cable System (WACS); 14530; 13
 Yzerfontein; West African Cable System (WACS); 14530; 13
+Aden; Aden-Dijibouti; 269; 2
+Aden; Asia Africa Europe-1 (AAE-1); 25.000; 20
+Al Hudaydah; FALCON; 10.300; 16
+Al Hudaydah; SeaMeWe-5; 20.000; 18
+Al Ghaydah; FALCON; 10.300; 16
+Salalah; Gulf2Africa(G2A); 1.500; 3 
+Jeddah; Asia Africa Europe-1 (AAE-1); 25.000; 20
+Jeddah; Europe India Gateway (EIG); 15.000; 12
+Jeddah; FALCON; 10.300; 16
+Jeddah; FLAG Europe-Asia (FEA); 28.000; 16
+Jeddah; IMEWE; 12.091; 9
+Jeddah; Middle East North Africa (MENA) Cable System/Gulf Bridge International; 8.000; 6 
+Jeddah;  SEACOM/Tata TGN-Eurasia; 15000; 8
+Jeddah; Saudi Arabia-Sudan1 (SAS-1); 333; 2
+Jeddah; Saudi Arabia-Sudan2 (SAS-2); 330; 2
+Jeddah; SeaMeWe-3; 39.000; 39
+Jeddah; SeaMeWe-4; 20.000; 16
+Yanbu; SeaMeWe-5; 20.000; 18
+Aqaba; FLAG Europe-Asia (FEA); 28.000; 16
+Aqaba; Taba-Aqaba; 13; 2
+Al Bustan; Asia Africa Europe-1 (AAE-1); 25.000; 20
+Qalhat; SeaMeWe-5; 20.000; 18
+Qalhat; Tata TGN-Gulf; 4.031; 6
+Al Seeb; FALCON; 10.300; 16
+Al Seeb; Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System; n.a; 9
+Al Seeb; Middle East North Africa (MENA) Cable System/Gulf Bridge International; 8.000; 6 
+Al Seeb; Transworld (TW1); 1.300; 3
+Barka; Bay of Bengal Gateway (BBG); 8.100; 6
+Barka; Europe India Gateway (EIG); 15.000; 12
+Barka; OMRAN/EPEG Cable System; 600; 5
+Barka; Pishgaman Oman Iran (POI) Network; 400; 3
+Fujairah; Asia Africa Europe-1 (AAE-1); 25.000; 20
+Fujairah; Bay of Bengal Gateway (BBG); 8.100; 6
+Fujairah; Europe India Gateway (EIG); 15.000; 12
+Fujairah; FLAG Europe-Asia (FEA); 28.000; 16
+Fujairah; Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System; n.a; 9
+Fujairah; IMEWE; 12.091; 9
+Fujairah; Orient Express; 1.300; 3
+Fujairah; SeaMeWe-3; 39.000; 39
+Fujairah; SeaMeWe-4; 20.000; 16
+Fujairah; SeaMeWe-5; 20.000; 18
+Fujairah; Tata TGN-Gulf; 4.031; 6
+Fujairah; The East African Marine System (TEAMS); 4.900; 2
+Fujairah; Transworld (TW1); 1.300; 3
+Fujairah; UAE-Iran; 170; 2
+Diba; OMRAN/EPEG Cable System; 600; 5
+Khasab; FALCON; 10.300; 16
+Khasab; OMRAN/EPEG Cable System; 600; 5
+Dubai; FALCON; 10.300; 16
+Dubai; Fiber Optic Gulf (FOG); 1.300; 4
+Dubai; Tata TGN-Gulf; 4.031; 6
+Abu Dhabi; Qatar-U.A.E. Submarine Cable System; 100; 4
+Das Island; Qatar-U.A.E. Submarine Cable System; 100; 4
+Halul Island; Qatar-U.A.E. Submarine Cable System; 100; 4
+Doha; Asia Africa Europe-1 (AAE-1); 25.000; 20
+Doha; FALCON; 10.300; 16
+Doha; Fiber Optic Gulf (FOG); 1.300; 4
+Doha; Qatar-U.A.E. Submarine Cable System; 100; 4
+Al Daayen; Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System; n.a; 9
+Al Hidd; Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System; n.a; 9
+Manama; FALCON; 10.300; 16
+Manama; Fiber Optic Gulf (FOG); 1.300; 4
+Al Khobar; FALCON; 10.300; 16
+Al Khobar;  Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System; n.a; 9
+Al Khobar; Tata TGN-Gulf; 4.031; 6
+Al Safat; FALCON; 10.300; 16
+Kuwait City; Fiber Optic Gulf (FOG); 1.300; 4
+Kuwait City; Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System; n.a; 9
+Kuwait City; Kuwait-Iran; 380; 4
+Al Faw; FALCON; 10.300; 16
+Al Faw; Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System; n.a; 9
+Soroosh Platform; Kuwait-Iran; 380; 4
+Khark Island; Kuwait-Iran; 380; 4
+Ganaveh; Kuwait-Iran; 380; 4
+Bushehr; Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System; n.a; 9
+Bandar Abbas; FALCON; 10.300; 16
+Jask; OMRAN/EPEG Cable System; 600; 5
+Jask; Pishgaman Oman Iran (POI) Network; 400; 3
+Jask; UAE-Iran; 170; 2
+Chabahar; FALCON; 10.300; 16
+Chabahar; OMRAN/EPEG Cable System; 600; 5
+Chabahar; Pishgaman Oman Iran (POI) Network; 400; 3
+Gwadar; Orient Express; 1.300; 3
+Gwadar; PEACE Cable; 15.000; 12 
+Karachi; Asia Africa Europe-1 (AAE-1); 25.000; 20
+Karachi; IMEWE; 12.091; 9
+Karachi; Orient Express; 1.300; 3
+Karachi; PEACE Cable; 15.000; 12
+Karachi; SeaMeWe-3; 39.000; 39
+Karachi; SeaMeWe-4; 20.000; 16
+Karachi; SeaMeWe-5; 20.000; 18
+Karachi; Transworld (TW1); 1.300; 3
+Mumbai; Asia Africa Europe-1 (AAE-1); 25.000; 20
+Mumbai; Bay of Bengal Gateway (BBG); 8.100; 6 
+Mumbai; Europe India Gateway (EIG); 15.000; 12
+Mumbai; FALCON; 10.300; 16
+Mumbai; FLAG Europe-Asia (FEA); 28.000; 16
+Mumbai; Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System; n.a; 9
+Mumbai; IMEWE; 12.091; 9
+Mumbai; MIST; 11.000; 4
+Mumbai; SEACOM/Tata TGN-Eurasia; 15000; 8
+Mumbai; SeaMeWe-3; 39.000; 39
+Mumbai; SeaMeWe-4; 20.000; 16
+Cochin; SAFE; 13500; 6
+Cochin; SeaMeWe-3; 39.000; 39
+Trivendrum; WARF Submarine Cable; 680; 3
+Kulhudhufushi; Dhiraagu Cable Network; 1.253; 8
+Kulhudhufushi; Nationwide Submarine Cable Ooredoo Maldives (NaSCOM); 1.136; 6
+Eydhafushi; Dhiraagu Cable Network; 1.253; 8
+Eydhafushi; Nationwide Submarine Cable Ooredoo Maldives (NaSCOM); 1.136; 6
+Male; Dhiraagu-SLT Submarine Cable Network; 850; 2
+Male; WARF Submarine Cable; 680; 3
+Hulhumale; Dhiraagu Cable Network; 1.253; 8
+Hulhumale; Maldives Sri Lanka Cable (MSC); n.a; 2
+Hulhumale; Nationwide Submarine Cable Ooredoo Maldives (NaSCOM); 1.136; 6
+Dhangethi; Dhiraagu Cable Network; 1.253; 8
+Kolhufushi; Nationwide Submarine Cable Ooredoo Maldives (NaSCOM); 1.136; 6
+Gan; Dhiraagu Cable Network; 1.253; 8
+Thinadhoo; Nationwide Submarine Cable Ooredoo Maldives (NaSCOM); 1.136; 6
+Gahdhoo; Dhiraagu Cable Network; 1.253; 8
+Fuvahmulah; Dhiraagu Cable Network; 1.253; 8
+Hithadhoo; Dhiraagu Cable Network; 1.253; 8
+Hithadhoo; Nationwide Submarine Cable Ooredoo Maldives (NaSCOM); 1.136; 6
+Tuticorine; Bharat Lanka Cable System; 325; 2
+Colombo; Dhiraagu Cable Network; 1.253; 8 
+Colombo; SeaMeWe-4; 20.000; 16
+Colombo; WARF Submarine Cable; 680; 3
+Mt. Lavinia; Bharat Lanka Cable System; 325; 2
+Mt. Lavinia; Maldives Sri Lanka Cable (MSC); n.a; 2
+Mt. Lavinia; SeaMeWe-3; 39.000; 39
+Ratmalana; Bay of Bengal Gateway (BBG); 8.100; 6 
+Matara; SeaMeWe-5; 20.000; 18 
