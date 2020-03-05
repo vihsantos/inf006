@@ -1,0 +1,24 @@
+Ocho Rios; Santiago de Cuba; 1860 km; 15; 1
+Okha; Ola; 1855 km; 30; 2
+Okha; Ust-Bolsheretsk; 1855 km; 30; 2
+Okinawa; Miyazaki; 10300 km; 175; 7
+Okinawa; Shima; 10300 km; 175; 7
+Okinawa; Chikura; 10300 km; 175; 7
+Okinawa; Ibaraki; 10300 km; 175; 7
+Okinawa; Sendai; 10300 km; 175; 7
+Okinawa; Akita; 10300 km; 175; 7
+Okinawa; Ishikari; 10300 km; 175; 7
+Okinawa; Miyazaki; 0; 15; 1
+Okinawa; Kita-kyushu; 4244 km; 30; 2
+Okinawa; Tumon Bay; 4244 km; 30; 2
+Ola; Okha; 1855 km; 15; 1
+Olbia; Civitavecchia; 634 km; 15; 1
+Ondong Siau; Tahuna; 2100 km; 30; 2
+Ondong Siau; Manado; 2100 km; 30; 2
+Oran; Algiers; 1300 km; 15; 1
+Oran; Valencia; 770 km; 30; 2
+Oran; Algiers; 770 km; 30; 2
+Ormoc; Bogo; 1300 km; 15; 1
+Ormoc; Cebu; 11100 km; 30; 2
+Ormoc; Butuan; 11100 km; 30; 2
+Ormsary; Craighouse; 402 km; 15; 1
