@@ -11,6 +11,27 @@ Okinawa; Ishikari; 10300 km; 175; 7
 Okinawa; Miyazaki; 0; 15; 1
 Okinawa; Kita-kyushu; 4244 km; 30; 2
 Okinawa; Tumon Bay; 4244 km; 30; 2
+Okinawa; Geoje; 39000 km; 1260; 21
+Okinawa; Shanghai; 39000 km; 1260; 21
+Okinawa; Toucheng; 39000 km; 1260; 21
+Okinawa; Fangshan; 39000 km; 1260; 21
+Okinawa; Shantou; 39000 km; 1260; 21
+Okinawa; Deep Water Bay; 39000 km; 1260; 21
+Okinawa; Taipa; 39000 km; 1260; 21
+Okinawa; Batangas; 39000 km; 1260; 21
+Okinawa; Danang; 39000 km; 1260; 21
+Okinawa; Tungku; 39000 km; 1260; 21
+Okinawa; Mersing; 39000 km; 1260; 21
+Okinawa; Tuas; 39000 km; 1260; 21
+Okinawa; Ancol; 39000 km; 1260; 21
+Okinawa; Perth; 39000 km; 1260; 21
+Okinawa; Medan; 39000 km; 1260; 21
+Okinawa; Penang; 39000 km; 1260; 21
+Okinawa; Satun; 39000 km; 1260; 21
+Okinawa; Pyapon; 39000 km; 1260; 21
+Okinawa; Mt. Lavinia; 39000 km; 1260; 21
+Okinawa; Cochin; 39000 km; 1260; 21
+Okinawa; Mumbai; 39000 km; 1260; 21
 Ola; Okha; 1855 km; 15; 1
 Olbia; Civitavecchia; 634 km; 15; 1
 Ondong Siau; Tahuna; 2100 km; 30; 2
@@ -22,3 +43,41 @@ Ormoc; Bogo; 1300 km; 15; 1
 Ormoc; Cebu; 11100 km; 30; 2
 Ormoc; Butuan; 11100 km; 30; 2
 Ormsary; Craighouse; 402 km; 15; 1
+Ostend; Norden; 39000 km; 45; 2
+Ostend; Goonhilly Downs; 39000 km; 45; 2 
+Ostend; Penmarch; 39000 km; 45; 2
+Ostend; Broadstairs; 112 km; 15; 1
+Osterby; Skalvik; 75 km; 15; 1
+Otranto; Aethos; 169 km; 15; 1
+Otter Ferry; Achnaba; 402 km; 15; 1
+Owia; Chateaubelair; 225 km; 15; 1
+Oxford Falls; Tumon Bay; 12700 km; 75; 5
+Oxford Falls; Tanguisson Point; 12700 km; 75; 5
+Oxford Falls; Shima; 12700 km; 75; 5
+Oxford Falls; Maruyama; 12700 km; 75; 5
+Oxford Falls; Paddington; 12700 km; 75; 5
+Oxford Falls; Raglan; 2288 km; 15; 1
+Oxwich Bay; Kilmore Quay; 232 km; 15; 1
+Oxwich Bay; Brean; 97 km; 15; 1
+Øygarden; Kårstø; 1751 km; 75; 5
+Øygarden; Farsund; 1751 km; 75; 5
+Øygarden; Lowestoft; 1751 km; 75; 5
+Øygarden; Aberdeen; 1751 km; 75; 5
+Øygarden; Tjornuvik; 1751 km; 75; 5
+Øysanden; Caithness; 2000 km; 45; 3
+Øysanden; Grindavik; 2000 km; 45; 3
+Øysanden; Kilala; 2000 km; 45; 3
+Ozamiz City; Cagayan de Oro; 11100 km; 30; 2
+Ozamiz City; Bacong; 11100 km; 30; 2
+Pa Li; Tanshui; 36500 km; 45; 3
+Pa Li; Shima; 36500 km; 45; 
+Pa Li; Tseung Kwan O; 36500 km; 45; 3
+Pacific City; Kapolei; 14000 km; 15; 1
+Pacific City; Maruyama; 13618 km; 75; 5
+Pacific City; Busan; 13618 km; 75; 5
+Pacific City; Chongming; 13618 km; 75; 5
+Pacific City; Nanhui; 13618 km; 75; 5
+Pacific City; Toucheng; 13618 km; 75; 5
+Padang; Pekanbaru; 10860 km; 30; 2
+Padang; Sibolga; 10860 km; 30; 2
+
