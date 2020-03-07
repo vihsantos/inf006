@@ -693,3 +693,7 @@ Thisted; Kristiansand; 120 km; 15; 1
 Thorpeness; Zeebrugge; 550 km; 15; 1
 Tiakur; Kokar; 6300 km; 30; 2
 Tiakur; Serwaru; 6300 km; 30; 2
+Tidore; Sofifi; 2100 km; 30; 2
+Tidore; Gerante; 2100 km; 30; 2
+Tijuana;
+Tijuana;
