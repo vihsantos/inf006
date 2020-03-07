@@ -708,3 +708,8 @@ Timika; Tual; 3498 km; 60; 4
 Timika; Fakfak; 3498 km; 60; 4
 Tinian; Saipan; 0 km; 30; 2
 Tinian; Rota; 0 km; 30; 2
+Tinocas; Rota; 1835 km; 60; 4
+Tinocas; Asilah; 1835 km; 60; 4
+Tinocas; Güimar; 1835 km; 60; 4
+Tinocas; Alta Vista; 1835 km; 60; 4
+Tinocas; Granadilla; 1835 km; 60; 4
