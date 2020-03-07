@@ -713,3 +713,10 @@ Tinocas; Asilah; 1835 km; 60; 4
 Tinocas; Güimar; 1835 km; 60; 4
 Tinocas; Alta Vista; 1835 km; 60; 4
 Tinocas; Granadilla; 1835 km; 60; 4
+Tjele; Kristiansand;137 km; 15; 1
+Tjornuvik;
+Tjornuvik;
+Tjornuvik;
+Tjornuvik;
+Tjornuvik;
+Tjornuvik;
