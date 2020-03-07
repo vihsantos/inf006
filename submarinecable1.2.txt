@@ -507,3 +507,142 @@ Helsinki; Tallinn; 250 km; 15; 1
 Helsinki; Tallinn; 98 km; 15; 1
 Helsinki; Meremöisa; 104 km; 15; 1
 
+Taba; Aqaba; 13 km; 15; 1
+Tachognya Beach; Sugar Dock; 276 km; 45; 3
+Tachognya Beach; Sasanlagu; 276 km; 45; 3
+Tachognya Beach; Piti;  276 km; 45; 3
+Tagbilaran; Naga; 1300 km; 15; 1
+Tahuna; Melonguane; 2100 km; 30; 2
+Tahuna; Ondong Siau; 2100 km; 30; 2
+Taipa; Geoje; 39000 km; 585; 13
+Taipa; Shanghai; 39000 km; 585; 13
+Taipa; Okinawa; 39000 km; 585; 13
+Taipa; Toucheng; 39000 km; 585; 13
+Taipa; Fangshan; 39000 km; 585; 13
+Taipa; Shantou; 39000 km; 585; 13
+Taipa; Batangas; 39000 km; 585; 13
+Taipa; Danang; 39000 km; 585; 13
+Taipa; Tungku; 39000 km; 585; 13
+Taipa; Mersing; 39000 km; 585; 13
+Taipa; Ancol; 39000 km; 585; 13
+Taipa; Perth; 39000 km; 585; 13
+Taipa; Tuas; 39000 km; 585; 13
+Takapuna; Spencer Beach; 30500 km; 30; 2
+Takapuna; Alexandria; 30500 km; 30; 2
+Takapuna; Alexandria; 13700 km; 175; 7
+Takapuna; Suva; 13700 km; 175; 7
+Takapuna; Savusavu; 13700 km; 175; 7
+Takapuna; Apia; 13700 km; 175; 7
+Takapuna; Nukunonu; 13700 km; 175; 7
+Takapuna; Kiritimati; 13700 km; 175; 7
+Takapuna; Los Angeles; 13700 km; 175; 7
+Takaroa; Hiva Oa; 2400 km; 250; 10
+Takaroa; Nuku Hiva; 2400 km; 250; 10
+Takaroa; Manihi; 2400 km; 250; 10
+Takaroa; Rangiroa; 2400 km; 250; 10
+Takaroa; Arutua; 2400 km; 250; 10
+Takaroa; Kaukura; 2400 km; 250; 10
+Takaroa; Fakarava; 2400 km; 250; 10
+Takaroa; Makemo; 2400 km; 250; 10
+Takaroa; Hao; 2400 km; 250; 10
+Takaroa; Hitia'a; 2400 km; 250; 10
+Takesung; Ujung Pankah; 543 km; 15; 1
+Talcahuano; Valparaíso; 3500 km; 30; 2
+Talcahuano; Puerto Montt; 3500 km; 30; 2
+Taliabu; Sanana; 2100 km; 30; 2
+Taliabu; Bangga; 2100 km; 30; 2
+Talisay; Leganes; 1300 km; 15; 1
+Tallinn; Helsinki; 1042 km; 30; 2
+Tallinn; Stockholm; 1042 km; 30; 2
+Tallinn; Helsinki; 250 km; 15; 1
+Tallinn; Helsinki; 98 km; 15; 1
+Tallinn; Kärdla; 240 km; 15; 1
+Tanah Merah; Busan; 10400 km; 250; 10
+Tanah Merah; Chongming; 10400 km; 250; 10
+Tanah Merah; Danang; 10400 km; 250; 10
+Tanah Merah; Kuantan; 10400 km; 250; 10
+Tanah Merah; Maruyama; 10400 km; 250; 10
+Tanah Merah; Nanhui; 10400 km; 250; 10
+Tanah Merah; Shima; 10400 km; 250; 10
+Tanah Merah; Songkhla; 10400 km; 250; 10
+Tanah Merah; Toucheng ; 10400 km; 250; 10
+Tanah Merah; Tseung Kwan O; 10400 km; 250; 10
+Tanah Merah; Anyer; 4600 km; 45; 3
+Tanah Merah; Flying Fish Cove; 4600 km; 45; 3
+Tanah Merah; Perth; 4600 km; 45; 3
+Tanah Merah; Batam; 250 km; 30; 2
+Tanah Merah; Mersing; 250 km; 30; 2
+Tanguisson Point; Keawaula; 20000 km; 30; 2 
+Tanguisson Point; La Union; 20000 km; 30; 2 
+Tanguisson Point; Tumon Bay; 12700 km; 75; 5  
+Tanguisson Point; Shima; 12700 km; 75; 5
+Tanguisson Point; Paddington; 12700 km; 75; 5
+Tanguisson Point; Oxford Falls; 12700 km; 75; 5
+Tanguisson Point; Maruyama; 12700 km; 75; 5
+Tanguisson Point; Rota; 0 km; 15; 1
+Tanjung Bemban; Kg Buntai; 762 km; 15; 1
+Tanjung Bemban; Changi North; 1330 km; 45; 3
+Tanjung Bemban; Sungai Kakap; 1330 km; 45; 3
+Tanjung Bemban; Tanjung Pakis; 1330 km; 45; 3
+Tanjung Pakis; Changi North; 1330 km; 45; 3
+Tanjung Pakis; Sungai Kakap; 1330 km; 45; 3
+Tanjung Pakis; Tanjung Bemban; 1330 km; 45; 3
+Tanjung Pakis; Jakarta; 10860 km; 30; 2
+Tanjung Pakis; Tanjung Pandan; 10860 km; 30; 2
+Tanjung Pakis; Cirebon 888 km; 15; 1
+Tanjung Pakis; Mentigi; 342 km; 30; 2
+Tanjung Pakis; Ancol; 342 km; 30; 2
+Tanjung Pandan; Pontianak; 10860 km; 60; 4
+Tanjung Pandan; Tanjung Pakis; 10860 km; 60; 4
+Tanjung Pandan; Jambi; 10860 km; 60; 4
+Tanjung Pandan; Palembang; 10860 km; 60; 4
+Tanjung Pandan; Sungai Kakap; 348 km; 15; 1
+Tanjung Pinang; Rengit; 64 km; 15; 1
+Tanjung Pinggir; Kuala Tungkal; 267 km; 15; 1
+Tanjung Selor; Tarakan; 83 km; 15; 1
+Tanshui; Shantou; 19000 km; 60; 2
+Tanshui; Chikura; 19000 km; 60; 2
+Tanshui; Tseung Kwan O; 36500 km; 60; 4
+Tanshui; Cavite; 36500 km; 60; 4
+Tanshui; Shindu-Ri; 36500 km; 60; 4
+Tanshui; Qingdao; 36500 km; 60; 4
+Tanshui; Bandon; 11629 km; 45; 3
+Tanshui; Chikura; 11629 km; 45; 3
+Tanshui; Shima; 11629 km; 45; 3
+Tanshui; Busan; 10500 km; 250; 10
+Tanshui; Changi South; 10500 km; 250; 10
+Tanshui; Chikura; 10500 km; 250; 10
+Tanshui; Chung Hom Kok; 10500 km; 250; 10
+Tanshui; Fangshan; 10500 km; 250; 10
+Tanshui; Lingang; 10500 km; 250; 10
+Tanshui; Quy Nhon; 10500 km; 250; 10
+Tanshui; Shima; 10500 km; 250; 10
+Tanshui; Songkhla; 10500 km; 250; 10
+Tanshui; Fuzhou; 260 km; 15; 1
+Tanshui; Chongming; 17000 km; 60; 4
+Tanshui; Geoje; 17000 km; 60; 4
+Tanshui; Maruyama; 17000 km; 60; 4
+Tanshui; Nedonna Beach; 17000 km; 60; 4
+Tarahales; Chipiona; 1398 km; 15; 1
+Tarakan; Bali; 5300 km; 225; 9
+Tarakan; Balikpapan; 5300 km; 225; 9
+Tarakan; Batam; 5300 km; 225; 9
+Tarakan; Dumai; 5300 km; 225; 9
+Tarakan; Jakarta; 5300 km; 225; 9
+Tarakan; Madura; 5300 km; 225; 9
+Tarakan; Makassar; 5300 km; 225; 9
+Tarakan; Manado; 5300 km; 225; 9
+Tarakan; Singapore; 5300 km; 225; 9
+Tarakan; Tanjung Selor; 83 km; 15; 1
+Taranaki; Manawatu-Wanganui; 0 km; 30; 2
+Taranaki; Waikato; 0 km; 30; 2
+Taro; Noro; 4700 km; 30; 2
+Taro; Honiara; 4700 km; 30; 2
+Tarrafal—Santiago; Sao Pedro; 0 km; 15; 1
+Tarrafal—Santiago; Sao Pedro; 0 km; 30; 2
+Tarrafal—Santiago; Nova Sintra; 0 km; 30; 2
+Tarrafal—Sao Nicolau; Sao Pedro; 0 km; 30; 2
+Tarrafal—Sao Nicolau; Murdeira; 0 km; 30; 2
+Tartous; Alexandria; 787 km; 15; 1
+Tartous; Trablous; 134 km; 15; 1
+Tartous; Pentaskhinos; 239 km; 15; 1
