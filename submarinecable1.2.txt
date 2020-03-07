@@ -676,3 +676,7 @@ Ternate; Sorong; 3156 km; 175; 7
 Ternate; Sanana; 3156 km; 175; 7
 Ternate; Namlea; 3156 km; 175; 7
 Ternate; Ambon; 3156 km; 175; 7
+Terre Rouge; Sainte Marie; 1060 km; 15; 1
+Terre-de-Haut; 
+Terre-de-Haut; 
+
