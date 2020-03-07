@@ -59,14 +59,14 @@ Oxford Falls; Paddington; 12700 km; 75; 5
 Oxford Falls; Raglan; 2288 km; 15; 1
 Oxwich Bay; Kilmore Quay; 232 km; 15; 1
 Oxwich Bay; Brean; 97 km; 15; 1
-Øygarden; Kårstø; 1751 km; 75; 5
-Øygarden; Farsund; 1751 km; 75; 5
-Øygarden; Lowestoft; 1751 km; 75; 5
-Øygarden; Aberdeen; 1751 km; 75; 5
-Øygarden; Tjornuvik; 1751 km; 75; 5
-Øysanden; Caithness; 2000 km; 45; 3
-Øysanden; Grindavik; 2000 km; 45; 3
-Øysanden; Kilala; 2000 km; 45; 3
+Ã˜ygarden; KÃ¥rstÃ¸; 1751 km; 75; 5
+Ã˜ygarden; Farsund; 1751 km; 75; 5
+Ã˜ygarden; Lowestoft; 1751 km; 75; 5
+Ã˜ygarden; Aberdeen; 1751 km; 75; 5
+Ã˜ygarden; Tjornuvik; 1751 km; 75; 5
+Ã˜ysanden; Caithness; 2000 km; 45; 3
+Ã˜ysanden; Grindavik; 2000 km; 45; 3
+Ã˜ysanden; Kilala; 2000 km; 45; 3
 Ozamiz City; Cagayan de Oro; 11100 km; 30; 2
 Ozamiz City; Bacong; 11100 km; 30; 2
 Pa Li; Tanshui; 36500 km; 45; 3
@@ -99,13 +99,13 @@ El Goro; Douala; 14350 km; 495; 11
 El Goro; Libreville; 14350 km; 495; 11
 El Goro; Cacuaco; 14350 km; 495; 11
 El Goro; Melkbosstrand; 14350 km; 495; 11
-El Médano; Carcavelos; 8500 km; 150; 6
-El Médano; Conil; 8500 km; 150; 6
-El Médano; Dakar; 8500 km; 150; 6
-El Médano; Praia; 8500 km; 150; 6
-El Médano; Fortaleza; 8500 km; 150; 6
-El Médano; Las Toninas; 8500 km; 150; 6
-El Médano; Sardina; 110; 15; 1
+El MÃ©dano; Carcavelos; 8500 km; 150; 6
+El MÃ©dano; Conil; 8500 km; 150; 6
+El MÃ©dano; Dakar; 8500 km; 150; 6
+El MÃ©dano; Praia; 8500 km; 150; 6
+El MÃ©dano; Fortaleza; 8500 km; 150; 6
+El MÃ©dano; Las Toninas; 8500 km; 150; 6
+El MÃ©dano; Sardina; 110; 15; 1
 El Segundo; Toucheng; 12971 km; 60; 4
 El Segundo; Deep Water Bay; 12971 km; 60; 4
 El Segundo; San Fernando City; 12971 km; 60; 4
@@ -118,7 +118,7 @@ Ende; Saraemee; 1318 km; 45; 3
 Ende; Waingapu; 1318 km; 45; 3
 Endrup; Eemshaven; 326 km; 15; 1
 Esbjerg; Newcastle; 700 km; 15; 1
-Estepona; Tétouan; 113 km; 15; 1
+Estepona; TÃ©touan; 113 km; 15; 1
 Estepona; Porthcurno; 28000 km; 30; 2
 Estepona; Palermo; 28000 km; 30; 2
 Eydhafushi; Hulhumale; 1253 km; 30; 2
@@ -164,8 +164,8 @@ Fangshan; Shantou; 39000 km; 150; 6
 Fangshan; Deep Water; 39000 km; 150; 6
 Farosund; Ventspils; 391 km; 30; 2
 Farosund; Stockholm; 391 km; 30; 2
-Farsund; Øygarden; 1751 km; 60; 4
-Farsund; Kårstø; 1751 km; 60; 4
+Farsund; Ã˜ygarden; 1751 km; 60; 4
+Farsund; KÃ¥rstÃ¸; 1751 km; 60; 4
 Farsund; Aberdeen; 1751 km; 60; 4
 Farsund; Lowestoft; 1751 km; 60; 4
 Feolin Ferry; Port Askaig; 402 km; 15; 1
@@ -182,7 +182,7 @@ Flying Fish Cove; Perth; 4600 km; 45; 3
 Fomboni Moheli; Mutsamudu; 0 km; 30; 2
 Fomboni Moheli; 0 km; 30; 2
 Fort Amador; Unqui; 10000 km; 60; 4 
-Fort Amador; Mazatlán; 10000 km; 60; 4
+Fort Amador; MazatlÃ¡n; 10000 km; 60; 4
 Fort Amador; Tijuana; 10000 km; 60; 4
 Fort Amador; Grover Beach; 10000 km; 60; 4
 Fort Amador; Buenaventura; 20000 km; 30; 2 
@@ -205,7 +205,7 @@ Fortaleza; St. Croix; 8373 km; 150; 6
 Fortaleza; Las Toninas; 8500 km; 150; 6
 Fortaleza; Dakar; 8500 km; 150; 6
 Fortaleza; Praia; 8500 km; 150; 6
-Fortaleza; El Médano; 8500 km; 150; 6
+Fortaleza; El MÃ©dano; 8500 km; 150; 6
 Fortaleza; Conil; 8500 km; 150; 6
 Fortaleza; Carcavelos; 8500 km; 150; 6
 Fortaleza; Rio de Janeiro; 11000 km; 45; 3
@@ -326,7 +326,7 @@ Ganavan Bay; Duart Bay; 402 km; 15; 1
 Ganaveh; Khark Island; 380 km; 45; 3
 Ganaveh; Soroosh Platform; 380 km; 45; 3
 Ganaveh; Kuwait City; 380 km; 45; 3
-Gavá; Ses Covetes; 309 km; 15; 1
+GavÃ¡; Ses Covetes; 309 km; 15; 1
 Gedebak Odde; Mielno; 110 km; 15; 1
 Gedser; Markgrafenheide; 0 km; 15; 1
 Gedser; Rostock; 43 km; 15; 1
@@ -380,7 +380,7 @@ Granadilla; San Sebastian de la Gomera; 222 km; 15; 1
 Granadilla; Santa Cruz de La Palma; 1835 km; 150; 6 
 Granadilla; Tinocas; 1835 km; 150; 6 
 Granadilla; Alta Vista; 1835 km; 150; 6 
-Granadilla; Güimar; 1835 km; 150; 6 
+Granadilla; GÃ¼imar; 1835 km; 150; 6 
 Granadilla; Asilah; 1835 km; 150; 6 
 Granadilla; Rota; 1835 km; 150; 6 
 Granadilla; Carcavelos; 17000 km; 45; 3
@@ -395,7 +395,7 @@ Great Nicobar; Kamorta; 2300 km; 15; 1
 Greve de Lecq; Havelet Bay; 64 km; 15; 1
 Greve de Lecq; Saints Bay; 36 km; 15; 1
 Grindavik; Caithness; 2000 km; 45; 3
-Grindavik; Øysanden; 2000 km; 45; 3
+Grindavik; Ã˜ysanden; 2000 km; 45; 3
 Grindavik; Killala; 2000 km; 45; 3
 Groudle Bay; Silecroft Beach; 80 km; 30; 2
 Groudle Bay; Peel; 80 km; 30; 2
@@ -405,16 +405,16 @@ Grover Beach; Chung Hom Kok; 15393 km; 45; 3
 Grover Beach; Cherating; 15393 km; 45; 3
 Grover Beach; Changi North; 15393 km; 45; 3
 Grover Beach; Fort Amador; 10000 km; 60; 4 
-Grover Beach; Mazatlán; 10000 km; 60; 4 
+Grover Beach; MazatlÃ¡n; 10000 km; 60; 4 
 Grover Beach; Tijuana; 10000 km; 60; 4 
 Grover Beach; Unqui; 10000 km; 60; 4 
 Guantanamo Bay; Dania Beach; 1528 km; 15; 1
 Guantanamo Bay; Punta Salina; 1400 km; 15; 1
 Guanyin Mountain; Lake Ci; 21 km; 15; 1
-Güimar; Alta Vista; 1835 km; 60; 4
-Güimar; Granadilla; 1835 km; 60; 4
-Güimar; Asilah; 1835 km; 60; 4
-Güimar; Rota; 1835 km; 60; 4
+GÃ¼imar; Alta Vista; 1835 km; 60; 4
+GÃ¼imar; Granadilla; 1835 km; 60; 4
+GÃ¼imar; Asilah; 1835 km; 60; 4
+GÃ¼imar; Rota; 1835 km; 60; 4
 Guningtou; Lake Ci; 21 km; 30; 2
 Guningtou; Dadeng Island; 21 km; 30; 2
 Gustavia; St. Louis; 0 km; 15; 1
@@ -444,7 +444,7 @@ Half Moon Bay; Puerto Limon; 4400 km; 150; 6
 Half Moon Bay; Maria Chiquita; 4400 km; 150; 6
 Half Moon Bay; Tolu; 4400 km; 150; 6
 Half Moon Bay; Puerto Cortes; 4400 km; 150; 6
-Half Moon Bay; Cancún; 4400 km; 150; 6
+Half Moon Bay; CancÃºn; 4400 km; 150; 6
 Half Moon Bay; Hollywood; 4400 km; 150; 6
 Halifax; Lynn; 12200 km; 60; 4
 Halifax; Coleraine; 12200 km; 60; 4
@@ -489,12 +489,12 @@ Hawksbill; Riding Point; 1100 km; 60; 4
 Hawksbill; Caves Point; 1100 km; 60; 4
 Hawksbill; Spanish River Park; 1100 km; 60; 4
 Hawksbill; Boca Rato; 1100 km; 60; 4
-Helsingborg; Helsingør; 5 km; 15; 1
-Helsingborg; Helsingør; 0 km; 15; 1
-Helsingborg; Helsingør; 5 km; 15; 1
-Helsingør; Helsingborg;  5 km; 15; 1
-Helsingør;  Helsingborg;  0 km; 15; 1
-Helsingør; Helsingborg;  5 km; 15; 1
+Helsingborg; HelsingÃ¸r; 5 km; 15; 1
+Helsingborg; HelsingÃ¸r; 0 km; 15; 1
+Helsingborg; HelsingÃ¸r; 5 km; 15; 1
+HelsingÃ¸r; Helsingborg;  5 km; 15; 1
+HelsingÃ¸r;  Helsingborg;  0 km; 15; 1
+HelsingÃ¸r; Helsingborg;  5 km; 15; 1
 Helsinki; Hanko; 513 km; 15; 1
 Helsinki; Kotka; 280.4 km; 15; 1
 Helsinki; Tallinn; 1042 km; 30; 2
@@ -505,7 +505,7 @@ Helsinki; Kotka; 0 km; 30; 2
 Helsinki; Hanko; 0 km; 30; 2
 Helsinki; Tallinn; 250 km; 15; 1
 Helsinki; Tallinn; 98 km; 15; 1
-Helsinki; Meremöisa; 104 km; 15; 1
+Helsinki; MeremÃ¶isa; 104 km; 15; 1
 
 Taba; Aqaba; 13 km; 15; 1
 Tachognya Beach; Sugar Dock; 276 km; 45; 3
@@ -547,7 +547,7 @@ Takaroa; Makemo; 2400 km; 250; 10
 Takaroa; Hao; 2400 km; 250; 10
 Takaroa; Hitia'a; 2400 km; 250; 10
 Takesung; Ujung Pankah; 543 km; 15; 1
-Talcahuano; Valparaíso; 3500 km; 30; 2
+Talcahuano; ValparaÃ­so; 3500 km; 30; 2
 Talcahuano; Puerto Montt; 3500 km; 30; 2
 Taliabu; Sanana; 2100 km; 30; 2
 Taliabu; Bangga; 2100 km; 30; 2
@@ -556,7 +556,7 @@ Tallinn; Helsinki; 1042 km; 30; 2
 Tallinn; Stockholm; 1042 km; 30; 2
 Tallinn; Helsinki; 250 km; 15; 1
 Tallinn; Helsinki; 98 km; 15; 1
-Tallinn; Kärdla; 240 km; 15; 1
+Tallinn; KÃ¤rdla; 240 km; 15; 1
 Tanah Merah; Busan; 10400 km; 250; 10
 Tanah Merah; Chongming; 10400 km; 250; 10
 Tanah Merah; Danang; 10400 km; 250; 10
@@ -638,11 +638,41 @@ Taranaki; Manawatu-Wanganui; 0 km; 30; 2
 Taranaki; Waikato; 0 km; 30; 2
 Taro; Noro; 4700 km; 30; 2
 Taro; Honiara; 4700 km; 30; 2
-Tarrafal—Santiago; Sao Pedro; 0 km; 15; 1
-Tarrafal—Santiago; Sao Pedro; 0 km; 30; 2
-Tarrafal—Santiago; Nova Sintra; 0 km; 30; 2
-Tarrafal—Sao Nicolau; Sao Pedro; 0 km; 30; 2
-Tarrafal—Sao Nicolau; Murdeira; 0 km; 30; 2
+TarrafalÂ—Santiago; Sao Pedro; 0 km; 15; 1
+TarrafalÂ—Santiago; Sao Pedro; 0 km; 30; 2
+TarrafalÂ—Santiago; Nova Sintra; 0 km; 30; 2
+TarrafalÂ—Sao Nicolau; Sao Pedro; 0 km; 30; 2
+TarrafalÂ—Sao Nicolau; Murdeira; 0 km; 30; 2
 Tartous; Alexandria; 787 km; 15; 1
 Tartous; Trablous; 134 km; 15; 1
 Tartous; Pentaskhinos; 239 km; 15; 1
+Taytay; Coron; 332 km; 30; 2
+Taytay; San Jose; 332 km; 30; 2
+Taytay; Coron; 1300 km; 15; 1
+Taytay; San Jose de Buenavista; 300 km; 15; 1
+Tel Aviv; Bari; 2297 km; 15; 1
+Tel Aviv; Mazzara del Vallo; 2600 km; 30; 2
+Tel Aviv; Yeroskipos; 2600 km; 30; 2
+Tel Aviv; Haifa; 7000 km; 30; 2
+Tel Aviv; Catania; 7000 km; 30; 2
+Telisai; Chikura; 8900 km; 75; 5
+Telisai; Chung Hom Kok; 8900 km; 75; 5
+Telisai; Shantou; 8900 km; 75; 5
+Telisai; Nasugbu; 8900 km; 75; 5
+Telisai; Tuas; 8900 km; 75; 5
+Teluk; Manokwari; 6300 km; 30; 2
+Teluk; Nabire; 6300 km; 30; 2
+Teping Tinggi; Medan; 10860 km; 30; 2
+Teping Tinggi; Rantu Prapat; 10860 km; 30; 2
+Terante; Tidore; 2100 km; 15; 1
+Terempa; Penarik; 950 km; 30; 2
+Terempa; Mersing; 950 km; 30; 2
+Terempa; Natuna; 1980 km; 30; 2
+Terempa; Batam; 1980 km; 30; 2
+Ternate; Sofifi; 3156 km; 175; 7
+Ternate; Manado; 3156 km; 175; 7
+Ternate; Labuha; 3156 km; 175; 7
+Ternate; Sorong; 3156 km; 175; 7
+Ternate; Sanana; 3156 km; 175; 7
+Ternate; Namlea; 3156 km; 175; 7
+Ternate; Ambon; 3156 km; 175; 7
