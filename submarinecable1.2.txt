@@ -695,5 +695,16 @@ Tiakur; Kokar; 6300 km; 30; 2
 Tiakur; Serwaru; 6300 km; 30; 2
 Tidore; Sofifi; 2100 km; 30; 2
 Tidore; Gerante; 2100 km; 30; 2
-Tijuana;
-Tijuana;
+Tijuana; Fort Amador; 10000 km; 60; 4
+Tijuana; Grover Beach; 10000 km; 60; 4
+Tijuana; Mazatlán; 10000 km; 60; 4
+Tijuana; Unqui; 10000 km; 60; 4
+Timika; Agats; 6300 km; 45; 3
+Timika; Nabire; 6300 km; 45; 3
+Timika; Kep. Aru; 6300 km; 45; 3
+Timika; Merauke; 3498 km; 60; 4
+Timika; Kaimana; 3498 km; 60; 4
+Timika; Tual; 3498 km; 60; 4
+Timika; Fakfak; 3498 km; 60; 4
+Tinian; Saipan; 0 km; 30; 2
+Tinian; Rota; 0 km; 30; 2
