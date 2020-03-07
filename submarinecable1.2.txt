@@ -677,6 +677,19 @@ Ternate; Sanana; 3156 km; 175; 7
 Ternate; Namlea; 3156 km; 175; 7
 Ternate; Ambon; 3156 km; 175; 7
 Terre Rouge; Sainte Marie; 1060 km; 15; 1
-Terre-de-Haut; 
-Terre-de-Haut; 
-
+Terre-de-Haut; Beausejour; 118 km; 60; 4
+Terre-de-Haut; Saint-François; 118 km; 60; 4
+Terre-de-Haut; Saint-Louis; 118 km; 60; 4
+Terre-de-Haut; Capesterre-Belle-Eau; 118 km; 60; 4
+Tétouan; Estepona; 113 km; 15; 1
+Tétouan; Sesimbra; 39000 km; 30; 2
+Tétouan; Mazara del Vallo; 39000 km; 30; 2
+Thanlyin; Tuas; 2227 km; 15; 1
+The Valley; Tortola; 1730 km; 30; 2
+The Valley; Saint Maarten; 1730 km; 30; 2
+Thinadhoo; Kolhufushi; 1136 km; 30; 2
+Thinadhoo; Hithadhoo; 1136 km; 30; 2
+Thisted; Kristiansand; 120 km; 15; 1
+Thorpeness; Zeebrugge; 550 km; 15; 1
+Tiakur; Kokar; 6300 km; 30; 2
+Tiakur; Serwaru; 6300 km; 30; 2
