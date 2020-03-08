@@ -727,3 +727,13 @@ To'ahotu; Apia; 3166 km; 75; 5
 Toamasina; Sainte Marie; 1060 km; 15; 1
 Tobelo; Morotai; 2100 km; 15; 1
 Tobermory; Kilchoan Ferry; 420 km; 15; 1
+Toco; Pigeon Point; 48 km; 15; 1
+Toledo; San Carlos; 1300 km; 15; 1
+Toliara; Djibouti City; 10500 km; 200; 8
+Toliara; Dar Es Salaam; 10500 km; 200; 8
+Toliara; Maputo; 10500 km; 200; 8
+Toliara; Mogadishu; 10500 km; 200; 8
+Toliara; Mombasa; 10500 km; 200; 8
+Toliara; Moroni; 10500 km; 200; 8
+Toliara; Mtunzini; 10500 km; 200; 8
+Toliara; Port Sudan; 10500 km; 200; 8
