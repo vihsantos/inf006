@@ -714,9 +714,16 @@ Tinocas; Güimar; 1835 km; 60; 4
 Tinocas; Alta Vista; 1835 km; 60; 4
 Tinocas; Granadilla; 1835 km; 60; 4
 Tjele; Kristiansand;137 km; 15; 1
-Tjornuvik;
-Tjornuvik;
-Tjornuvik;
-Tjornuvik;
-Tjornuvik;
-Tjornuvik;
+Tjornuvik; Vestmannaeyjar; 2500 km; 75; 5
+Tjornuvik; South Arne; 2500 km; 75; 5
+Tjornuvik; Valdemar; 2500 km; 75; 5
+Tjornuvik; Blaabjerg; 2500 km; 75; 5
+Tjornuvik; Sylt; 2500 km; 75; 5
+To'ahotu; Vaitape; 3166 km; 75; 5
+To'ahotu; Rarotonga; 3166 km; 75; 5
+To'ahotu; Aitutaki; 3166 km; 75; 5
+To'ahotu; Alofi; 3166 km; 75; 5
+To'ahotu; Apia; 3166 km; 75; 5
+Toamasina; Sainte Marie; 1060 km; 15; 1
+Tobelo; Morotai; 2100 km; 15; 1
+Tobermory; Kilchoan Ferry; 420 km; 15; 1
