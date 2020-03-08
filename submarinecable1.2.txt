@@ -737,3 +737,42 @@ Toliara; Mombasa; 10500 km; 200; 8
 Toliara; Moroni; 10500 km; 200; 8
 Toliara; Mtunzini; 10500 km; 200; 8
 Toliara; Port Sudan; 10500 km; 200; 8
+Tolmeta; Benghazi; 1639 km; 30; 2
+Tolmeta; Al Bayda; 1639 km; 30; 2
+Tolu; Maria Chiquita; 4400 km; 150; 6
+Tolu; Puerto Limon; 4400 km; 150; 6
+Tolu; Half Moon Bay; 4400 km; 150; 6
+Tolu; Puerto Cortes; 4400 km; 150; 6
+Tolu; Cancún; 4400 km; 150; 6
+Tolu; Hollywood; 4400 km; 150; 6
+Tolu; San Andreas; 826 km; 15; 1
+Tong Fuk; Toucheng; 9504 km; 30; 1
+Tong Fuk; Busan; 9504 km; 30; 1
+Topolobampo; La Paz; 250 km; 15; 1
+Toronto; Buffalo; 59 km; 15; 1
+Toronto; Kingston; 290 km; 15; 1
+Torshavn; BP Clair Ridge; 1000 km; 45; 3
+Torshavn; Glen Lyon; 1000 km; 45; 3
+Torshavn; Maywick; 1000 km; 45; 3
+Tortel; Puerto Montt; 2800 km; 45; 3
+Tortel; Punta Arenas; 2800 km; 45; 3
+Tortel; Puerto Williams; 2800 km; 45; 3
+Tortola; St. David’s; 1600 km; 15; 1
+Tortola; The Valley; 1730 km; 15; 1
+Tortola; San Juan; 6000 km; 30; 2
+Tortola; Jacksonville; 6000 km; 30; 2
+Totness; Chaguaramas; 1249 km; 30; 2
+Totness; Georgetown; 1249 km; 30; 2
+Totness; Georgetown; 775 km; 45; 3
+Totness; Pegwell; 775 km; 45; 3
+Totness; Port Salines; 775 km; 45; 3
+Toucheng; 
+Toucheng;
+Toucheng;
+Toucheng;
+Toucheng;
+Toucheng;
+Toucheng;
+Toucheng;
+Toucheng;
+Toucheng;
