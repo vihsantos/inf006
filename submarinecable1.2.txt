@@ -766,13 +766,28 @@ Totness; Georgetown; 1249 km; 30; 2
 Totness; Georgetown; 775 km; 45; 3
 Totness; Pegwell; 775 km; 45; 3
 Totness; Port Salines; 775 km; 45; 3
-Toucheng; 
-Toucheng;
-Toucheng;
-Toucheng;
-Toucheng;
-Toucheng;
-Toucheng;
-Toucheng;
-Toucheng;
-Toucheng;
+Toucheng; Busan; 10400 km; 250; 10
+Toucheng; Chongming; 10400 km; 250; 10
+Toucheng; Danang; 10400 km; 250; 10
+Toucheng; Kuantan; 10400 km; 250; 10
+Toucheng; Maruyama; 10400 km; 250; 10
+Toucheng; Nanhui; 10400 km; 250; 10
+Toucheng; Shima; 10400 km; 250; 10
+Toucheng; Songkhla; 10400 km; 250; 10
+Toucheng; Tseung Kwan O; 10400 km; 250; 10
+Toucheng; Tanah Merah; 10400 km; 250; 10
+Toucheng; Tong Fuk; 9504 km; 30; 2
+Toucheng; Wada; 9504 km; 30; 2
+Toucheng; Chung Hom Kok; 13780 km; 45; 3
+Toucheng; Hermosa Beach; 13780 km; 45; 3
+Toucheng; Manchester; 13780 km; 45; 3
+Toucheng; Busan; 13618 km; 150; 6
+Toucheng; Chongming; 13618 km; 150; 6
+Toucheng; Lingang; 13618 km; 150; 6
+Toucheng; Maruyama; 13618 km; 150; 6
+Toucheng; Nanhui; 13618 km; 150; 6
+Toucheng; Pacific City; 13618 km; 150; 6
+Toucheng; Baler; 12971 km; 60; 4
+Toucheng; Deep Water Bay; 60; 4
+Toucheng; El Segundo; 60; 4
+Toucheng; San Fernando City; 60; 4
