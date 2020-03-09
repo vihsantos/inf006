@@ -788,6 +788,13 @@ Toucheng; Maruyama; 13618 km; 150; 6
 Toucheng; Nanhui; 13618 km; 150; 6
 Toucheng; Pacific City; 13618 km; 150; 6
 Toucheng; Baler; 12971 km; 60; 4
-Toucheng; Deep Water Bay; 60; 4
-Toucheng; El Segundo; 60; 4
-Toucheng; San Fernando City; 60; 4
+Toucheng; Deep Water Bay; 12971 km; 60; 4
+Toucheng; El Segundo; 12971 km; 60; 4
+Toucheng; San Fernando City; 12971 km; 60; 4
+Toulon; Catania; 20000 km; 45; 3
+Toulon; Marmaris; 20000 km; 45; 3
+Toulon; Abu Talat; 20000 km; 45; 3
+Towale; Sangatta; 281 km; 15; 1
+Toweli; Sangatta; 1700 km; 15; 1
+Toyohashi; Piti; 22300 km; 30; 2
+Toyohashi; Hillsboro; 22300 km; 30; 2
