@@ -1,4 +1,4 @@
-Ocho Rios; Santiago de Cuba; 1860 km; 15; 1
+﻿Ocho Rios; Santiago de Cuba; 1860 km; 15; 1
 Okha; Ola; 1855 km; 30; 2
 Okha; Ust-Bolsheretsk; 1855 km; 30; 2
 Okinawa; Miyazaki; 10300 km; 175; 7
@@ -798,3 +798,46 @@ Towale; Sangatta; 281 km; 15; 1
 Toweli; Sangatta; 1700 km; 15; 1
 Toyohashi; Piti; 22300 km; 30; 2
 Toyohashi; Hillsboro; 22300 km; 30; 2
+Trablous; Tartous; 134 km; 30; 2
+Trablous; Beirut; 134 km; 30; 2
+Trapani; Kelibia; 209 km; 15; 1
+Tripoli; Alexandria; 12091 km; 45; 3 
+Tripoli; Catania; 12091 km; 45; 3
+Tripoli; Marseille; 12091 km; 45; 3
+Tripoli; Monaco; 15000 km; 75; 5
+Tripoli; Gibraltar; 15000 km; 75; 5
+Tripoli; Sesimbra; 15000 km; 75; 5
+Tripoli; Bude; 15000 km; 75; 5
+Tripoli; Abu Talat; 15000 km; 75; 5
+Tripoli; Mazara del Vallo; 570 km; 15; 1
+Tripoli; Zawia; 1639 km; 30; 2
+Tripoli; Al Khums; 1639 km; 30; 2
+Trivendrum; Colombo; 680 km; 30; 2
+Trivendrum; Male; 680 km; 30; 2
+Trondheim; Vassbygda; 750 km; 15; 1
+Trondheim; Rørvik; 1004 km; 15; 1
+Troon; Whitehead; 122 km; 15; 1
+Trujillo; Puerto Lempira; 8600 km; 30; 2
+Trujillo; Puerto Cortes; 8600 km; 30; 2
+Tseung Kwan O; Busan; 10400 km; 250; 10
+Tseung Kwan O; Chongming; 10400 km; 250; 10
+Tseung Kwan O; Danang; 10400 km; 250; 10
+Tseung Kwan O; Kuantan; 10400 km; 250; 10
+Tseung Kwan O; Maruyama; 10400 km; 250; 10
+Tseung Kwan O; Nanhui; 10400 km; 250; 10
+Tseung Kwan O; Shima; 10400 km; 250; 10
+Tseung Kwan O; Songkhla; 10400 km; 250; 10
+Tseung Kwan O; Tanah Merah; 10400 km; 250; 10
+Tseung Kwan O; Toucheng; 10400 km; 250; 10
+Tseung Kwan O; Changi South; 8148 km; 75; 5
+Tseung Kwan O; Daet; 8148 km; 75; 5
+Tseung Kwan O; Komesu; 8148 km; 75; 5
+Tseung Kwan O; Maruyama; 8148 km; 75; 5
+Tseung Kwan O; Mersing; 8148 km; 75; 5
+Tseung Kwan O; 
+Tseung Kwan O; 
+Tseung Kwan O; 
+Tseung Kwan O; 
+Tseung Kwan O; 
+Tseung Kwan O; 
+Tseung Kwan O; 
