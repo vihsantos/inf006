@@ -834,10 +834,69 @@ Tseung Kwan O; Daet; 8148 km; 75; 5
 Tseung Kwan O; Komesu; 8148 km; 75; 5
 Tseung Kwan O; Maruyama; 8148 km; 75; 5
 Tseung Kwan O; Mersing; 8148 km; 75; 5
-Tseung Kwan O; 
-Tseung Kwan O; 
-Tseung Kwan O; 
-Tseung Kwan O; 
-Tseung Kwan O; 
-Tseung Kwan O; 
-Tseung Kwan O; 
+Tseung Kwan O; Fangshan; 36500 km; 150; 6
+Tseung Kwan O; Changi South; 36500 km; 150; 6
+Tseung Kwan O; Pa Li; 36500 km; 150; 6
+Tseung Kwan O; Shindu-Ri; 36500 km; 150; 6
+Tseung Kwan O; Qingdao; 36500 km; 150; 6
+Tseung Kwan O; Shima; 36500 km; 150; 6
+Tseung Kwan O; Piti; 3693 km; 15; 1
+Tual; Kep. Aru; 6300 km; 30; 2
+Tual; Suemlaki; 6300 km; 30; 2
+Tual; Fakfak; 3498 km; 60; 4
+Tual; Kaimana; 3498 km; 60; 4
+Tual; Timika; 3498 km; 60; 4
+Tual; Merauke; 3498 km; 60; 4
+Tuas; Jakarta; 4600 km; 15; 1
+Tuas; Dumai; 5300 km; 225; 9
+Tuas; Batam; 5300 km; 225; 9
+Tuas; Jakarta; 5300 km; 225; 9
+Tuas; Madura; 5300 km; 225; 9
+Tuas; Bali; 5300 km; 225; 9
+Tuas; Makassar; 5300 km; 225; 9
+Tuas; Balikpapan; 5300 km; 225; 9
+Tuas; Manado; 5300 km; 225; 9
+Tuas; Tarakan; 5300 km; 225; 9
+Tuas; Chennai; 11000 km; 45; 3
+Tuas; Mumbai; 11000 km; 45; 3
+Tuas; Ngwe Saung; 11000 km; 45; 3
+Tuas; Mumbai; 39000 km; 175; 7
+Tuas; Cochin; 39000 km; 175; 7
+Tuas; Mt. Lavinia; 39000 km; 175; 7
+Tuas; Pyapon; 39000 km; 175; 7
+Tuas; Satun; 39000 km; 175; 7
+Tuas; Penang; 39000 km; 175; 7
+Tuas; Medan; 39000 km; 175; 7
+Tuas; Melaka; 20000 km; 60; 4
+Tuas; Satun; 20000 km; 60; 4
+Tuas; Cox’s Bazar; 20000 km; 60; 4
+Tuas; Chennai; 20000 km; 60; 4
+Tuas; Melaka; 20000 km; 150; 6
+Tuas; Dumai; 20000 km; 150; 6
+Tuas; Medan; 20000 km; 150; 6
+Tuas; Ngwe Saung; 20000 km; 150; 6
+Tuas; Kuakata; 20000 km; 150; 6
+Tuas; Matara; 20000 km; 150; 6
+Tuas; Thanlyin; 2227 km; 15; 1
+Tuas; Chikura; 8900 km; 75; 5
+Tuas; Chung Hom Kok; 8900 km; 75; 5
+Tuas; Nasugbu; 8900 km; 75; 5
+Tuas; Shantou; 8900 km; 75; 5
+Tuas; Telisai; 8900 km; 75; 5
+Tuas; Chennai; 3200 km; 15; 1
+Tuasivi; Apia; 1693 km; 75; 5
+Tuasivi; Leava; 1693 km; 75; 5
+Tuasivi; Mata-Utu; 1693 km; 75; 5
+Tuasivi; Savusavu; 1693 km; 75; 5
+Tuasivi; Suva; 1693 km; 75; 5
+Tuborg; Barsebäck; 25 km; 15; 1
+Tubruq; Derna; 1639 km; 15; 1
+Tubruq; El-Quawef; 178 km; 15; 1
+Tuckerton; St. David’s; 23500 km; 30; 2
+Tuckerton; Boca Raton; 23500 km; 30; 2
+Tuckerton; Manasquan; 15295 km; 45; 3
+Tuckerton; Bude; 15295 km; 45; 3
+Tuckerton; Blaabjerg; 15295 km; 45; 3
+Tulum; Cancún; 8600 km; 30; 2
+Tulum; Belize City; 8600 km; 30; 2
+
