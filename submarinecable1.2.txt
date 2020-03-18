@@ -899,4 +899,81 @@ Tuckerton; Bude; 15295 km; 45; 3
 Tuckerton; Blaabjerg; 15295 km; 45; 3
 Tulum; Cancún; 8600 km; 30; 2
 Tulum; Belize City; 8600 km; 30; 2
-
+Tumon Bay; Maruyama; 12700 km;  75; 5
+Tumon Bay; Oxford Falls; 12700 km;  75; 5
+Tumon Bay; Paddington; 12700 km;  75; 5
+Tumon Bay; Shima; 12700 km;  75; 5
+Tumon Bay; Tanguisson Point; 12700 km;  75; 5
+Tumon Bay; Kita-kyushu; 4244 km; 30; 2
+Tumon Bay; Okinawa; 4244 km; 30; 2
+Tungku; Lantau Island; 20000 km; 60; 4
+Tungku; Vung Tau; 20000 km; 60; 4
+Tungku; Sriracha; 20000 km; 60; 4
+Tungku; Mersing; 20000 km; 60; 4
+Tungku; Kiamsam; 52 km; 15; 1
+Tungku; Geoje; 39000 km; 630; 14
+Tungku; Shanghai; 39000 km; 630; 14
+Tungku; Okinawa; 39000 km; 630; 14
+Tungku; Toucheng; 39000 km; 630; 14
+Tungku; Fangshan; 39000 km; 630; 14
+Tungku; Shantou; 39000 km; 630; 14
+Tungku; Deep Water Bay; 39000 km; 630; 14
+Tungku; Taipa; 39000 km; 630; 14
+Tungku; Batangas; 39000 km; 630; 14
+Tungku; Danang; 39000 km; 630; 14
+Tungku; Mersing; 39000 km; 630; 14
+Tungku; Ancol; 39000 km; 630; 14
+Tungku; Perth; 39000 km; 630; 14
+Tungku; Tuas; 39000 km; 630; 14
+Turku; Norrtalge; 254 km; 15; 1
+Tuticorine; Mt. Lavinia; 325 km; 15; 1
+Tutuyan; Luwuk; 446 km; 15; 1
+Tyra; Valdemar; 2500 km; 15; 1
+Ujung Pankah; Bawean; 543 km; 30; 2
+Ujung Pankah; Takesung; 543 km; 30; 2
+Ulsteinvik; Ålesund; 750 km; 30; 2
+Ulsteinvik; Måløy; 750 km; 30; 2
+Umag; Mestre; 230 km; 15; 1
+Umbogintwini; Baie du Tombeau; 3200 km; 45; 3
+Umbogintwini; Fort Dauphin; 3200 km; 45; 3
+Umbogintwini; Le Port; 3200 km; 45; 3
+Umeå; Vaasa; 93 km; 15; 1
+Union Island; Bequia; 225 km; 150; 6
+Union Island; Canouan; 225 km; 150; 6
+Union Island; Carriacou; 225 km; 150; 6
+Union Island; Conference; 225 km; 150; 6
+Union Island; Kingstown; 225 km; 150; 6
+Union Island; Mustique; 225 km; 150; 6
+Unqui; Fort Amador; 10000 km; 60; 4
+Unqui; Grover Beach; 10000 km; 60; 4
+Unqui; Mazatlán; 10000 km; 60; 4
+Unqui; Tijuana; 10000 km; 60; 4
+Ust-Bolsheretsk; Okha; 1855 km; 15; 1
+Utqiaġvik; Kotzebue; 1900 km; 75; 5
+Utqiaġvik; Nome; 1900 km; 75; 5
+Utqiaġvik; Point Hope; 1900 km; 75; 5
+Utqiaġvik; Prudhoe Bay; 1900 km; 75; 5
+Utqiaġvik; Wainwright; 1900 km; 75; 5
+Utskarpen; Hemnesberget; 0 km; 30; 2
+Utskarpen; Nesna; 0 km; 30; 2
+Uturoa; Vaitape; 4805 km; 30; 2
+Uturoa; Huahine; 4805 km; 30; 2
+Vaasa; Umeå; 93 km; 15; 1
+Väddö; Mariehamn; 142 km; 15; 1
+Vaitape; Aitutaki; 3166 km; 75; 5
+Vaitape; Alofi; 3166 km; 75; 5
+Vaitape; Apia; 3166 km; 75; 5
+Vaitape; Rarotonga; 3166 km; 75; 5
+Vaitape; To'ahotu; 3166 km; 75; 5
+Vaitape; Uturoa; 4805 km; 15; 1
+Valdemar; Blaabjerg; 2500 km; 150; 6
+Valdemar; South Arn; 2500 km; 150; 6
+Valdemar; Sylt; 2500 km; 2500 km; 150; 6; 150; 6
+Valdemar; Tjornuvik; 2500 km; 150; 6
+Valdemar; Tyra; 2500 km; 150; 6
+Valdemar; Vestmannaeyjar; 2500 km; 150; 6
+Valdez; Whittier; 3751 km; 15; 1
+Valdez; Whittier; 3229 km; 15; 1
+Valencia; Palma; 274 km; 15; 1
+Valencia; Algiers; 770 km; 30; 2
+Valencia; Oran; 770 km; 30; 2
