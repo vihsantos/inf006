@@ -977,3 +977,28 @@ Valdez; Whittier; 3229 km; 15; 1
 Valencia; Palma; 274 km; 15; 1
 Valencia; Algiers; 770 km; 30; 2
 Valencia; Oran; 770 km; 30; 2
+Valparaíso; Arica; 8790 km; 60; 4
+Valparaíso; Lurin; 8790 km; 60; 4
+Valparaíso; Puerto San Jose; 8790 km; 60; 4
+Valparaíso; Salinas; 8790 km; 60; 4
+Valparaíso; Balboa; 10476 km; 30; 2
+Valparaíso; Los Angeles; 10476 km; 30; 2
+Valparaíso; Talcahuano; 3500 km; 15; 1
+Valparaíso; Arica; 25000 km; 15; 1
+Valparaíso; Lurin; 20000 km; 15; 1
+Valverde; San Sebastian de la Gomera; 0 km; 15; 1
+Vanimo; Jayapura; 5457 km; 200; 8
+Vanimo; Wewak; 5457 km; 200; 8
+Vanimo; Lorengau; 5457 km; 200; 8
+Vanimo; Madang; 5457 km; 200; 8
+Vanimo; Kimbe; 5457 km; 200; 8
+Vanimo; Kavieng; 5457 km; 200; 8
+Vanimo; Kokopo; 5457 km; 200; 8
+Vanimo; Arawa; 5457 km; 200; 8
+Varberg; Laeso; 0 km; 15; 1
+Vassbygda; Trondheim; 750 km; 45; 3
+Vassbygda; Brekstad; 750 km; 45; 3
+Vassbygda; Smola; 750 km; 45; 3
+Velas; Graciosa; 1100 km; 30; 2
+Velas; Faial; 1100 km; 30; 2
+Velling; Mosede; 15 km; 15; 1
