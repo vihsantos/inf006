@@ -1002,3 +1002,114 @@ Vassbygda; Smola; 750 km; 45; 3
 Velas; Graciosa; 1100 km; 30; 2
 Velas; Faial; 1100 km; 30; 2
 Velling; Mosede; 15 km; 15; 1
+Ventspils; Nynashamn; 304 km; 15; 1
+Ventspils; Farosund; 391 km; 15; 1
+Vero Beach; Magen’s Bay; 2012 km; 15; 1
+Vero Beach; Eight-Mile Rock; 470 km; 15; 1
+Vestero; Lyngsa; 75 km; 15; 1
+Vestmannaeyjar; Tjornuvik; 2500 km; 75; 5
+Vestmannaeyjar; South Arne; 2500 km; 75; 5
+Vestmannaeyjar; Valdemar; 2500 km; 75; 5
+Vestmannaeyjar; Blaabjerg; 2500 km; 75; 5
+Vestmannaeyjar; Sylt; 2500 km; 75; 5
+Victoria; Zafarana; 15000 km; 225; 9
+Victoria; Djibouti City; 15000 km; 225; 9
+Victoria; Bosaso; 15000 km; 225; 9
+Victoria; Gwadar; 15000 km; 225; 9
+Victoria; Karachi; 15000 km; 225; 9
+Victoria; Hobyo; 15000 km; 225; 9
+Victoria; Mogadishu; 15000 km; 225; 9
+Victoria; Kismayo; 15000 km; 225; 9
+Victoria; Mombasa; 15000 km; 225; 9
+Victoria; Dar Es Salaam; 1930 km; 15; 1
+Vila do Maio; Sal Rei; 0 km; 30; 2
+Vila do Maio; Praia; 0 km; 30; 2
+Vila do Porto; Ponta Delgada; 1100 km; 30; 2
+Vila do Porto; Sao Mateus; 1100 km; 30; 2
+Vila Olga; Banana Bay; 183 km; 60; 4
+Vila Olga; Brewer's Bay; 183 km; 60; 4
+Vila Olga; Flamingo Bay; 183 km; 60; 4
+Vila Olga; Great Bay; 183 km; 60; 4
+Virginia Beach; Fortaleza; 11000 km; 45; 3
+Virginia Beach; Rio de Janeiro; 11000 km; 45; 3
+Virginia Beach; San Juan; 11000 km; 45; 3
+Virginia Beach; Saint-Hilaire-de-Riez; 6400 km; 15; 1
+Virginia Beach; Bilbao; 6605 km; 15; 1
+Vitória; São Mateus; 2543 km; 30; 2
+Vitória; Atafona; 2543 km; 30; 2
+Vung Tau; Songkhla; 25000 km; 45; 3
+Vung Tau; Sihanoukville; 25000 km; 45; 3
+Vung Tau; Cape D’Aguilar; 25000 km; 45; 3
+Vung Tau; La Union; 20000 km; 75; 5
+Vung Tau; Lantau Island; 20000 km; 75; 5
+Vung Tau; Tungku; 20000 km; 75; 5
+Vung Tau; Sriracha; 20000 km; 75; 5
+Vung Tau; Mersing; 20000 km; 75; 5
+Vung Tau; Ballesteros; 6700 km; 45; 3
+Vung Tau; Changi North; 6700 km; 45; 3
+Vung Tau; Deep Water Bay; 6700 km; 45; 3
+Wada; Busan; 9504 km; 30; 2
+Wada; Toucheng; 9504 km; 30; 2
+Waikato; Auckland; 0 km; 30; 2 
+Waikato; Taranaki;; 0 km; 30; 2 
+Waingapu; Ende; 1318 km; 30; 2
+Waingapu; Saraemee; 1318 km; 30; 2
+Waingapu; Seba; 6300 km; 15; 1
+Wainwright; Kotzebue; 1900 km; 75; 5
+Wainwright; Nome; 1900 km; 75; 5
+Wainwright; Point Hope; 1900 km; 75; 5
+Wainwright; Prudhoe Bay; 1900 km; 75; 5
+Wainwright; Utqiaġvik; 1900 km; 75; 5
+Waisai; Sorong; 3498 km; 15; 1
+Wall Township; Blaabjerg; 7200 km; 45; 3
+Wall Township; Kristiansand; 7200 km; 45; 3
+Wall Township; Lecanvey; 7200 km; 45; 3
+Wall Township; Praia Grande; 10800 km; 15; 1
+Wall Township; Highbridge; 13000 km; 15; 1
+Wall Township; Westbury; 60 km; 15; 1
+Warrenton; Seward; 2485 km; 15; 1
+Wawonii; Kendari; 2100 km; 30; 2
+Wawonii; Raha; 2100 km; 30; 2
+Wellington; Marlborough; 0 km; 30; 2
+Wellington; Manawatu-Wanganui; 0 km; 30; 2
+Wenchang; Zhuhai; 780 km; 15; 1
+Weno; Pohnpei; 1200 km; 15; 1
+West Palm Beach; Magen’s Bay; 2068 km; 15; 1
+Westbury; Wall Township; 60 km; 15; 1
+Wewak; Jayapura; 5457 km; 200; 8
+Wewak; Vanimo; 5457 km; 200; 8
+Wewak; Lorengau; 5457 km; 200; 8
+Wewak; Madang; 5457 km; 200; 8
+Wewak; Kimbe; 5457 km; 200; 8
+Wewak; Kavieng; 5457 km; 200; 8
+Wewak; Kokopo; 5457 km; 200; 8
+Wewak; Arawa; 5457 km; 200; 8
+Whenuapai; Alexandria; 30500 km; 15; 1
+Whitehead;  Troon; 122 km; 15; 1
+Whitesands Bay; Beverwijk; 14301 km; 30; 2
+Whitesands Bay; Brookhaven; 14301 km; 30; 2
+Whitesands Bay; Ballygrangans; 495 km; 15; 1
+Whittier; Juneau; 3751 km; 45; 3
+Whittier; Lynnwood; 3751 km; 45; 3
+Whittier; Valdez; 3751 km; 45; 3
+Whittier; Hillsboro; 3229 km; 45; 3
+Whittier; Lena Point; 3229 km; 45; 3
+Whittier; Valdez; 3229 km; 45; 3
+Willemstad; Punto Fijo; 8600 km; 30; 2
+Willemstad; Isla Verde; 8600 km; 30; 2
+Willemstad; Baby Beach; 128 km; 15; 1
+Willemstad; St. Croix; 8373 km; 150; 6
+Willemstad; Camuri; 8373 km; 150; 6
+Willemstad; Cayenne; 8373 km; 150; 6 
+Willemstad; Fortaleza; 8373 km; 150; 6 
+Willemstad; Le Lamentin; 8373 km; 150; 6 
+Willemstad; Port of Spain; 8373 km; 150; 6 
+Willemstad; Kralendijk; 85 km; 15; 1
+Willemstad; Chaguaramas;  987 km; 15; 1
+Willemstad; North Salina; 0 km; 15; 1
+Winterton-on-Sea; Egmond; 208 km; 15; 1
+Wrangell; Petersburg; 626 km; 15; 1
+Wurrumiyanga; Darwin; 2100 km; 30; 2
+Wurrumiyanga; Port Hedland; 2100 km; 30; 2
+Xepenehe; Mouly; 0 km; 30; 2
+Xepenehe; Poindimie; 0 km; 30; 2
