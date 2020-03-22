@@ -14,7 +14,7 @@ Okinawa; Tumon Bay; 4244; 30; 2
 Okinawa; Geoje; 39000; 1260; 21
 Okinawa; Shanghai; 39000; 1260; 21
 Okinawa; Toucheng; 39000; 1260; 21
-Okinawa; Fangshan; 39000 km; 1260; 21
+Okinawa; Fangshan; 39000; 1260; 21
 Okinawa; Shantou; 39000; 1260; 21
 Okinawa; Deep Water Bay; 39000; 1260; 21
 Okinawa; Taipa; 39000; 1260; 21
@@ -138,102 +138,102 @@ Fakarava; Takaroa; 2400; 250; 10
 Fakarava; Manihi; 2400; 250; 10
 Fakarava; Rangiroa; 2400; 250; 10
 Fakarava; Hitia'a; 2400; 250; 10
-Fakfak; Sorong; 3498 km; 75; 5
-Fakfak; Tual; 3498 km; 75; 5
-Fakfak; Kaimana; 3498 km; 75; 5
-Fakfak; Timika; 3498 km; 75; 5
-Fakfak; Merauke; 3498 km; 75; 5
-Fakfak; Bandaneria; 3156 km; 45; 3
-Fakfak; Masohi; 3156 km; 45; 3
-Fakfak; Ambon; 3156 km; 45; 3
-Fangshan; Tseung Kwan O; 36500 km; 15; 1
-Fangshan; Chikura; 10500 km; 225; 9
-Fangshan; Shima; 10500 km; 225; 9
-Fangshan; Busan; 10500 km; 225; 9
-Fangshan; Lingang; 10500 km; 225; 9
-Fangshan; Tanshui; 10500 km; 225; 9
-Fangshan; Chung Hom Kok; 10500 km; 225; 9
-Fangshan; Quy Nhon; 10500 km; 225; 9
-Fangshan; Songkhala; 10500 km; 225; 9
-Fangshan; Changi South; 10500 km; 225; 9
-Fangshan; Geoje; 39000 km; 150; 6
-Fangshan; Shanghai; 39000 km; 150; 6
-Fangshan; Okinawa; 39000 km; 150; 6
-Fangshan; Toucheng; 39000 km; 150; 6
-Fangshan; Shantou; 39000 km; 150; 6
-Fangshan; Deep Water; 39000 km; 150; 6
-Farosund; Ventspils; 391 km; 30; 2
-Farosund; Stockholm; 391 km; 30; 2
-Farsund; Øygarden; 1751 km; 60; 4
-Farsund; Kårstø; 1751 km; 60; 4
-Farsund; Aberdeen; 1751 km; 60; 4
-Farsund; Lowestoft; 1751 km; 60; 4
-Feolin Ferry; Port Askaig; 402 km; 15; 1
-Fish Camp; Nondalton; 0 km; 15; 1
-Flamingo Bay; Banana Bay; 183 km; 45; 3
-Flamingo Bay; Christiansted; 183 km; 45; 3
-Flamingo Bay; Brewer's Bay; 183 km; 45; 3 
-Florence; Homer; 3000 km; 15; 1
-Flores; Corvo; 685 km; 30; 2
-Flores; Faial; 685 km; 30; 2
-Flying Fish Cove; Anyer; 4600 km; 45; 3
-Flying Fish Cove; Tanah Merah; 4600 km; 45; 3
-Flying Fish Cove; Perth; 4600 km; 45; 3
-Fomboni Moheli; Mutsamudu; 0 km; 30; 2
-Fomboni Moheli; 0 km; 30; 2
-Fort Amador; Unqui; 10000 km; 60; 4 
-Fort Amador; Mazatlán; 10000 km; 60; 4
-Fort Amador; Tijuana; 10000 km; 60; 4
-Fort Amador; Grover Beach; 10000 km; 60; 4
-Fort Amador; Buenaventura; 20000 km; 30; 2 
-Fort Amador; Lurin; 20000 km; 30; 2
-Fort Dauphin; Baie du Tombeau; 3200 km; 45; 3
-Fort Dauphin; Le Port; 3200 km; 45; 3
-Fort Dauphin; Umbogintwini; 3200 km; 45; 3
-Fortaleza; Salvador; 17800 km; 150; 6
-Fortaleza; Rio de Janeiro; 17800 km; 150; 6
-Fortaleza; San Juan; 17800 km; 150; 6
-Fortaleza; Jacksonville; 17800 km; 150; 6
-Fortaleza; Puerto Plata; 17800 km; 150; 6
-Fortaleza; Barranquilla; 17800 km; 150; 6
-Fortaleza; Cayenne; 8373 km; 150; 6
-Fortaleza; Port of Spain; 8373 km; 150; 6
-Fortaleza; Camuri; 8373 km; 150; 6
-Fortaleza; Willemstad; 8373 km; 150; 6
-Fortaleza; Le Lamentin; 8373 km; 150; 6
-Fortaleza; St. Croix; 8373 km; 150; 6
-Fortaleza; Las Toninas; 8500 km; 150; 6
-Fortaleza; Dakar; 8500 km; 150; 6
-Fortaleza; Praia; 8500 km; 150; 6
-Fortaleza; El Médano; 8500 km; 150; 6
-Fortaleza; Conil; 8500 km; 150; 6
-Fortaleza; Carcavelos; 8500 km; 150; 6
-Fortaleza; Rio de Janeiro; 11000 km; 45; 3
-Fortaleza; San Juan; 11000 km; 45; 3
-Fortaleza; Virginia Beach; 11000 km; 45; 3
-Fortaleza; Praia Grande; 6200 km; 75; 5
-Fortaleza; Kourou; 6200 km; 75; 5
-Fortaleza; Praia; 6200 km; 75; 5
-Fortaleza; Funchal; 6200 km; 75; 5
-Fortaleza; Sines; 6200 km; 75; 5
-Fortaleza;	Rio de Janeiro; 23500 km; 45; 3
-Fortaleza; Maiquetia; 23500 km; 45; 3
-Fortaleza; St. David's; 23500 km; 45; 3
-Fortaleza; Santos; 10556 km; 30; 2
-Fortaleza; Boca Raton; 10556 km; 30; 2
-Fortaleza; Salvador; 25000 km; 60; 4
-Fortaleza; Rio de Janeiro; 25000 km; 60; 4
-Fortaleza; Santos; 25000 km; 60; 4
-Fortaleza; San Juan; 25000 km; 60; 4
-Fortaleza; Rio de Janeiro; 20000 km; 30; 2
-Fortaleza; St. Croix; 20000 km; 30; 2
-Fortaleza; Sangano; 6165 km; 15; 1
-Fortaleza; Kribi; 5800 km; 15; 1
-Fortune; Miquelon-Langlade; 200 km; 15; 1
-Four Mile Bluff; McGaurans Beach; 298 km; 15; 1
-Frederiksted; Humacao; 670 km; 15; 1
-Frederiksted; Christiansted; 183 km; 30; 2
-Frederiksted; Brewer's Bay; 183 km; 30; 2
+Fakfak; Sorong; 3498; 75; 5
+Fakfak; Tual; 3498; 75; 5
+Fakfak; Kaimana; 3498; 75; 5
+Fakfak; Timika; 3498; 75; 5
+Fakfak; Merauke; 3498; 75; 5
+Fakfak; Bandaneria; 3156; 45; 3
+Fakfak; Masohi; 3156; 45; 3
+Fakfak; Ambon; 3156; 45; 3
+Fangshan; Tseung Kwan O; 36500; 15; 1
+Fangshan; Chikura; 10500; 225; 9
+Fangshan; Shima; 10500; 225; 9
+Fangshan; Busan; 10500; 225; 9
+Fangshan; Lingang; 10500; 225; 9
+Fangshan; Tanshui; 10500; 225; 9
+Fangshan; Chung Hom Kok; 10500; 225; 9
+Fangshan; Quy Nhon; 10500; 225; 9
+Fangshan; Songkhala; 10500; 225; 9
+Fangshan; Changi South; 10500; 225; 9
+Fangshan; Geoje; 39000; 150; 6
+Fangshan; Shanghai; 39000; 150; 6
+Fangshan; Okinawa; 39000; 150; 6
+Fangshan; Toucheng; 39000; 150; 6
+Fangshan; Shantou; 39000; 150; 6
+Fangshan; Deep Water; 39000; 150; 6
+Farosund; Ventspils; 391; 30; 2
+Farosund; Stockholm; 391; 30; 2
+Farsund; Øygarden; 1751; 60; 4
+Farsund; Kårstø; 1751; 60; 4
+Farsund; Aberdeen; 1751; 60; 4
+Farsund; Lowestoft; 1751; 60; 4
+Feolin Ferry; Port Askaig; 402; 15; 1
+Fish Camp; Nondalton; 0; 15; 1
+Flamingo Bay; Banana Bay; 183; 45; 3
+Flamingo Bay; Christiansted; 183; 45; 3
+Flamingo Bay; Brewer's Bay; 183; 45; 3 
+Florence; Homer; 3000; 15; 1
+Flores; Corvo; 685; 30; 2
+Flores; Faial; 685; 30; 2
+Flying Fish Cove; Anyer; 4600; 45; 3
+Flying Fish Cove; Tanah Merah; 4600; 45; 3
+Flying Fish Cove; Perth; 4600; 45; 3
+Fomboni Moheli; Mutsamudu; 0; 30; 2
+Fomboni Moheli; 0; 30; 2
+Fort Amador; Unqui; 10000; 60; 4 
+Fort Amador; Mazatlán; 10000; 60; 4
+Fort Amador; Tijuana; 10000; 60; 4
+Fort Amador; Grover Beach; 10000; 60; 4
+Fort Amador; Buenaventura; 20000; 30; 2 
+Fort Amador; Lurin; 20000; 30; 2
+Fort Dauphin; Baie du Tombeau; 3200; 45; 3
+Fort Dauphin; Le Port; 3200; 45; 3
+Fort Dauphin; Umbogintwini; 3200; 45; 3
+Fortaleza; Salvador; 17800; 150; 6
+Fortaleza; Rio de Janeiro; 17800; 150; 6
+Fortaleza; San Juan; 17800; 150; 6
+Fortaleza; Jacksonville; 17800; 150; 6
+Fortaleza; Puerto Plata; 17800; 150; 6
+Fortaleza; Barranquilla; 17800; 150; 6
+Fortaleza; Cayenne; 8373; 150; 6
+Fortaleza; Port of Spain; 8373; 150; 6
+Fortaleza; Camuri; 8373; 150; 6
+Fortaleza; Willemstad; 8373; 150; 6
+Fortaleza; Le Lamentin; 8373; 150; 6
+Fortaleza; St. Croix; 8373; 150; 6
+Fortaleza; Las Toninas; 8500; 150; 6
+Fortaleza; Dakar; 8500; 150; 6
+Fortaleza; Praia; 8500; 150; 6
+Fortaleza; El Médano; 8500; 150; 6
+Fortaleza; Conil; 8500; 150; 6
+Fortaleza; Carcavelos; 8500; 150; 6
+Fortaleza; Rio de Janeiro; 11000; 45; 3
+Fortaleza; San Juan; 11000; 45; 3
+Fortaleza; Virginia Beach; 11000; 45; 3
+Fortaleza; Praia Grande; 6200; 75; 5
+Fortaleza; Kourou; 6200; 75; 5
+Fortaleza; Praia; 6200; 75; 5
+Fortaleza; Funchal; 6200; 75; 5
+Fortaleza; Sines; 6200; 75; 5
+Fortaleza; Rio de Janeiro; 23500; 45; 3
+Fortaleza; Maiquetia; 23500; 45; 3
+Fortaleza; St. David's; 23500; 45; 3
+Fortaleza; Santos; 10556; 30; 2
+Fortaleza; Boca Raton; 10556; 30; 2
+Fortaleza; Salvador; 25000; 60; 4
+Fortaleza; Rio de Janeiro; 25000; 60; 4
+Fortaleza; Santos; 25000; 60; 4
+Fortaleza; San Juan; 25000; 60; 4
+Fortaleza; Rio de Janeiro; 20000; 30; 2
+Fortaleza; St. Croix; 20000; 30; 2
+Fortaleza; Sangano; 6165; 15; 1
+Fortaleza; Kribi; 5800; 15; 1
+Fortune; Miquelon-Langlade; 200; 15; 1
+Four Mile Bluff; McGaurans Beach; 298; 15; 1
+Frederiksted; Humacao; 670; 15; 1
+Frederiksted; Christiansted; 183; 30; 2
+Frederiksted; Brewer's Bay; 183; 30; 2
 Freetown; Conakry; 17000 km; 150; 6
 Freetown; Suro; 17000 km; 150; 6
 Freetown; Banjul; 17000 km; 150; 6
