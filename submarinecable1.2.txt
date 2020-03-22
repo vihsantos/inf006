@@ -1,143 +1,143 @@
-﻿Ocho Rios; Santiago de Cuba; 1860 km; 15; 1
-Okha; Ola; 1855 km; 30; 2
-Okha; Ust-Bolsheretsk; 1855 km; 30; 2
-Okinawa; Miyazaki; 10300 km; 175; 7
-Okinawa; Shima; 10300 km; 175; 7
-Okinawa; Chikura; 10300 km; 175; 7
-Okinawa; Ibaraki; 10300 km; 175; 7
-Okinawa; Sendai; 10300 km; 175; 7
-Okinawa; Akita; 10300 km; 175; 7
-Okinawa; Ishikari; 10300 km; 175; 7
+﻿Ocho Rios; Santiago de Cuba; 1860; 15; 1
+Okha; Ola; 1855; 30; 2
+Okha; Ust-Bolsheretsk; 1855; 30; 2
+Okinawa; Miyazaki; 10300; 175; 7
+Okinawa; Shima; 10300; 175; 7
+Okinawa; Chikura; 10300; 175; 7
+Okinawa; Ibaraki; 10300; 175; 7
+Okinawa; Sendai; 10300; 175; 7
+Okinawa; Akita; 10300; 175; 7
+Okinawa; Ishikari; 10300; 175; 7
 Okinawa; Miyazaki; 0; 15; 1
-Okinawa; Kita-kyushu; 4244 km; 30; 2
-Okinawa; Tumon Bay; 4244 km; 30; 2
-Okinawa; Geoje; 39000 km; 1260; 21
-Okinawa; Shanghai; 39000 km; 1260; 21
-Okinawa; Toucheng; 39000 km; 1260; 21
+Okinawa; Kita-kyushu; 4244; 30; 2
+Okinawa; Tumon Bay; 4244; 30; 2
+Okinawa; Geoje; 39000; 1260; 21
+Okinawa; Shanghai; 39000; 1260; 21
+Okinawa; Toucheng; 39000; 1260; 21
 Okinawa; Fangshan; 39000 km; 1260; 21
-Okinawa; Shantou; 39000 km; 1260; 21
-Okinawa; Deep Water Bay; 39000 km; 1260; 21
-Okinawa; Taipa; 39000 km; 1260; 21
-Okinawa; Batangas; 39000 km; 1260; 21
-Okinawa; Danang; 39000 km; 1260; 21
-Okinawa; Tungku; 39000 km; 1260; 21
-Okinawa; Mersing; 39000 km; 1260; 21
-Okinawa; Tuas; 39000 km; 1260; 21
-Okinawa; Ancol; 39000 km; 1260; 21
-Okinawa; Perth; 39000 km; 1260; 21
-Okinawa; Medan; 39000 km; 1260; 21
-Okinawa; Penang; 39000 km; 1260; 21
-Okinawa; Satun; 39000 km; 1260; 21
-Okinawa; Pyapon; 39000 km; 1260; 21
-Okinawa; Mt. Lavinia; 39000 km; 1260; 21
-Okinawa; Cochin; 39000 km; 1260; 21
-Okinawa; Mumbai; 39000 km; 1260; 21
-Ola; Okha; 1855 km; 15; 1
-Olbia; Civitavecchia; 634 km; 15; 1
-Ondong Siau; Tahuna; 2100 km; 30; 2
-Ondong Siau; Manado; 2100 km; 30; 2
-Oran; Algiers; 1300 km; 15; 1
-Oran; Valencia; 770 km; 30; 2
-Oran; Algiers; 770 km; 30; 2
-Ormoc; Bogo; 1300 km; 15; 1
-Ormoc; Cebu; 11100 km; 30; 2
-Ormoc; Butuan; 11100 km; 30; 2
-Ormsary; Craighouse; 402 km; 15; 1
-Ostend; Norden; 39000 km; 45; 2
-Ostend; Goonhilly Downs; 39000 km; 45; 2 
-Ostend; Penmarch; 39000 km; 45; 2
-Ostend; Broadstairs; 112 km; 15; 1
-Osterby; Skalvik; 75 km; 15; 1
-Otranto; Aethos; 169 km; 15; 1
-Otter Ferry; Achnaba; 402 km; 15; 1
-Owia; Chateaubelair; 225 km; 15; 1
-Oxford Falls; Tumon Bay; 12700 km; 75; 5
-Oxford Falls; Tanguisson Point; 12700 km; 75; 5
-Oxford Falls; Shima; 12700 km; 75; 5
-Oxford Falls; Maruyama; 12700 km; 75; 5
-Oxford Falls; Paddington; 12700 km; 75; 5
-Oxford Falls; Raglan; 2288 km; 15; 1
-Oxwich Bay; Kilmore Quay; 232 km; 15; 1
-Oxwich Bay; Brean; 97 km; 15; 1
-Øygarden; Kårstø; 1751 km; 75; 5
-Øygarden; Farsund; 1751 km; 75; 5
-Øygarden; Lowestoft; 1751 km; 75; 5
-Øygarden; Aberdeen; 1751 km; 75; 5
-Øygarden; Tjornuvik; 1751 km; 75; 5
-Øysanden; Caithness; 2000 km; 45; 3
-Øysanden; Grindavik; 2000 km; 45; 3
-Øysanden; Kilala; 2000 km; 45; 3
-Ozamiz City; Cagayan de Oro; 11100 km; 30; 2
-Ozamiz City; Bacong; 11100 km; 30; 2
-Pa Li; Tanshui; 36500 km; 45; 3
-Pa Li; Shima; 36500 km; 45; 
-Pa Li; Tseung Kwan O; 36500 km; 45; 3
-Pacific City; Kapolei; 14000 km; 15; 1
-Pacific City; Maruyama; 13618 km; 75; 5
-Pacific City; Busan; 13618 km; 75; 5
-Pacific City; Chongming; 13618 km; 75; 5
-Pacific City; Nanhui; 13618 km; 75; 5
-Pacific City; Toucheng; 13618 km; 75; 5
-Padang; Pekanbaru; 10860 km; 30; 2
-Padang; Sibolga; 10860 km; 30; 2
+Okinawa; Shantou; 39000; 1260; 21
+Okinawa; Deep Water Bay; 39000; 1260; 21
+Okinawa; Taipa; 39000; 1260; 21
+Okinawa; Batangas; 39000; 1260; 21
+Okinawa; Danang; 39000; 1260; 21
+Okinawa; Tungku; 39000; 1260; 21
+Okinawa; Mersing; 39000; 1260; 21
+Okinawa; Tuas; 39000; 1260; 21
+Okinawa; Ancol; 39000; 1260; 21
+Okinawa; Perth; 39000; 1260; 21
+Okinawa; Medan; 39000; 1260; 21
+Okinawa; Penang; 39000; 1260; 21
+Okinawa; Satun; 39000; 1260; 21
+Okinawa; Pyapon; 39000; 1260; 21
+Okinawa; Mt. Lavinia; 39000; 1260; 21
+Okinawa; Cochin; 39000; 1260; 21
+Okinawa; Mumbai; 39000; 1260; 21
+Ola; Okha; 1855; 15; 1
+Olbia; Civitavecchia; 634; 15; 1
+Ondong Siau; Tahuna; 2100; 30; 2
+Ondong Siau; Manado; 2100; 30; 2
+Oran; Algiers; 1300; 15; 1
+Oran; Valencia; 770; 30; 2
+Oran; Algiers; 770; 30; 2
+Ormoc; Bogo; 1300; 15; 1
+Ormoc; Cebu; 11100; 30; 2
+Ormoc; Butuan; 11100; 30; 2
+Ormsary; Craighouse; 402; 15; 1
+Ostend; Norden; 39000; 45; 2
+Ostend; Goonhilly Downs; 39000; 45; 2 
+Ostend; Penmarch; 39000; 45; 2
+Ostend; Broadstairs; 112; 15; 1
+Osterby; Skalvik; 75; 15; 1
+Otranto; Aethos; 169; 15; 1
+Otter Ferry; Achnaba; 402; 15; 1
+Owia; Chateaubelair; 225; 15; 1
+Oxford Falls; Tumon Bay; 12700; 75; 5
+Oxford Falls; Tanguisson Point; 12700; 75; 5
+Oxford Falls; Shima; 12700; 75; 5
+Oxford Falls; Maruyama; 12700; 75; 5
+Oxford Falls; Paddington; 12700; 75; 5
+Oxford Falls; Raglan; 2288; 15; 1
+Oxwich Bay; Kilmore Quay; 232; 15; 1
+Oxwich Bay; Brean; 97; 15; 1
+Øygarden; Kårstø; 1751; 75; 5
+Øygarden; Farsund; 1751; 75; 5
+Øygarden; Lowestoft; 1751; 75; 5
+Øygarden; Aberdeen; 1751; 75; 5
+Øygarden; Tjornuvik; 1751; 75; 5
+Øysanden; Caithness; 2000; 45; 3
+Øysanden; Grindavik; 2000; 45; 3
+Øysanden; Kilala; 2000; 45; 3
+Ozamiz City; Cagayan de Oro; 11100; 30; 2
+Ozamiz City; Bacong; 11100; 30; 2
+Pa Li; Tanshui; 36500; 45; 3
+Pa Li; Shima; 36500; 45; 
+Pa Li; Tseung Kwan O; 36500; 45; 3
+Pacific City; Kapolei; 14000; 15; 1
+Pacific City; Maruyama; 13618; 75; 5
+Pacific City; Busan; 13618; 75; 5
+Pacific City; Chongming; 13618; 75; 5
+Pacific City; Nanhui; 13618; 75; 5
+Pacific City; Toucheng; 13618; 75; 5
+Padang; Pekanbaru; 10860; 30; 2
+Padang; Sibolga; 10860; 30; 2
 
 
-Eemshaven; Endrup; 326 km; 15; 1
-Egmond; Winterton-on-Sea;  208 km; 15; 1
-Eight-Mile Rock; Vero Beach; 470 km; 30; 2
-Eight-Mile Rock; Nassau; 470 km; 30; 2
-El Djamila; Ses Covetes; 312 km; 15; 1
-El Goro; Candelaria; 110 km; 15; 1
-El Goro; Sesimbra; 14350 km; 495; 11
-El Goro; Chipiona; 14350 km; 495; 11
-El Goro; Dakar; 14350 km; 495; 11
-El Goro; Abidjan; 14350 km; 495; 11
-El Goro; Accra; 14350 km; 495; 11
-El Goro; Cotonou; 14350 km; 495; 11
-El Goro; Lagos; 14350 km; 495; 11
-El Goro; Douala; 14350 km; 495; 11
-El Goro; Libreville; 14350 km; 495; 11
-El Goro; Cacuaco; 14350 km; 495; 11
-El Goro; Melkbosstrand; 14350 km; 495; 11
-El Médano; Carcavelos; 8500 km; 150; 6
-El Médano; Conil; 8500 km; 150; 6
-El Médano; Dakar; 8500 km; 150; 6
-El Médano; Praia; 8500 km; 150; 6
-El Médano; Fortaleza; 8500 km; 150; 6
-El Médano; Las Toninas; 8500 km; 150; 6
+Eemshaven; Endrup; 326; 15; 1
+Egmond; Winterton-on-Sea;  208; 15; 1
+Eight-Mile Rock; Vero Beach; 470; 30; 2
+Eight-Mile Rock; Nassau; 470; 30; 2
+El Djamila; Ses Covetes; 312; 15; 1
+El Goro; Candelaria; 110; 15; 1
+El Goro; Sesimbra; 14350; 495; 11
+El Goro; Chipiona; 14350; 495; 11
+El Goro; Dakar; 14350; 495; 11
+El Goro; Abidjan; 14350; 495; 11
+El Goro; Accra; 14350; 495; 11
+El Goro; Cotonou; 14350; 495; 11
+El Goro; Lagos; 14350; 495; 11
+El Goro; Douala; 14350; 495; 11
+El Goro; Libreville; 14350; 495; 11
+El Goro; Cacuaco; 14350; 495; 11
+El Goro; Melkbosstrand; 14350; 495; 11
+El Médano; Carcavelos; 8500; 150; 6
+El Médano; Conil; 8500; 150; 6
+El Médano; Dakar; 8500; 150; 6
+El Médano; Praia; 8500; 150; 6
+El Médano; Fortaleza; 8500; 150; 6
+El Médano; Las Toninas; 8500; 150; 6
 El Médano; Sardina; 110; 15; 1
-El Segundo; Toucheng; 12971 km; 60; 4
-El Segundo; Deep Water Bay; 12971 km; 60; 4
-El Segundo; San Fernando City; 12971 km; 60; 4
-El Segundo; Baler; 12971 km; 60; 4
-El-Quawef; Tubruq; 178 km; 15; 1
-Ela Beach; Sydney; 1800 km; 15; 1
-Emi; Hillsboro; 22300 km; 15; 1
-Ende; Kupang; 1318 km; 45; 3
-Ende; Saraemee; 1318 km; 45; 3
-Ende; Waingapu; 1318 km; 45; 3
-Endrup; Eemshaven; 326 km; 15; 1
-Esbjerg; Newcastle; 700 km; 15; 1
-Estepona; Tétouan; 113 km; 15; 1
-Estepona; Porthcurno; 28000 km; 30; 2
-Estepona; Palermo; 28000 km; 30; 2
-Eydhafushi; Hulhumale; 1253 km; 30; 2
-Eydhafushi; Kulhudhufushi; 1253 km; 30; 2
-Eydhafushi; Hulhumale; 1136 km; 30; 2
-Eydhafushi; Kulhudhufushi; 1136 km; 30; 2
-Faial; Flores; 685 km; 15; 1
-Faial; Sao Mateus; 1100 km; 30; 2
-Faial; Velas; 1100 km; 30; 2
-Fakarava; Hao; 2400 km; 250; 10
-Fakarava; Makemo; 2400 km; 250; 10 
-Fakarava; Arutua; 2400 km; 250; 10 
-Fakarava; Kaukura; 2400 km; 250; 10
-Fakarava; Hiva Oa; 2400 km; 250; 10
-Fakarava; Nuku Hiva; 2400 km; 250; 10
-Fakarava; Takaroa; 2400 km; 250; 10
-Fakarava; Manihi; 2400 km; 250; 10
-Fakarava; Rangiroa; 2400 km; 250; 10
-Fakarava; Hitia'a; 2400 km; 250; 10
+El Segundo; Toucheng; 12971; 60; 4
+El Segundo; Deep Water Bay; 12971; 60; 4
+El Segundo; San Fernando City; 12971; 60; 4
+El Segundo; Baler; 12971; 60; 4
+El-Quawef; Tubruq; 178; 15; 1
+Ela Beach; Sydney; 1800; 15; 1
+Emi; Hillsboro; 22300; 15; 1
+Ende; Kupang; 1318; 45; 3
+Ende; Saraemee; 1318; 45; 3
+Ende; Waingapu; 1318; 45; 3
+Endrup; Eemshaven; 326; 15; 1
+Esbjerg; Newcastle; 700; 15; 1
+Estepona; Tétouan; 113; 15; 1
+Estepona; Porthcurno; 28000; 30; 2
+Estepona; Palermo; 28000; 30; 2
+Eydhafushi; Hulhumale; 1253; 30; 2
+Eydhafushi; Kulhudhufushi; 1253; 30; 2
+Eydhafushi; Hulhumale; 1136; 30; 2
+Eydhafushi; Kulhudhufushi; 1136; 30; 2
+Faial; Flores; 685; 15; 1
+Faial; Sao Mateus; 1100; 30; 2
+Faial; Velas; 1100; 30; 2
+Fakarava; Hao; 2400; 250; 10
+Fakarava; Makemo; 2400; 250; 10 
+Fakarava; Arutua; 2400; 250; 10 
+Fakarava; Kaukura; 2400; 250; 10
+Fakarava; Hiva Oa; 2400; 250; 10
+Fakarava; Nuku Hiva; 2400; 250; 10
+Fakarava; Takaroa; 2400; 250; 10
+Fakarava; Manihi; 2400; 250; 10
+Fakarava; Rangiroa; 2400; 250; 10
+Fakarava; Hitia'a; 2400; 250; 10
 Fakfak; Sorong; 3498 km; 75; 5
 Fakfak; Tual; 3498 km; 75; 5
 Fakfak; Kaimana; 3498 km; 75; 5
