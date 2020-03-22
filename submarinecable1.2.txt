@@ -234,193 +234,193 @@ Four Mile Bluff; McGaurans Beach; 298; 15; 1
 Frederiksted; Humacao; 670; 15; 1
 Frederiksted; Christiansted; 183; 30; 2
 Frederiksted; Brewer's Bay; 183; 30; 2
-Freetown; Conakry; 17000 km; 150; 6
-Freetown; Suro; 17000 km; 150; 6
-Freetown; Banjul; 17000 km; 150; 6
-Freetown; Dakar; 17000 km; 150; 6
-Freetown; Monrovia; 17000 km; 150; 6
-Freetown; Abidjan; 17000 km; 150; 6
-Fresh Creek; Nassau; 2817 km; 15; 1
-Fujairah; Doha; 25000 km; 495; 11
-Fujairah; Al Bustan; 25000 km; 495; 11
-Fujairah; Karachi; 25000 km; 495; 11
-Fujairah; Aden; 25000 km; 495; 11
-Fujairah; Dijibouti; 25000 km; 495; 11
-Fujairah; Jeddah; 25000 km; 495; 11
-Fujairah; Zafarana; 25000 km; 495; 11
-Fujairah; Mumbai; 25000 km; 495; 11
-Fujairah; Ngwe Saung; 25000 km; 495; 11
-Fujairah; Kuala Kurau; 25000 km; 495; 11
-Fujairah; Satun; 25000 km; 495; 11
-Fujairah; Barka; 8100 km; 75; 5
-Fujairah; Mumbai; 8100 km; 75; 5
-Fujairah; Ratmalana; 8100 km; 75; 5
-Fujairah; Chennai; 8100 km; 75; 5
-Fujairah; Penang; 8100 km; 75; 5
-Fujairah; Barka; 15000 km; 15; 1
-Fujairah; Mumbai; 28000 km; 60; 4
-Fujairah; Jeddah; 28000 km; 60; 4
-Fujairah; Aqaba; 28000 km; 60; 4
-Fujairah; Suez; 28000 km; 60; 4
-Fujairah; Al Daayen; 0 km; 200; 8
-Fujairah; Bushehr; 0 km; 200; 8
-Fujairah; Al Faw; 0 km; 200; 8
-Fujairah; Kuwait City; 0 km; 200; 8
-Fujairah; Al Khobar; 0 km; 200; 8
-Fujairah; Al Hidd; 0 km; 200; 8
-Fujairah; Al Seeb; 0 km; 200; 8
-Fujairah; Mumbai; 0 km; 200; 8
-Fujairah; Karachi; 12091 km; 60; 4
-Fujairah; Mumbai; 12091 km; 60; 4
-Fujairah; Jeddah; 12091 km; 60; 4 
-Fujairah; Suez; 12091 km; 60; 4 
-Fujairah; Gwadar; 1300 km; 30; 2 
-Fujairah; Karachi; 1300 km; 30; 2
-Fujairah; Muscat; 39000 km; 585; 13
-Fujairah; Karachi; 39000 km; 585; 13
-Fujairah; Mumbai; 39000 km; 585; 13 
-Fujairah; Djibouti City; 39000 km; 585; 13 
-Fujairah; Jeddah; 39000 km; 585; 13 
-Fujairah; Suez; 39000 km; 585; 13 
-Fujairah; Cochin; 39000 km; 585; 13
-Fujairah; Mt. Lavinia; 39000 km; 585; 13
-Fujairah; Pyapon; 39000 km; 585; 13
-Fujairah; Satun; 39000 km; 585; 13
-Fujairah; Penang; 39000 km; 585; 13
-Fujairah; Medan; 39000 km; 585; 13
-Fujairah; Tuas; 39000 km; 585; 13
-Fujairah; Qalhat; 20000 km; 175; 7
-Fujairah; Karachi; 20000 km; 175; 7
-Fujairah; Matara; 20000 km; 175; 7
-Fujairah; Djibouti City; 20000 km; 175; 7
-Fujairah; Al Hudaydah; 20000 km; 175; 7
-Fujairah; Yanbu; 20000 km; 175; 7
-Fujairah; Zafarana; 20000 km; 175; 7
-Fujairah; Dubai; 4031 km; 75; 5 
-Fujairah; Al-Kheesa; 4031 km; 75; 5 
-Fujairah; Amwaj Island; 4031 km; 75; 5 
-Fujairah; Al Khobar; 4031 km; 75; 5 
-Fujairah; Qalhat; 4031 km; 75; 5 
-Fujairah; Mombasa; 4900 km; 15; 1
-Fujairah; Karachi; 1300 km; 30; 2
-Fujairah; Al Seeb; 1300 km; 30; 2
-Fujairah; Jask; 170 km; 15; 1
-Fukuoka; Busan; 500 km; 15; 1
-Funchal; Porto Santo; 1120 km; 30; 2
+Freetown; Conakry; 17000; 150; 6
+Freetown; Suro; 17000; 150; 6
+Freetown; Banjul; 17000; 150; 6
+Freetown; Dakar; 17000; 150; 6
+Freetown; Monrovia; 17000; 150; 6
+Freetown; Abidjan; 17000; 150; 6
+Fresh Creek; Nassau; 2817; 15; 1
+Fujairah; Doha; 25000; 495; 11
+Fujairah; Al Bustan; 25000; 495; 11
+Fujairah; Karachi; 25000; 495; 11
+Fujairah; Aden; 25000; 495; 11
+Fujairah; Dijibouti; 25000; 495; 11
+Fujairah; Jeddah; 25000; 495; 11
+Fujairah; Zafarana; 25000; 495; 11
+Fujairah; Mumbai; 25000; 495; 11
+Fujairah; Ngwe Saung; 25000; 495; 11
+Fujairah; Kuala Kurau; 25000; 495; 11
+Fujairah; Satun; 25000; 495; 11
+Fujairah; Barka; 8100; 75; 5
+Fujairah; Mumbai; 8100; 75; 5
+Fujairah; Ratmalana; 8100; 75; 5
+Fujairah; Chennai; 8100; 75; 5
+Fujairah; Penang; 8100; 75; 5
+Fujairah; Barka; 15000; 15; 1
+Fujairah; Mumbai; 28000; 60; 4
+Fujairah; Jeddah; 28000; 60; 4
+Fujairah; Aqaba; 28000; 60; 4
+Fujairah; Suez; 28000; 60; 4
+Fujairah; Al Daayen; 0; 200; 8
+Fujairah; Bushehr; 0; 200; 8
+Fujairah; Al Faw; 0; 200; 8
+Fujairah; Kuwait City; 0; 200; 8
+Fujairah; Al Khobar; 0; 200; 8
+Fujairah; Al Hidd; 0; 200; 8
+Fujairah; Al Seeb; 0; 200; 8
+Fujairah; Mumbai; 0; 200; 8
+Fujairah; Karachi; 12091; 60; 4
+Fujairah; Mumbai; 12091; 60; 4
+Fujairah; Jeddah; 12091; 60; 4 
+Fujairah; Suez; 12091; 60; 4 
+Fujairah; Gwadar; 1300; 30; 2 
+Fujairah; Karachi; 1300; 30; 2
+Fujairah; Muscat; 39000; 585; 13
+Fujairah; Karachi; 39000; 585; 13
+Fujairah; Mumbai; 39000; 585; 13 
+Fujairah; Djibouti City; 39000; 585; 13 
+Fujairah; Jeddah; 39000; 585; 13 
+Fujairah; Suez; 39000; 585; 13 
+Fujairah; Cochin; 39000; 585; 13
+Fujairah; Mt. Lavinia; 39000; 585; 13
+Fujairah; Pyapon; 39000; 585; 13
+Fujairah; Satun; 39000; 585; 13
+Fujairah; Penang; 39000; 585; 13
+Fujairah; Medan; 39000; 585; 13
+Fujairah; Tuas; 39000; 585; 13
+Fujairah; Qalhat; 20000; 175; 7
+Fujairah; Karachi; 20000; 175; 7
+Fujairah; Matara; 20000; 175; 7
+Fujairah; Djibouti City; 20000; 175; 7
+Fujairah; Al Hudaydah; 20000; 175; 7
+Fujairah; Yanbu; 20000; 175; 7
+Fujairah; Zafarana; 20000; 175; 7
+Fujairah; Dubai; 4031; 75; 5 
+Fujairah; Al-Kheesa; 4031; 75; 5 
+Fujairah; Amwaj Island; 4031; 75; 5 
+Fujairah; Al Khobar; 4031; 75; 5 
+Fujairah; Qalhat; 4031; 75; 5 
+Fujairah; Mombasa; 4900; 15; 1
+Fujairah; Karachi; 1300; 30; 2
+Fujairah; Al Seeb; 1300; 30; 2
+Fujairah; Jask; 170; 15; 1
+Fukuoka; Busan; 500; 15; 1
+Funchal; Porto Santo; 1120; 30; 2
 Funchal; Ponta Delgada; 1120; 30; 2
-Funchal; Sines; 6200 km; 75; 5
-Funchal; Praia; 6200 km; 75; 5
-Funchal; Kourou; 6200 km; 75; 5
-Funchal; Fortaleza; 6200 km; 75; 5
-Funchal; Praia Grande; 6200 km; 75; 5
-Funningsfjordur; Seydisfjordur; 1205 km; 30; 2
-Funningsfjordur; Dunnet Bay; 1205 km; 30; 2
-Fuvahmulah; Gahdhoo; 1253 km; 30; 2
-Fuvahmulah; Hithadhoo; 1253 km; 30; 2 
-Fuzhou; Tanshui; 260 km; 15; 1
-Gahdhoo; Gan; 1253 km; 30; 2
-Gahdhoo; Fuvahmulah; 1253 km; 30; 2
-Gan; Gahdhoo; 1253 km; 30; 2
-Gan; Dhangethi; 1253 km; 30; 2
-Ganavan Bay; Duart Bay; 402 km; 15; 1
-Ganaveh; Khark Island; 380 km; 45; 3
-Ganaveh; Soroosh Platform; 380 km; 45; 3
-Ganaveh; Kuwait City; 380 km; 45; 3
-Gavá; Ses Covetes; 309 km; 15; 1
-Gedebak Odde; Mielno; 110 km; 15; 1
-Gedser; Markgrafenheide; 0 km; 15; 1
-Gedser; Rostock; 43 km; 15; 1
-Gedser; Rostock; 44 km; 15; 1
-Gedser; Pedersker; 437 km; 15; 1
-Genoa; Palermo; 1000 km; 15; 1
-Geoje; Miura; 28000 km; 45; 3
-Geoje; Shanghai; 28000 km; 45; 3 
-Geoje; Lantau Island; 28000 km; 45; 3
-Geoje; Shanghai; 39000 km; 150; 6
-Geoje; Okinawa; 39000 km; 150; 6 
-Geoje; Toucheng; 39000 km; 150; 6 
-Geoje; Fangshan; 39000 km; 150; 6 
-Geoje; Shantou; 39000 km; 150; 6 
-Geoje; Deep Water Bay; 39000 km; 150; 6 
-Geoje; Qingdao; 17000 km; 75; 5
-Geoje; Chongming; 17000 km; 75; 5
-Geoje; Tanshui; 17000 km; 75; 5
-Geoje; Maruyama; 17000 km; 75; 5
-Geoje; Nedonna Beach; 17000 km; 75; 5
-George Town; Port Nelson; 2817 km; 30; 2
-George Town; Governors Harbor; 2817 km; 30; 2
-Georgetown; Totness; 775 km; 45; 3
-Georgetown; Pegwell; 775 km; 45; 3
-Georgetown; Port Salines; 775 km; 45; 3
-Georgetown; Totness; 1249 km; 30; 2
-Georgetown; Chaguaramas; 1249 km; 30; 2
-Gibraltar; Sesimbra; 15000 km; 75; 5
-Gibraltar; Bude; 15000 km; 75; 5
-Gibraltar; Monaco; 15000 km; 75; 5
-Gibraltar; Tripoli; 15000 km; 75; 5
-Gibraltar; Abu Talat; 15000 km; 75; 5
-Girne; Mersin; 110 km; 15; 1
-Girvan; Larne; 82 km; 15; 1
-Glen Lyon; BP Clair Ridge; 1000 km; 15; 1
-Glenbarr; Lagavulin; 402 km; 15; 1
-Golden Bay; Mgarr ix-Xini; 13 km; 15; 1
-Goonhilly Downs; St. Ouens Bay; 237 km; 15; 1
-Goonhilly Downs; Ostend; 39000 km; 45; 3
-Goonhilly Downs; Norden; 39000 km; 45; 3
-Goonhilly Downs; Penmarch; 39000 km; 45; 3
-Governors Harbor; Sandy Point; 2817 km; 60; 4
-Governors Harbor; Nassau; 2817 km; 60; 4
-Governors Harbor; Cat Island; 2817 km; 60; 4
-Governors Harbor; George Town; 2817 km; 60; 4
-Graciosa; Corvo;  685 km; 15; 1
-Graciosa; Velas; 1100 km; 30; 2
-Graciosa; Angra do Heroismo; 1100 km; 30; 2
-Gran Canaria; Lanzarote; 210 km; 15; 1
-Granadilla; San Sebastian de la Gomera; 222 km; 15; 1
-Granadilla; Santa Cruz de La Palma; 1835 km; 150; 6 
-Granadilla; Tinocas; 1835 km; 150; 6 
-Granadilla; Alta Vista; 1835 km; 150; 6 
-Granadilla; Güimar; 1835 km; 150; 6 
-Granadilla; Asilah; 1835 km; 150; 6 
-Granadilla; Rota; 1835 km; 150; 6 
-Granadilla; Carcavelos; 17000 km; 45; 3
-Granadilla; Nouakchott; 17000 km; 45; 3
-Granadilla; Dakar; 17000 km; 45; 3
-Grand Baie (Rodrigues); Baie Jacotet; 677 km; 15; 1
-Great Bay Beach; Gustavia; 198 km; 30; 2
-Great Bay Beach; Great Level Bay; 198 km; 30; 2
-Great Bay; Flamingo Bay; 183 km; 30; 2
-Great Bay; Christiansted; 183 km; 30; 2
-Great Nicobar; Kamorta; 2300 km; 15; 1
-Greve de Lecq; Havelet Bay; 64 km; 15; 1
-Greve de Lecq; Saints Bay; 36 km; 15; 1
-Grindavik; Caithness; 2000 km; 45; 3
-Grindavik; Øysanden; 2000 km; 45; 3
-Grindavik; Killala; 2000 km; 45; 3
-Groudle Bay; Silecroft Beach; 80 km; 30; 2
-Groudle Bay; Peel; 80 km; 30; 2
-Grover Beach; Harbour Pointe; 21000 km; 30; 2
-Grover Beach; Shima; 21000 km; 30; 2 
-Grover Beach; Chung Hom Kok; 15393 km; 45; 3
-Grover Beach; Cherating; 15393 km; 45; 3
-Grover Beach; Changi North; 15393 km; 45; 3
-Grover Beach; Fort Amador; 10000 km; 60; 4 
-Grover Beach; Mazatlán; 10000 km; 60; 4 
-Grover Beach; Tijuana; 10000 km; 60; 4 
-Grover Beach; Unqui; 10000 km; 60; 4 
-Guantanamo Bay; Dania Beach; 1528 km; 15; 1
-Guantanamo Bay; Punta Salina; 1400 km; 15; 1
-Guanyin Mountain; Lake Ci; 21 km; 15; 1
-Güimar; Alta Vista; 1835 km; 60; 4
-Güimar; Granadilla; 1835 km; 60; 4
-Güimar; Asilah; 1835 km; 60; 4
-Güimar; Rota; 1835 km; 60; 4
-Guningtou; Lake Ci; 21 km; 30; 2
-Guningtou; Dadeng Island; 21 km; 30; 2
-Gustavia; St. Louis; 0 km; 15; 1
-Gustavia; Great Bay Beach; 198 km; 15; 1
-Gwadar; Fujairah; 1300 km; 30; 2 
-Gwadar; Karachi; 1300 km; 30; 2 
+Funchal; Sines; 6200; 75; 5
+Funchal; Praia; 6200; 75; 5
+Funchal; Kourou; 6200; 75; 5
+Funchal; Fortaleza; 6200; 75; 5
+Funchal; Praia Grande; 6200; 75; 5
+Funningsfjordur; Seydisfjordur; 1205; 30; 2
+Funningsfjordur; Dunnet Bay; 1205; 30; 2
+Fuvahmulah; Gahdhoo; 1253; 30; 2
+Fuvahmulah; Hithadhoo; 1253; 30; 2 
+Fuzhou; Tanshui; 260; 15; 1
+Gahdhoo; Gan; 1253; 30; 2
+Gahdhoo; Fuvahmulah; 1253; 30; 2
+Gan; Gahdhoo; 1253; 30; 2
+Gan; Dhangethi; 1253; 30; 2
+Ganavan Bay; Duart Bay; 402; 15; 1
+Ganaveh; Khark Island; 380; 45; 3
+Ganaveh; Soroosh Platform; 380; 45; 3
+Ganaveh; Kuwait City; 380; 45; 3
+Gavá; Ses Covetes; 309; 15; 1
+Gedebak Odde; Mielno; 110; 15; 1
+Gedser; Markgrafenheide; 0; 15; 1
+Gedser; Rostock; 43; 15; 1
+Gedser; Rostock; 44; 15; 1
+Gedser; Pedersker; 437; 15; 1
+Genoa; Palermo; 1000; 15; 1
+Geoje; Miura; 28000; 45; 3
+Geoje; Shanghai; 28000; 45; 3 
+Geoje; Lantau Island; 28000; 45; 3
+Geoje; Shanghai; 39000; 150; 6
+Geoje; Okinawa; 39000; 150; 6 
+Geoje; Toucheng; 39000; 150; 6 
+Geoje; Fangshan; 39000; 150; 6 
+Geoje; Shantou; 39000; 150; 6 
+Geoje; Deep Water Bay; 39000; 150; 6 
+Geoje; Qingdao; 17000; 75; 5
+Geoje; Chongming; 17000; 75; 5
+Geoje; Tanshui; 17000; 75; 5
+Geoje; Maruyama; 17000; 75; 5
+Geoje; Nedonna Beach; 17000; 75; 5
+George Town; Port Nelson; 2817; 30; 2
+George Town; Governors Harbor; 2817; 30; 2
+Georgetown; Totness; 775; 45; 3
+Georgetown; Pegwell; 775; 45; 3
+Georgetown; Port Salines; 775; 45; 3
+Georgetown; Totness; 1249; 30; 2
+Georgetown; Chaguaramas; 1249; 30; 2
+Gibraltar; Sesimbra; 15000; 75; 5
+Gibraltar; Bude; 15000; 75; 5
+Gibraltar; Monaco; 15000; 75; 5
+Gibraltar; Tripoli; 15000; 75; 5
+Gibraltar; Abu Talat; 15000; 75; 5
+Girne; Mersin; 110; 15; 1
+Girvan; Larne; 82; 15; 1
+Glen Lyon; BP Clair Ridge; 1000; 15; 1
+Glenbarr; Lagavulin; 402; 15; 1
+Golden Bay; Mgarr ix-Xini; 13; 15; 1
+Goonhilly Downs; St. Ouens Bay; 237; 15; 1
+Goonhilly Downs; Ostend; 39000; 45; 3
+Goonhilly Downs; Norden; 39000; 45; 3
+Goonhilly Downs; Penmarch; 39000; 45; 3
+Governors Harbor; Sandy Point; 2817; 60; 4
+Governors Harbor; Nassau; 2817; 60; 4
+Governors Harbor; Cat Island; 2817; 60; 4
+Governors Harbor; George Town; 2817; 60; 4
+Graciosa; Corvo;  685; 15; 1
+Graciosa; Velas; 1100; 30; 2
+Graciosa; Angra do Heroismo; 1100; 30; 2
+Gran Canaria; Lanzarote; 210; 15; 1
+Granadilla; San Sebastian de la Gomera; 222; 15; 1
+Granadilla; Santa Cruz de La Palma; 1835; 150; 6 
+Granadilla; Tinocas; 1835; 150; 6 
+Granadilla; Alta Vista; 1835; 150; 6 
+Granadilla; Güimar; 1835; 150; 6 
+Granadilla; Asilah; 1835; 150; 6 
+Granadilla; Rota; 1835; 150; 6 
+Granadilla; Carcavelos; 17000; 45; 3
+Granadilla; Nouakchott; 17000; 45; 3
+Granadilla; Dakar; 17000; 45; 3
+Grand Baie (Rodrigues); Baie Jacotet; 677; 15; 1
+Great Bay Beach; Gustavia; 198; 30; 2
+Great Bay Beach; Great Level Bay; 198; 30; 2
+Great Bay; Flamingo Bay; 183; 30; 2
+Great Bay; Christiansted; 183; 30; 2
+Great Nicobar; Kamorta; 2300; 15; 1
+Greve de Lecq; Havelet Bay; 64; 15; 1
+Greve de Lecq; Saints Bay; 36; 15; 1
+Grindavik; Caithness; 2000; 45; 3
+Grindavik; Øysanden; 2000; 45; 3
+Grindavik; Killala; 2000; 45; 3
+Groudle Bay; Silecroft Beach; 80; 30; 2
+Groudle Bay; Peel; 80; 30; 2
+Grover Beach; Harbour Pointe; 21000; 30; 2
+Grover Beach; Shima; 21000; 30; 2 
+Grover Beach; Chung Hom Kok; 15393; 45; 3
+Grover Beach; Cherating; 15393; 45; 3
+Grover Beach; Changi North; 15393; 45; 3
+Grover Beach; Fort Amador; 10000; 60; 4 
+Grover Beach; Mazatlán; 10000; 60; 4 
+Grover Beach; Tijuana; 10000; 60; 4 
+Grover Beach; Unqui; 10000; 60; 4 
+Guantanamo Bay; Dania Beach; 1528; 15; 1
+Guantanamo Bay; Punta Salina; 1400; 15; 1
+Guanyin Mountain; Lake Ci; 21; 15; 1
+Güimar; Alta Vista; 1835; 60; 4
+Güimar; Granadilla; 1835; 60; 4
+Güimar; Asilah; 1835; 60; 4
+Güimar; Rota; 1835; 60; 4
+Guningtou; Lake Ci; 21; 30; 2
+Guningtou; Dadeng Island; 21; 30; 2
+Gustavia; St. Louis; 0; 15; 1
+Gustavia; Great Bay Beach; 198; 15; 1
+Gwadar; Fujairah; 1300; 30; 2 
+Gwadar; Karachi; 1300; 30; 2 
 Gwadar; Karachi; 15000; 200; 8
 Gwadar; Bosaso; 15000; 200; 8
 Gwadar; Hobyo; 15000; 200; 8
@@ -429,179 +429,179 @@ Gwadar; Kismayo; 15000; 200; 8
 Gwadar; Mombasa; 15000; 200; 8
 Gwadar; Djibouti City; 15000; 200; 8
 Gwadar; Zafarana; 15000; 200; 8
-Haifa; Tel Aviv; 7000 km; 75; 5 
-Haifa; Pentaskhinos; 7000 km; 75; 5 
-Haifa; Chania; 7000 km; 75; 5  
-Haifa; Athens; 7000 km; 75; 5 
-Haifa; Istanbul; 7000 km; 75; 5 
-Haifa; Yeroskipos; 345 km; 15; 1
-Haina; Nanny Cay; 1750 km; 30; 2
-Haina; Harbour View; 1750 km; 30; 2
-Haines; Skagway; 138 km; 30; 2
-Haines; Lena Point; 138 km; 30; 2
-Half Moon Bay; Cayman Brac; 870 km; 15; 1 
-Half Moon Bay; Puerto Limon; 4400 km; 150; 6
-Half Moon Bay; Maria Chiquita; 4400 km; 150; 6
-Half Moon Bay; Tolu; 4400 km; 150; 6
-Half Moon Bay; Puerto Cortes; 4400 km; 150; 6
-Half Moon Bay; Cancún; 4400 km; 150; 6
-Half Moon Bay; Hollywood; 4400 km; 150; 6
-Halifax; Lynn; 12200 km; 60; 4
-Halifax; Coleraine; 12200 km; 60; 4
-Halifax; Dublin; 12200 km; 60; 4 
-Halifax; Southport; 12200 km; 60; 4
-Halifax; Brean; 4600 km; 30; 2
-Halifax; Cork; 4600 km; 30; 2
-Halul Island; 100 km; Das Island; 30; 2
-Halul Island; 100 km; Doha; 30; 2
-Hanko; Helsinki; 0 km; 30; 2
-Hanko; Stockholm; 0 km; 30; 2
-Hanko; Helsinki; 513 km; 45; 3
-Hanko; Haradsholm; 513 km; 45; 3
-Hanko; Mariehamn; 513 km; 45; 3
-Hanko; Helsinki; 1172 km; 30; 2
-Hanko; Rostock; 1172 km; 30; 2
-Hao; Makemo; 2400 km; 250; 10
-Hao; Fakarava; 2400 km; 250; 10
-Hao; Kaukura; 2400 km; 250; 10
-Hao; Arutua; 2400 km; 250; 10
-Hao; Hitia'a; 2400 km; 250; 10
-Hao; Rangiroa; 2400 km; 250; 10
-Hao; Manihi; 2400 km; 250; 10
-Hao; Takaroa; 2400 km; 250; 10
-Hao; Hiva Oa; 2400 km; 250; 10
-Hao; Nuku Hiva; 2400 km; 250; 10
-Haradsholm; Hanko; 513 km; 30; 2
-Haradsholm; Mariehamn; 513 km; 30; 2
-Harbour Pointe; Grover Beach; 21000 km; 30; 2
-Harbour Pointe; Ajigaura; 21000 km; 30; 2
-Harbour View; Haina; 1750 km; 30; 2
-Harbour View; Nanny Cay; 1750 km; 30; 2
-Havelet Bay; Greve de Lecq; 64 km; 15; 1
-Havelock; Long Island; 2300 km; 30; 2
-Havelock; Port Blair; 2300 km; 30; 2
-Hawaii Kai; Kaunakakai; 576 km; 15; 1
-Hawk Inlet; Juneau; 626 km; 30; 2
-Hawk Inlet; Angoon;  626 km; 30; 2
-Hawksbill; Sandy Point; 2817 km; 30; 2 
-Hawksbill; Nassau; 2817 km; 30; 2 
-Hawksbill; Riding Point; 1100 km; 60; 4
-Hawksbill; Caves Point; 1100 km; 60; 4
-Hawksbill; Spanish River Park; 1100 km; 60; 4
-Hawksbill; Boca Rato; 1100 km; 60; 4
-Helsingborg; Helsingør; 5 km; 15; 1
-Helsingborg; Helsingør; 0 km; 15; 1
-Helsingborg; Helsingør; 5 km; 15; 1
-Helsingør; Helsingborg;  5 km; 15; 1
-Helsingør;  Helsingborg;  0 km; 15; 1
-Helsingør; Helsingborg;  5 km; 15; 1
-Helsinki; Hanko; 513 km; 15; 1
-Helsinki; Kotka; 280.4 km; 15; 1
-Helsinki; Tallinn; 1042 km; 30; 2
-Helsinki; Stockholm; 1042 km; 30; 2
-Helsinki; Hanko; 1172 km; 30; 2
-Helsinki; Rostock; 1172 km; 30; 2
-Helsinki; Kotka; 0 km; 30; 2
-Helsinki; Hanko; 0 km; 30; 2
-Helsinki; Tallinn; 250 km; 15; 1
-Helsinki; Tallinn; 98 km; 15; 1
-Helsinki; Meremöisa; 104 km; 15; 1
+Haifa; Tel Aviv; 7000; 75; 5 
+Haifa; Pentaskhinos; 7000; 75; 5 
+Haifa; Chania; 7000; 75; 5  
+Haifa; Athens; 7000; 75; 5 
+Haifa; Istanbul; 7000; 75; 5 
+Haifa; Yeroskipos; 345; 15; 1
+Haina; Nanny Cay; 1750; 30; 2
+Haina; Harbour View; 1750; 30; 2
+Haines; Skagway; 138; 30; 2
+Haines; Lena Point; 138; 30; 2
+Half Moon Bay; Cayman Brac; 870; 15; 1 
+Half Moon Bay; Puerto Limon; 4400; 150; 6
+Half Moon Bay; Maria Chiquita; 4400; 150; 6
+Half Moon Bay; Tolu; 4400; 150; 6
+Half Moon Bay; Puerto Cortes; 4400; 150; 6
+Half Moon Bay; Cancún; 4400; 150; 6
+Half Moon Bay; Hollywood; 4400; 150; 6
+Halifax; Lynn; 12200; 60; 4
+Halifax; Coleraine; 12200; 60; 4
+Halifax; Dublin; 12200; 60; 4 
+Halifax; Southport; 12200; 60; 4
+Halifax; Brean; 4600; 30; 2
+Halifax; Cork; 4600; 30; 2
+Halul Island; 100; Das Island; 30; 2
+Halul Island; 100; Doha; 30; 2
+Hanko; Helsinki; 0; 30; 2
+Hanko; Stockholm; 0; 30; 2
+Hanko; Helsinki; 513; 45; 3
+Hanko; Haradsholm; 513; 45; 3
+Hanko; Mariehamn; 513; 45; 3
+Hanko; Helsinki; 1172; 30; 2
+Hanko; Rostock; 1172; 30; 2
+Hao; Makemo; 2400; 250; 10
+Hao; Fakarava; 2400; 250; 10
+Hao; Kaukura; 2400; 250; 10
+Hao; Arutua; 2400; 250; 10
+Hao; Hitia'a; 2400; 250; 10
+Hao; Rangiroa; 2400; 250; 10
+Hao; Manihi; 2400; 250; 10
+Hao; Takaroa; 2400; 250; 10
+Hao; Hiva Oa; 2400; 250; 10
+Hao; Nuku Hiva; 2400; 250; 10
+Haradsholm; Hanko; 513; 30; 2
+Haradsholm; Mariehamn; 513; 30; 2
+Harbour Pointe; Grover Beach; 21000; 30; 2
+Harbour Pointe; Ajigaura; 21000; 30; 2
+Harbour View; Haina; 1750; 30; 2
+Harbour View; Nanny Cay; 1750; 30; 2
+Havelet Bay; Greve de Lecq; 64; 15; 1
+Havelock; Long Island; 2300; 30; 2
+Havelock; Port Blair; 2300; 30; 2
+Hawaii Kai; Kaunakakai; 576; 15; 1
+Hawk Inlet; Juneau; 626; 30; 2
+Hawk Inlet; Angoon;  626; 30; 2
+Hawksbill; Sandy Point; 2817; 30; 2 
+Hawksbill; Nassau; 2817; 30; 2 
+Hawksbill; Riding Point; 1100; 60; 4
+Hawksbill; Caves Point; 1100; 60; 4
+Hawksbill; Spanish River Park; 1100; 60; 4
+Hawksbill; Boca Rato; 1100; 60; 4
+Helsingborg; Helsingør; 5; 15; 1
+Helsingborg; Helsingør; 0; 15; 1
+Helsingborg; Helsingør; 5; 15; 1
+Helsingør; Helsingborg; 5; 15; 1
+Helsingør;  Helsingborg; 0; 15; 1
+Helsingør; Helsingborg; 5; 15; 1
+Helsinki; Hanko; 513; 15; 1
+Helsinki; Kotka; 280.4; 15; 1
+Helsinki; Tallinn; 1042; 30; 2
+Helsinki; Stockholm; 1042; 30; 2
+Helsinki; Hanko; 1172; 30; 2
+Helsinki; Rostock; 1172; 30; 2
+Helsinki; Kotka; 0; 30; 2
+Helsinki; Hanko; 0; 30; 2
+Helsinki; Tallinn; 250; 15; 1
+Helsinki; Tallinn; 98; 15; 1
+Helsinki; Meremöisa; 104; 15; 1
 
-Taba; Aqaba; 13 km; 15; 1
-Tachognya Beach; Sugar Dock; 276 km; 45; 3
-Tachognya Beach; Sasanlagu; 276 km; 45; 3
-Tachognya Beach; Piti;  276 km; 45; 3
-Tagbilaran; Naga; 1300 km; 15; 1
-Tahuna; Melonguane; 2100 km; 30; 2
-Tahuna; Ondong Siau; 2100 km; 30; 2
-Taipa; Geoje; 39000 km; 585; 13
-Taipa; Shanghai; 39000 km; 585; 13
-Taipa; Okinawa; 39000 km; 585; 13
-Taipa; Toucheng; 39000 km; 585; 13
-Taipa; Fangshan; 39000 km; 585; 13
-Taipa; Shantou; 39000 km; 585; 13
-Taipa; Batangas; 39000 km; 585; 13
-Taipa; Danang; 39000 km; 585; 13
-Taipa; Tungku; 39000 km; 585; 13
-Taipa; Mersing; 39000 km; 585; 13
-Taipa; Ancol; 39000 km; 585; 13
-Taipa; Perth; 39000 km; 585; 13
-Taipa; Tuas; 39000 km; 585; 13
-Takapuna; Spencer Beach; 30500 km; 30; 2
-Takapuna; Alexandria; 30500 km; 30; 2
-Takapuna; Alexandria; 13700 km; 175; 7
-Takapuna; Suva; 13700 km; 175; 7
-Takapuna; Savusavu; 13700 km; 175; 7
-Takapuna; Apia; 13700 km; 175; 7
-Takapuna; Nukunonu; 13700 km; 175; 7
-Takapuna; Kiritimati; 13700 km; 175; 7
-Takapuna; Los Angeles; 13700 km; 175; 7
-Takaroa; Hiva Oa; 2400 km; 250; 10
-Takaroa; Nuku Hiva; 2400 km; 250; 10
-Takaroa; Manihi; 2400 km; 250; 10
-Takaroa; Rangiroa; 2400 km; 250; 10
-Takaroa; Arutua; 2400 km; 250; 10
-Takaroa; Kaukura; 2400 km; 250; 10
-Takaroa; Fakarava; 2400 km; 250; 10
-Takaroa; Makemo; 2400 km; 250; 10
-Takaroa; Hao; 2400 km; 250; 10
-Takaroa; Hitia'a; 2400 km; 250; 10
-Takesung; Ujung Pankah; 543 km; 15; 1
-Talcahuano; Valparaíso; 3500 km; 30; 2
-Talcahuano; Puerto Montt; 3500 km; 30; 2
-Taliabu; Sanana; 2100 km; 30; 2
-Taliabu; Bangga; 2100 km; 30; 2
-Talisay; Leganes; 1300 km; 15; 1
-Tallinn; Helsinki; 1042 km; 30; 2
-Tallinn; Stockholm; 1042 km; 30; 2
-Tallinn; Helsinki; 250 km; 15; 1
-Tallinn; Helsinki; 98 km; 15; 1
-Tallinn; Kärdla; 240 km; 15; 1
-Tanah Merah; Busan; 10400 km; 250; 10
-Tanah Merah; Chongming; 10400 km; 250; 10
-Tanah Merah; Danang; 10400 km; 250; 10
-Tanah Merah; Kuantan; 10400 km; 250; 10
-Tanah Merah; Maruyama; 10400 km; 250; 10
-Tanah Merah; Nanhui; 10400 km; 250; 10
-Tanah Merah; Shima; 10400 km; 250; 10
-Tanah Merah; Songkhla; 10400 km; 250; 10
-Tanah Merah; Toucheng ; 10400 km; 250; 10
-Tanah Merah; Tseung Kwan O; 10400 km; 250; 10
-Tanah Merah; Anyer; 4600 km; 45; 3
-Tanah Merah; Flying Fish Cove; 4600 km; 45; 3
-Tanah Merah; Perth; 4600 km; 45; 3
-Tanah Merah; Batam; 250 km; 30; 2
-Tanah Merah; Mersing; 250 km; 30; 2
-Tanguisson Point; Keawaula; 20000 km; 30; 2 
-Tanguisson Point; La Union; 20000 km; 30; 2 
-Tanguisson Point; Tumon Bay; 12700 km; 75; 5  
-Tanguisson Point; Shima; 12700 km; 75; 5
-Tanguisson Point; Paddington; 12700 km; 75; 5
-Tanguisson Point; Oxford Falls; 12700 km; 75; 5
-Tanguisson Point; Maruyama; 12700 km; 75; 5
-Tanguisson Point; Rota; 0 km; 15; 1
-Tanjung Bemban; Kg Buntai; 762 km; 15; 1
-Tanjung Bemban; Changi North; 1330 km; 45; 3
-Tanjung Bemban; Sungai Kakap; 1330 km; 45; 3
-Tanjung Bemban; Tanjung Pakis; 1330 km; 45; 3
-Tanjung Pakis; Changi North; 1330 km; 45; 3
-Tanjung Pakis; Sungai Kakap; 1330 km; 45; 3
-Tanjung Pakis; Tanjung Bemban; 1330 km; 45; 3
-Tanjung Pakis; Jakarta; 10860 km; 30; 2
-Tanjung Pakis; Tanjung Pandan; 10860 km; 30; 2
-Tanjung Pakis; Cirebon 888 km; 15; 1
-Tanjung Pakis; Mentigi; 342 km; 30; 2
-Tanjung Pakis; Ancol; 342 km; 30; 2
-Tanjung Pandan; Pontianak; 10860 km; 60; 4
-Tanjung Pandan; Tanjung Pakis; 10860 km; 60; 4
-Tanjung Pandan; Jambi; 10860 km; 60; 4
-Tanjung Pandan; Palembang; 10860 km; 60; 4
-Tanjung Pandan; Sungai Kakap; 348 km; 15; 1
-Tanjung Pinang; Rengit; 64 km; 15; 1
-Tanjung Pinggir; Kuala Tungkal; 267 km; 15; 1
-Tanjung Selor; Tarakan; 83 km; 15; 1
-Tanshui; Shantou; 19000 km; 60; 2
-Tanshui; Chikura; 19000 km; 60; 2
+Taba; Aqaba; 13; 15; 1
+Tachognya Beach; Sugar Dock; 276; 45; 3
+Tachognya Beach; Sasanlagu; 276; 45; 3
+Tachognya Beach; Piti;  276; 45; 3
+Tagbilaran; Naga; 1300; 15; 1
+Tahuna; Melonguane; 2100; 30; 2
+Tahuna; Ondong Siau; 2100; 30; 2
+Taipa; Geoje; 39000; 585; 13
+Taipa; Shanghai; 39000; 585; 13
+Taipa; Okinawa; 39000; 585; 13
+Taipa; Toucheng; 39000; 585; 13
+Taipa; Fangshan; 39000; 585; 13
+Taipa; Shantou; 39000; 585; 13
+Taipa; Batangas; 39000; 585; 13
+Taipa; Danang; 39000; 585; 13
+Taipa; Tungku; 39000; 585; 13
+Taipa; Mersing; 39000; 585; 13
+Taipa; Ancol; 39000; 585; 13
+Taipa; Perth; 39000; 585; 13
+Taipa; Tuas; 39000; 585; 13
+Takapuna; Spencer Beach; 30500; 30; 2
+Takapuna; Alexandria; 30500; 30; 2
+Takapuna; Alexandria; 13700; 175; 7
+Takapuna; Suva; 13700; 175; 7
+Takapuna; Savusavu; 13700; 175; 7
+Takapuna; Apia; 13700; 175; 7
+Takapuna; Nukunonu; 13700; 175; 7
+Takapuna; Kiritimati; 13700; 175; 7
+Takapuna; Los Angeles; 13700; 175; 7
+Takaroa; Hiva Oa; 2400; 250; 10
+Takaroa; Nuku Hiva; 2400; 250; 10
+Takaroa; Manihi; 2400; 250; 10
+Takaroa; Rangiroa; 2400; 250; 10
+Takaroa; Arutua; 2400; 250; 10
+Takaroa; Kaukura; 2400; 250; 10
+Takaroa; Fakarava; 2400; 250; 10
+Takaroa; Makemo; 2400; 250; 10
+Takaroa; Hao; 2400; 250; 10
+Takaroa; Hitia'a; 2400; 250; 10
+Takesung; Ujung Pankah; 543; 15; 1
+Talcahuano; Valparaíso; 3500; 30; 2
+Talcahuano; Puerto Montt; 3500; 30; 2
+Taliabu; Sanana; 2100; 30; 2
+Taliabu; Bangga; 2100; 30; 2
+Talisay; Leganes; 1300; 15; 1
+Tallinn; Helsinki; 1042; 30; 2
+Tallinn; Stockholm; 1042; 30; 2
+Tallinn; Helsinki; 250; 15; 1
+Tallinn; Helsinki; 98; 15; 1
+Tallinn; Kärdla; 240; 15; 1
+Tanah Merah; Busan; 10400; 250; 10
+Tanah Merah; Chongming; 10400; 250; 10
+Tanah Merah; Danang; 10400; 250; 10
+Tanah Merah; Kuantan; 10400; 250; 10
+Tanah Merah; Maruyama; 10400; 250; 10
+Tanah Merah; Nanhui; 10400; 250; 10
+Tanah Merah; Shima; 10400; 250; 10
+Tanah Merah; Songkhla; 10400; 250; 10
+Tanah Merah; Toucheng ; 10400; 250; 10
+Tanah Merah; Tseung Kwan O; 10400; 250; 10
+Tanah Merah; Anyer; 4600; 45; 3
+Tanah Merah; Flying Fish Cove; 4600; 45; 3
+Tanah Merah; Perth; 4600; 45; 3
+Tanah Merah; Batam; 250; 30; 2
+Tanah Merah; Mersing; 250; 30; 2
+Tanguisson Point; Keawaula; 20000; 30; 2 
+Tanguisson Point; La Union; 20000; 30; 2 
+Tanguisson Point; Tumon Bay; 12700; 75; 5  
+Tanguisson Point; Shima; 12700; 75; 5
+Tanguisson Point; Paddington; 12700; 75; 5
+Tanguisson Point; Oxford Falls; 12700; 75; 5
+Tanguisson Point; Maruyama; 12700; 75; 5
+Tanguisson Point; Rota; 0; 15; 1
+Tanjung Bemban; Kg Buntai; 762; 15; 1
+Tanjung Bemban; Changi North; 1330; 45; 3
+Tanjung Bemban; Sungai Kakap; 1330; 45; 3
+Tanjung Bemban; Tanjung Pakis; 1330; 45; 3
+Tanjung Pakis; Changi North; 1330; 45; 3
+Tanjung Pakis; Sungai Kakap; 1330; 45; 3
+Tanjung Pakis; Tanjung Bemban; 1330; 45; 3
+Tanjung Pakis; Jakarta; 10860; 30; 2
+Tanjung Pakis; Tanjung Pandan; 10860; 30; 2
+Tanjung Pakis; Cirebon 888; 15; 1
+Tanjung Pakis; Mentigi; 342; 30; 2
+Tanjung Pakis; Ancol; 342; 30; 2
+Tanjung Pandan; Pontianak; 10860; 60; 4
+Tanjung Pandan; Tanjung Pakis; 10860; 60; 4
+Tanjung Pandan; Jambi; 10860; 60; 4
+Tanjung Pandan; Palembang; 10860; 60; 4
+Tanjung Pandan; Sungai Kakap; 348; 15; 1
+Tanjung Pinang; Rengit; 64; 15; 1
+Tanjung Pinggir; Kuala Tungkal; 267; 15; 1
+Tanjung Selor; Tarakan; 83; 15; 1
+Tanshui; Shantou; 19000; 60; 2
+Tanshui; Chikura; 19000; 60; 2
 Tanshui; Tseung Kwan O; 36500 km; 60; 4
 Tanshui; Cavite; 36500 km; 60; 4
 Tanshui; Shindu-Ri; 36500 km; 60; 4
