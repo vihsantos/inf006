@@ -1113,3 +1113,94 @@ Wurrumiyanga; Darwin; 2100 km; 30; 2
 Wurrumiyanga; Port Hedland; 2100 km; 30; 2
 Xepenehe; Mouly; 0 km; 30; 2
 Xepenehe; Poindimie; 0 km; 30; 2
+Yanbu; Zafarana; 20000 km; 175; 7
+Yanbu; Al Hudaydah; 20000 km; 175; 7
+Yanbu; Haramous; 20000 km; 175; 7
+Yanbu; Qalhat; 20000 km; 175; 7
+Yanbu; Fujairah; 20000 km; 175; 7
+Yanbu; Karachi; 20000 km; 175; 7
+Yanbu; Matara; 20000 km; 175; 7
+Yapen; Supiori; 6300 km; 30; 2
+Yapen; Nabire; 6300 km; 30; 2
+Yeroskipos; Chania;  868 km; 15; 1
+Yeroskipos; Alexandria; 3400 km; 30; 2
+Yeroskipos; Marseille; 3400 km; 30; 2
+Yeroskipos; Mazara del Vallo; 2600 km; 30; 2
+Yeroskipos; Tel Aviv; 2600 km; 30; 2
+Yeroskipos; Pentaskhinos; 800 km; 15; 1
+Yeroskipos; Alexandria; 39000 km; 60; 4 
+Yeroskipos; Marmaris; 39000 km; 60; 4 
+Yeroskipos; Chania; 39000 km; 60; 4 
+Yeroskipos; Mazara del Vallo; 39000 km; 60; 4 
+Yeroskipos; Haifa; 345 km; 15; 1
+Ystad; Pedersker; 437 km; 15; 1
+Yuzhno Kurilsk; Krabozavodskoye; 940 km; 30; 2
+Yuzhno Kurilsk; Kurilsk; 940 km; 30; 2
+Yuzhno-Sakhalinsk; Kurilsk; 940 km; 15; 1
+Yzerfontein; Abidjan; 14530 km; 540; 12
+Yzerfontein; Accra; 14530 km; 540; 12
+Yzerfontein; Alta Vista; 14530 km; 540; 12
+Yzerfontein; Lagos; 14530 km; 540; 12
+Yzerfontein; Limbe; 14530 km; 540; 12
+Yzerfontein; Lome; 14530 km; 540; 12
+Yzerfontein; Muanda; 14530 km; 540; 12
+Yzerfontein; Pointe-Noire; 14530 km; 540; 12
+Yzerfontein; Praia; 14530 km; 540; 12
+Yzerfontein; Sangano; 14530 km; 540; 12
+Yzerfontein; Seixal; 14530 km; 540; 12
+Yzerfontein; Swakopmund; 14530 km; 540; 12
+Zafarana; Abu Talat; 25000 km; 540; 12
+Zafarana; Jeddah; 25000 km; 540; 12
+Zafarana; Djibouti City; 25000 km; 540; 12
+Zafarana; Aden; 25000 km; 540; 12
+Zafarana; Doha; 25000 km; 540; 12
+Zafarana; Fujairah; 25000 km; 540; 12
+Zafarana; Al Bustan; 25000 km; 540; 12
+Zafarana; Karachi; 25000 km; 540; 12
+Zafarana; Mumbai; 25000 km; 540; 12
+Zafarana; Ngwe Saung; 25000 km; 540; 12
+Zafarana; Kuala Kurau; 25000 km; 540; 12
+Zafarana; Satun; 25000 km; 540; 12
+Zafarana; Abu Talat; 15000 km; 75; 5 
+Zafarana; Jeddah; 15000 km; 75; 5 
+Zafarana; Haramous; 15000 km; 75; 5 
+Zafarana; Barka; 15000 km; 75; 5 
+Zafarana; Mumbai; 15000 km; 75; 5 
+Zafarana; Abu Talat; 8000 km; 45; 3
+Zafarana; Al Seeb; 8000 km; 45; 3
+Zafarana; Jeddah; 8000 km; 45; 3
+Zafarana; Abu Talat; 15000 km; 250; 10
+Zafarana; Bosaso; 15000 km; 250; 10
+Zafarana; Djibouti City; 15000 km; 250; 10
+Zafarana; Gwadar; 15000 km; 250; 10
+Zafarana; Hobyo; 15000 km; 250; 10
+Zafarana; Karachi; 15000 km; 250; 10
+Zafarana; Kismayo; 15000 km; 250; 10
+Zafarana; Mogadishu; 15000 km; 250; 10
+Zafarana; Mombasa; 15000 km; 250; 10
+Zafarana; Victoria; 15000 km; 250; 10
+Zafarana; Dar Es Salaam; 15000 km; 175; 7
+Zafarana; Djibouti City; 15000 km; 175; 7
+Zafarana; Jeddah; 15000 km; 175; 7
+Zafarana; Maputo; 15000 km; 175; 7
+Zafarana; Mombasa; 15000 km; 175; 7
+Zafarana; Mtunzini; 15000 km; 175; 7
+Zafarana; Mumbai; 15000 km; 175; 7
+Zafarana; Abu Talat; 20000 km; 200; 8
+Zafarana; Yanbu; 20000 km; 200; 8
+Zafarana; Al Hudaydah; 20000 km; 200; 8
+Zafarana; Haramous; 20000 km; 200; 8
+Zafarana; Fujairah; 20000 km; 200; 8
+Zafarana; Karachi; 20000 km; 200; 8
+Zafarana; Qalhat; 20000 km; 200; 8
+Zafarana; Matara; 20000 km; 200; 8
+Zandvoort; Lowestoft; 203 km; 15; 1
+Zandvoort; Sizewell; 550 km; 30; 2
+Zandvoort; Zeebrugge; 550 km; 30; 2
+Zawia; Tripoli; 1639 km; 30; 2
+Zawia; Zuwara; 1639 km; 30; 2
+Zeebrugge; Zandvoort; 550 km; 30; 2
+Zeebrugge; Thorpeness; 550 km; 30; 2
+Zhuhai; Hong Kong; 780 km; 30; 2
+Zhuhai; Wenchang; 780 km; 30; 2
+Zuwara; Zawia; 1639 km; 15; 1
