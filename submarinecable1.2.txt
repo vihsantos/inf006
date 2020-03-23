@@ -602,235 +602,235 @@ Tanjung Pinggir; Kuala Tungkal; 267; 15; 1
 Tanjung Selor; Tarakan; 83; 15; 1
 Tanshui; Shantou; 19000; 60; 2
 Tanshui; Chikura; 19000; 60; 2
-Tanshui; Tseung Kwan O; 36500 km; 60; 4
-Tanshui; Cavite; 36500 km; 60; 4
-Tanshui; Shindu-Ri; 36500 km; 60; 4
-Tanshui; Qingdao; 36500 km; 60; 4
-Tanshui; Bandon; 11629 km; 45; 3
-Tanshui; Chikura; 11629 km; 45; 3
-Tanshui; Shima; 11629 km; 45; 3
-Tanshui; Busan; 10500 km; 250; 10
-Tanshui; Changi South; 10500 km; 250; 10
-Tanshui; Chikura; 10500 km; 250; 10
-Tanshui; Chung Hom Kok; 10500 km; 250; 10
-Tanshui; Fangshan; 10500 km; 250; 10
-Tanshui; Lingang; 10500 km; 250; 10
-Tanshui; Quy Nhon; 10500 km; 250; 10
-Tanshui; Shima; 10500 km; 250; 10
-Tanshui; Songkhla; 10500 km; 250; 10
-Tanshui; Fuzhou; 260 km; 15; 1
-Tanshui; Chongming; 17000 km; 60; 4
-Tanshui; Geoje; 17000 km; 60; 4
-Tanshui; Maruyama; 17000 km; 60; 4
-Tanshui; Nedonna Beach; 17000 km; 60; 4
-Tarahales; Chipiona; 1398 km; 15; 1
-Tarakan; Bali; 5300 km; 225; 9
-Tarakan; Balikpapan; 5300 km; 225; 9
-Tarakan; Batam; 5300 km; 225; 9
-Tarakan; Dumai; 5300 km; 225; 9
-Tarakan; Jakarta; 5300 km; 225; 9
-Tarakan; Madura; 5300 km; 225; 9
-Tarakan; Makassar; 5300 km; 225; 9
-Tarakan; Manado; 5300 km; 225; 9
-Tarakan; Singapore; 5300 km; 225; 9
-Tarakan; Tanjung Selor; 83 km; 15; 1
-Taranaki; Manawatu-Wanganui; 0 km; 30; 2
-Taranaki; Waikato; 0 km; 30; 2
-Taro; Noro; 4700 km; 30; 2
-Taro; Honiara; 4700 km; 30; 2
-TarrafalSantiago; Sao Pedro; 0 km; 15; 1
-TarrafalSantiago; Sao Pedro; 0 km; 30; 2
-TarrafalSantiago; Nova Sintra; 0 km; 30; 2
-TarrafalSao Nicolau; Sao Pedro; 0 km; 30; 2
-TarrafalSao Nicolau; Murdeira; 0 km; 30; 2
-Tartous; Alexandria; 787 km; 15; 1
-Tartous; Trablous; 134 km; 15; 1
-Tartous; Pentaskhinos; 239 km; 15; 1
-Taytay; Coron; 332 km; 30; 2
-Taytay; San Jose; 332 km; 30; 2
-Taytay; Coron; 1300 km; 15; 1
-Taytay; San Jose de Buenavista; 300 km; 15; 1
-Tel Aviv; Bari; 2297 km; 15; 1
-Tel Aviv; Mazzara del Vallo; 2600 km; 30; 2
-Tel Aviv; Yeroskipos; 2600 km; 30; 2
-Tel Aviv; Haifa; 7000 km; 30; 2
-Tel Aviv; Catania; 7000 km; 30; 2
-Telisai; Chikura; 8900 km; 75; 5
-Telisai; Chung Hom Kok; 8900 km; 75; 5
-Telisai; Shantou; 8900 km; 75; 5
-Telisai; Nasugbu; 8900 km; 75; 5
-Telisai; Tuas; 8900 km; 75; 5
-Teluk; Manokwari; 6300 km; 30; 2
-Teluk; Nabire; 6300 km; 30; 2
-Teping Tinggi; Medan; 10860 km; 30; 2
-Teping Tinggi; Rantu Prapat; 10860 km; 30; 2
-Terante; Tidore; 2100 km; 15; 1
-Terempa; Penarik; 950 km; 30; 2
-Terempa; Mersing; 950 km; 30; 2
-Terempa; Natuna; 1980 km; 30; 2
-Terempa; Batam; 1980 km; 30; 2
-Ternate; Sofifi; 3156 km; 175; 7
-Ternate; Manado; 3156 km; 175; 7
-Ternate; Labuha; 3156 km; 175; 7
-Ternate; Sorong; 3156 km; 175; 7
-Ternate; Sanana; 3156 km; 175; 7
-Ternate; Namlea; 3156 km; 175; 7
-Ternate; Ambon; 3156 km; 175; 7
-Terre Rouge; Sainte Marie; 1060 km; 15; 1
-Terre-de-Haut; Beausejour; 118 km; 60; 4
-Terre-de-Haut; Saint-François; 118 km; 60; 4
-Terre-de-Haut; Saint-Louis; 118 km; 60; 4
-Terre-de-Haut; Capesterre-Belle-Eau; 118 km; 60; 4
-Tétouan; Estepona; 113 km; 15; 1
-Tétouan; Sesimbra; 39000 km; 30; 2
-Tétouan; Mazara del Vallo; 39000 km; 30; 2
-Thanlyin; Tuas; 2227 km; 15; 1
-The Valley; Tortola; 1730 km; 30; 2
-The Valley; Saint Maarten; 1730 km; 30; 2
-Thinadhoo; Kolhufushi; 1136 km; 30; 2
-Thinadhoo; Hithadhoo; 1136 km; 30; 2
-Thisted; Kristiansand; 120 km; 15; 1
-Thorpeness; Zeebrugge; 550 km; 15; 1
-Tiakur; Kokar; 6300 km; 30; 2
-Tiakur; Serwaru; 6300 km; 30; 2
-Tidore; Sofifi; 2100 km; 30; 2
-Tidore; Gerante; 2100 km; 30; 2
-Tijuana; Fort Amador; 10000 km; 60; 4
-Tijuana; Grover Beach; 10000 km; 60; 4
-Tijuana; Mazatlán; 10000 km; 60; 4
-Tijuana; Unqui; 10000 km; 60; 4
-Timika; Agats; 6300 km; 45; 3
-Timika; Nabire; 6300 km; 45; 3
-Timika; Kep. Aru; 6300 km; 45; 3
-Timika; Merauke; 3498 km; 60; 4
-Timika; Kaimana; 3498 km; 60; 4
-Timika; Tual; 3498 km; 60; 4
-Timika; Fakfak; 3498 km; 60; 4
-Tinian; Saipan; 0 km; 30; 2
-Tinian; Rota; 0 km; 30; 2
-Tinocas; Rota; 1835 km; 60; 4
-Tinocas; Asilah; 1835 km; 60; 4
-Tinocas; Güimar; 1835 km; 60; 4
-Tinocas; Alta Vista; 1835 km; 60; 4
-Tinocas; Granadilla; 1835 km; 60; 4
-Tjele; Kristiansand;137 km; 15; 1
-Tjornuvik; Vestmannaeyjar; 2500 km; 75; 5
-Tjornuvik; South Arne; 2500 km; 75; 5
-Tjornuvik; Valdemar; 2500 km; 75; 5
-Tjornuvik; Blaabjerg; 2500 km; 75; 5
-Tjornuvik; Sylt; 2500 km; 75; 5
-To'ahotu; Vaitape; 3166 km; 75; 5
-To'ahotu; Rarotonga; 3166 km; 75; 5
-To'ahotu; Aitutaki; 3166 km; 75; 5
-To'ahotu; Alofi; 3166 km; 75; 5
-To'ahotu; Apia; 3166 km; 75; 5
-Toamasina; Sainte Marie; 1060 km; 15; 1
-Tobelo; Morotai; 2100 km; 15; 1
-Tobermory; Kilchoan Ferry; 420 km; 15; 1
-Toco; Pigeon Point; 48 km; 15; 1
-Toledo; San Carlos; 1300 km; 15; 1
-Toliara; Djibouti City; 10500 km; 200; 8
-Toliara; Dar Es Salaam; 10500 km; 200; 8
-Toliara; Maputo; 10500 km; 200; 8
-Toliara; Mogadishu; 10500 km; 200; 8
-Toliara; Mombasa; 10500 km; 200; 8
-Toliara; Moroni; 10500 km; 200; 8
-Toliara; Mtunzini; 10500 km; 200; 8
-Toliara; Port Sudan; 10500 km; 200; 8
-Tolmeta; Benghazi; 1639 km; 30; 2
-Tolmeta; Al Bayda; 1639 km; 30; 2
-Tolu; Maria Chiquita; 4400 km; 150; 6
-Tolu; Puerto Limon; 4400 km; 150; 6
-Tolu; Half Moon Bay; 4400 km; 150; 6
-Tolu; Puerto Cortes; 4400 km; 150; 6
-Tolu; Cancún; 4400 km; 150; 6
-Tolu; Hollywood; 4400 km; 150; 6
-Tolu; San Andreas; 826 km; 15; 1
-Tong Fuk; Toucheng; 9504 km; 30; 1
-Tong Fuk; Busan; 9504 km; 30; 1
-Topolobampo; La Paz; 250 km; 15; 1
-Toronto; Buffalo; 59 km; 15; 1
-Toronto; Kingston; 290 km; 15; 1
-Torshavn; BP Clair Ridge; 1000 km; 45; 3
-Torshavn; Glen Lyon; 1000 km; 45; 3
-Torshavn; Maywick; 1000 km; 45; 3
-Tortel; Puerto Montt; 2800 km; 45; 3
-Tortel; Punta Arenas; 2800 km; 45; 3
-Tortel; Puerto Williams; 2800 km; 45; 3
-Tortola; St. David’s; 1600 km; 15; 1
-Tortola; The Valley; 1730 km; 15; 1
-Tortola; San Juan; 6000 km; 30; 2
-Tortola; Jacksonville; 6000 km; 30; 2
-Totness; Chaguaramas; 1249 km; 30; 2
-Totness; Georgetown; 1249 km; 30; 2
-Totness; Georgetown; 775 km; 45; 3
-Totness; Pegwell; 775 km; 45; 3
-Totness; Port Salines; 775 km; 45; 3
-Toucheng; Busan; 10400 km; 250; 10
-Toucheng; Chongming; 10400 km; 250; 10
-Toucheng; Danang; 10400 km; 250; 10
-Toucheng; Kuantan; 10400 km; 250; 10
-Toucheng; Maruyama; 10400 km; 250; 10
-Toucheng; Nanhui; 10400 km; 250; 10
-Toucheng; Shima; 10400 km; 250; 10
-Toucheng; Songkhla; 10400 km; 250; 10
-Toucheng; Tseung Kwan O; 10400 km; 250; 10
-Toucheng; Tanah Merah; 10400 km; 250; 10
-Toucheng; Tong Fuk; 9504 km; 30; 2
-Toucheng; Wada; 9504 km; 30; 2
-Toucheng; Chung Hom Kok; 13780 km; 45; 3
-Toucheng; Hermosa Beach; 13780 km; 45; 3
-Toucheng; Manchester; 13780 km; 45; 3
-Toucheng; Busan; 13618 km; 150; 6
-Toucheng; Chongming; 13618 km; 150; 6
-Toucheng; Lingang; 13618 km; 150; 6
-Toucheng; Maruyama; 13618 km; 150; 6
-Toucheng; Nanhui; 13618 km; 150; 6
-Toucheng; Pacific City; 13618 km; 150; 6
-Toucheng; Baler; 12971 km; 60; 4
-Toucheng; Deep Water Bay; 12971 km; 60; 4
-Toucheng; El Segundo; 12971 km; 60; 4
-Toucheng; San Fernando City; 12971 km; 60; 4
-Toulon; Catania; 20000 km; 45; 3
-Toulon; Marmaris; 20000 km; 45; 3
-Toulon; Abu Talat; 20000 km; 45; 3
-Towale; Sangatta; 281 km; 15; 1
-Toweli; Sangatta; 1700 km; 15; 1
-Toyohashi; Piti; 22300 km; 30; 2
-Toyohashi; Hillsboro; 22300 km; 30; 2
-Trablous; Tartous; 134 km; 30; 2
-Trablous; Beirut; 134 km; 30; 2
-Trapani; Kelibia; 209 km; 15; 1
-Tripoli; Alexandria; 12091 km; 45; 3 
-Tripoli; Catania; 12091 km; 45; 3
-Tripoli; Marseille; 12091 km; 45; 3
-Tripoli; Monaco; 15000 km; 75; 5
-Tripoli; Gibraltar; 15000 km; 75; 5
-Tripoli; Sesimbra; 15000 km; 75; 5
-Tripoli; Bude; 15000 km; 75; 5
-Tripoli; Abu Talat; 15000 km; 75; 5
-Tripoli; Mazara del Vallo; 570 km; 15; 1
-Tripoli; Zawia; 1639 km; 30; 2
-Tripoli; Al Khums; 1639 km; 30; 2
-Trivendrum; Colombo; 680 km; 30; 2
-Trivendrum; Male; 680 km; 30; 2
-Trondheim; Vassbygda; 750 km; 15; 1
-Trondheim; Rørvik; 1004 km; 15; 1
-Troon; Whitehead; 122 km; 15; 1
-Trujillo; Puerto Lempira; 8600 km; 30; 2
-Trujillo; Puerto Cortes; 8600 km; 30; 2
-Tseung Kwan O; Busan; 10400 km; 250; 10
-Tseung Kwan O; Chongming; 10400 km; 250; 10
-Tseung Kwan O; Danang; 10400 km; 250; 10
-Tseung Kwan O; Kuantan; 10400 km; 250; 10
-Tseung Kwan O; Maruyama; 10400 km; 250; 10
-Tseung Kwan O; Nanhui; 10400 km; 250; 10
-Tseung Kwan O; Shima; 10400 km; 250; 10
-Tseung Kwan O; Songkhla; 10400 km; 250; 10
-Tseung Kwan O; Tanah Merah; 10400 km; 250; 10
-Tseung Kwan O; Toucheng; 10400 km; 250; 10
-Tseung Kwan O; Changi South; 8148 km; 75; 5
-Tseung Kwan O; Daet; 8148 km; 75; 5
+Tanshui; Tseung Kwan O; 36500; 60; 4
+Tanshui; Cavite; 36500; 60; 4
+Tanshui; Shindu-Ri; 36500; 60; 4
+Tanshui; Qingdao; 36500; 60; 4
+Tanshui; Bandon; 11629; 45; 3
+Tanshui; Chikura; 11629; 45; 3
+Tanshui; Shima; 11629; 45; 3
+Tanshui; Busan; 10500; 250; 10
+Tanshui; Changi South; 10500; 250; 10
+Tanshui; Chikura; 10500; 250; 10
+Tanshui; Chung Hom Kok; 10500; 250; 10
+Tanshui; Fangshan; 10500; 250; 10
+Tanshui; Lingang; 10500; 250; 10
+Tanshui; Quy Nhon; 10500; 250; 10
+Tanshui; Shima; 10500; 250; 10
+Tanshui; Songkhla; 10500; 250; 10
+Tanshui; Fuzhou; 260; 15; 1
+Tanshui; Chongming; 17000; 60; 4
+Tanshui; Geoje; 17000; 60; 4
+Tanshui; Maruyama; 17000; 60; 4
+Tanshui; Nedonna Beach; 17000; 60; 4
+Tarahales; Chipiona; 1398; 15; 1
+Tarakan; Bali; 5300; 225; 9
+Tarakan; Balikpapan; 5300; 225; 9
+Tarakan; Batam; 5300; 225; 9
+Tarakan; Dumai; 5300; 225; 9
+Tarakan; Jakarta; 5300; 225; 9
+Tarakan; Madura; 5300; 225; 9
+Tarakan; Makassar; 5300; 225; 9
+Tarakan; Manado; 5300; 225; 9
+Tarakan; Singapore; 5300; 225; 9
+Tarakan; Tanjung Selor; 83; 15; 1
+Taranaki; Manawatu-Wanganui; 0; 30; 2
+Taranaki; Waikato; 0; 30; 2
+Taro; Noro; 4700; 30; 2
+Taro; Honiara; 4700; 30; 2
+TarrafalSantiago; Sao Pedro; 0; 15; 1
+TarrafalSantiago; Sao Pedro; 0; 30; 2
+TarrafalSantiago; Nova Sintra; 0; 30; 2
+TarrafalSao Nicolau; Sao Pedro; 0; 30; 2
+TarrafalSao Nicolau; Murdeira; 0; 30; 2
+Tartous; Alexandria; 787; 15; 1
+Tartous; Trablous; 134; 15; 1
+Tartous; Pentaskhinos; 239; 15; 1
+Taytay; Coron; 332; 30; 2
+Taytay; San Jose; 332; 30; 2
+Taytay; Coron; 1300; 15; 1
+Taytay; San Jose de Buenavista; 300; 15; 1
+Tel Aviv; Bari; 2297; 15; 1
+Tel Aviv; Mazzara del Vallo; 2600; 30; 2
+Tel Aviv; Yeroskipos; 2600; 30; 2
+Tel Aviv; Haifa; 7000; 30; 2
+Tel Aviv; Catania; 7000; 30; 2
+Telisai; Chikura; 8900; 75; 5
+Telisai; Chung Hom Kok; 8900; 75; 5
+Telisai; Shantou; 8900; 75; 5
+Telisai; Nasugbu; 8900; 75; 5
+Telisai; Tuas; 8900; 75; 5
+Teluk; Manokwari; 6300; 30; 2
+Teluk; Nabire; 6300; 30; 2
+Teping Tinggi; Medan; 10860; 30; 2
+Teping Tinggi; Rantu Prapat; 10860; 30; 2
+Terante; Tidore; 2100; 15; 1
+Terempa; Penarik; 950; 30; 2
+Terempa; Mersing; 950; 30; 2
+Terempa; Natuna; 1980; 30; 2
+Terempa; Batam; 1980; 30; 2
+Ternate; Sofifi; 3156; 175; 7
+Ternate; Manado; 3156; 175; 7
+Ternate; Labuha; 3156; 175; 7
+Ternate; Sorong; 3156; 175; 7
+Ternate; Sanana; 3156; 175; 7
+Ternate; Namlea; 3156; 175; 7
+Ternate; Ambon; 3156; 175; 7
+Terre Rouge; Sainte Marie; 1060; 15; 1
+Terre-de-Haut; Beausejour; 118; 60; 4
+Terre-de-Haut; Saint-François; 118; 60; 4
+Terre-de-Haut; Saint-Louis; 118; 60; 4
+Terre-de-Haut; Capesterre-Belle-Eau; 118; 60; 4
+Tétouan; Estepona; 113; 15; 1
+Tétouan; Sesimbra; 39000; 30; 2
+Tétouan; Mazara del Vallo; 39000; 30; 2
+Thanlyin; Tuas; 2227; 15; 1
+The Valley; Tortola; 1730; 30; 2
+The Valley; Saint Maarten; 1730; 30; 2
+Thinadhoo; Kolhufushi; 1136; 30; 2
+Thinadhoo; Hithadhoo; 1136; 30; 2
+Thisted; Kristiansand; 120; 15; 1
+Thorpeness; Zeebrugge; 550; 15; 1
+Tiakur; Kokar; 6300; 30; 2
+Tiakur; Serwaru; 6300; 30; 2
+Tidore; Sofifi; 2100; 30; 2
+Tidore; Gerante; 2100; 30; 2
+Tijuana; Fort Amador; 10000; 60; 4
+Tijuana; Grover Beach; 10000; 60; 4
+Tijuana; Mazatlán; 10000; 60; 4
+Tijuana; Unqui; 10000; 60; 4
+Timika; Agats; 6300; 45; 3
+Timika; Nabire; 6300; 45; 3
+Timika; Kep. Aru; 6300; 45; 3
+Timika; Merauke; 3498; 60; 4
+Timika; Kaimana; 3498; 60; 4
+Timika; Tual; 3498; 60; 4
+Timika; Fakfak; 3498; 60; 4
+Tinian; Saipan; 0; 30; 2
+Tinian; Rota; 0; 30; 2
+Tinocas; Rota; 1835; 60; 4
+Tinocas; Asilah; 1835; 60; 4
+Tinocas; Güimar; 1835; 60; 4
+Tinocas; Alta Vista; 1835; 60; 4
+Tinocas; Granadilla; 1835; 60; 4
+Tjele; Kristiansand; 137; 15; 1
+Tjornuvik; Vestmannaeyjar; 2500; 75; 5
+Tjornuvik; South Arne; 2500; 75; 5
+Tjornuvik; Valdemar; 2500; 75; 5
+Tjornuvik; Blaabjerg; 2500; 75; 5
+Tjornuvik; Sylt; 2500; 75; 5
+To'ahotu; Vaitape; 3166; 75; 5
+To'ahotu; Rarotonga; 3166; 75; 5
+To'ahotu; Aitutaki; 3166; 75; 5
+To'ahotu; Alofi; 3166; 75; 5
+To'ahotu; Apia; 3166; 75; 5
+Toamasina; Sainte Marie; 1060; 15; 1
+Tobelo; Morotai; 2100; 15; 1
+Tobermory; Kilchoan Ferry; 420; 15; 1
+Toco; Pigeon Point; 48; 15; 1
+Toledo; San Carlos; 1300; 15; 1
+Toliara; Djibouti City; 10500; 200; 8
+Toliara; Dar Es Salaam; 10500; 200; 8
+Toliara; Maputo; 10500; 200; 8
+Toliara; Mogadishu; 10500; 200; 8
+Toliara; Mombasa; 10500; 200; 8
+Toliara; Moroni; 10500; 200; 8
+Toliara; Mtunzini; 10500; 200; 8
+Toliara; Port Sudan; 10500; 200; 8
+Tolmeta; Benghazi; 1639; 30; 2
+Tolmeta; Al Bayda; 1639; 30; 2
+Tolu; Maria Chiquita; 4400; 150; 6
+Tolu; Puerto Limon; 4400; 150; 6
+Tolu; Half Moon Bay; 4400; 150; 6
+Tolu; Puerto Cortes; 4400; 150; 6
+Tolu; Cancún; 4400; 150; 6
+Tolu; Hollywood; 4400; 150; 6
+Tolu; San Andreas; 826; 15; 1
+Tong Fuk; Toucheng; 9504; 30; 1
+Tong Fuk; Busan; 9504; 30; 1
+Topolobampo; La Paz; 250; 15; 1
+Toronto; Buffalo; 59; 15; 1
+Toronto; Kingston; 290; 15; 1
+Torshavn; BP Clair Ridge; 1000; 45; 3
+Torshavn; Glen Lyon; 1000; 45; 3
+Torshavn; Maywick; 1000; 45; 3
+Tortel; Puerto Montt; 2800; 45; 3
+Tortel; Punta Arenas; 2800; 45; 3
+Tortel; Puerto Williams; 2800; 45; 3
+Tortola; St. David’s; 1600; 15; 1
+Tortola; The Valley; 1730; 15; 1
+Tortola; San Juan; 6000; 30; 2
+Tortola; Jacksonville; 6000; 30; 2
+Totness; Chaguaramas; 1249; 30; 2
+Totness; Georgetown; 1249; 30; 2
+Totness; Georgetown; 775; 45; 3
+Totness; Pegwell; 775; 45; 3
+Totness; Port Salines; 775; 45; 3
+Toucheng; Busan; 10400; 250; 10
+Toucheng; Chongming; 10400; 250; 10
+Toucheng; Danang; 10400; 250; 10
+Toucheng; Kuantan; 10400; 250; 10
+Toucheng; Maruyama; 10400; 250; 10
+Toucheng; Nanhui; 10400; 250; 10
+Toucheng; Shima; 10400; 250; 10
+Toucheng; Songkhla; 10400; 250; 10
+Toucheng; Tseung Kwan O; 10400; 250; 10
+Toucheng; Tanah Merah; 10400; 250; 10
+Toucheng; Tong Fuk; 9504; 30; 2
+Toucheng; Wada; 9504; 30; 2
+Toucheng; Chung Hom Kok; 13780; 45; 3
+Toucheng; Hermosa Beach; 13780; 45; 3
+Toucheng; Manchester; 13780; 45; 3
+Toucheng; Busan; 13618; 150; 6
+Toucheng; Chongming; 13618; 150; 6
+Toucheng; Lingang; 13618; 150; 6
+Toucheng; Maruyama; 13618; 150; 6
+Toucheng; Nanhui; 13618; 150; 6
+Toucheng; Pacific City; 13618; 150; 6
+Toucheng; Baler; 12971; 60; 4
+Toucheng; Deep Water Bay; 12971; 60; 4
+Toucheng; El Segundo; 12971; 60; 4
+Toucheng; San Fernando City; 12971; 60; 4
+Toulon; Catania; 20000; 45; 3
+Toulon; Marmaris; 20000; 45; 3
+Toulon; Abu Talat; 20000; 45; 3
+Towale; Sangatta; 281; 15; 1
+Toweli; Sangatta; 1700; 15; 1
+Toyohashi; Piti; 22300; 30; 2
+Toyohashi; Hillsboro; 22300; 30; 2
+Trablous; Tartous; 134; 30; 2
+Trablous; Beirut; 134; 30; 2
+Trapani; Kelibia; 209; 15; 1
+Tripoli; Alexandria; 12091; 45; 3 
+Tripoli; Catania; 12091; 45; 3
+Tripoli; Marseille; 12091; 45; 3
+Tripoli; Monaco; 15000; 75; 5
+Tripoli; Gibraltar; 15000; 75; 5
+Tripoli; Sesimbra; 15000; 75; 5
+Tripoli; Bude; 15000; 75; 5
+Tripoli; Abu Talat; 15000; 75; 5
+Tripoli; Mazara del Vallo; 570; 15; 1
+Tripoli; Zawia; 1639; 30; 2
+Tripoli; Al Khums; 1639; 30; 2
+Trivendrum; Colombo; 680; 30; 2
+Trivendrum; Male; 680; 30; 2
+Trondheim; Vassbygda; 750; 15; 1
+Trondheim; Rørvik; 1004; 15; 1
+Troon; Whitehead; 122; 15; 1
+Trujillo; Puerto Lempira; 8600; 30; 2
+Trujillo; Puerto Cortes; 8600; 30; 2
+Tseung Kwan O; Busan; 10400; 250; 10
+Tseung Kwan O; Chongming; 10400; 250; 10
+Tseung Kwan O; Danang; 10400; 250; 10
+Tseung Kwan O; Kuantan; 10400; 250; 10
+Tseung Kwan O; Maruyama; 10400; 250; 10
+Tseung Kwan O; Nanhui; 10400; 250; 10
+Tseung Kwan O; Shima; 10400; 250; 10
+Tseung Kwan O; Songkhla; 10400; 250; 10
+Tseung Kwan O; Tanah Merah; 10400; 250; 10
+Tseung Kwan O; Toucheng; 10400; 250; 10
+Tseung Kwan O; Changi South; 8148; 75; 5
+Tseung Kwan O; Daet; 8148; 75; 5
 Tseung Kwan O; Komesu; 8148 km; 75; 5
 Tseung Kwan O; Maruyama; 8148 km; 75; 5
 Tseung Kwan O; Mersing; 8148 km; 75; 5
