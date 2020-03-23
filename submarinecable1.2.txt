@@ -831,376 +831,376 @@ Tseung Kwan O; Tanah Merah; 10400; 250; 10
 Tseung Kwan O; Toucheng; 10400; 250; 10
 Tseung Kwan O; Changi South; 8148; 75; 5
 Tseung Kwan O; Daet; 8148; 75; 5
-Tseung Kwan O; Komesu; 8148 km; 75; 5
-Tseung Kwan O; Maruyama; 8148 km; 75; 5
-Tseung Kwan O; Mersing; 8148 km; 75; 5
-Tseung Kwan O; Fangshan; 36500 km; 150; 6
-Tseung Kwan O; Changi South; 36500 km; 150; 6
-Tseung Kwan O; Pa Li; 36500 km; 150; 6
-Tseung Kwan O; Shindu-Ri; 36500 km; 150; 6
-Tseung Kwan O; Qingdao; 36500 km; 150; 6
-Tseung Kwan O; Shima; 36500 km; 150; 6
-Tseung Kwan O; Piti; 3693 km; 15; 1
-Tual; Kep. Aru; 6300 km; 30; 2
-Tual; Suemlaki; 6300 km; 30; 2
-Tual; Fakfak; 3498 km; 60; 4
-Tual; Kaimana; 3498 km; 60; 4
-Tual; Timika; 3498 km; 60; 4
-Tual; Merauke; 3498 km; 60; 4
-Tuas; Jakarta; 4600 km; 15; 1
-Tuas; Dumai; 5300 km; 225; 9
-Tuas; Batam; 5300 km; 225; 9
-Tuas; Jakarta; 5300 km; 225; 9
-Tuas; Madura; 5300 km; 225; 9
-Tuas; Bali; 5300 km; 225; 9
-Tuas; Makassar; 5300 km; 225; 9
-Tuas; Balikpapan; 5300 km; 225; 9
-Tuas; Manado; 5300 km; 225; 9
-Tuas; Tarakan; 5300 km; 225; 9
-Tuas; Chennai; 11000 km; 45; 3
-Tuas; Mumbai; 11000 km; 45; 3
-Tuas; Ngwe Saung; 11000 km; 45; 3
-Tuas; Mumbai; 39000 km; 175; 7
-Tuas; Cochin; 39000 km; 175; 7
-Tuas; Mt. Lavinia; 39000 km; 175; 7
-Tuas; Pyapon; 39000 km; 175; 7
-Tuas; Satun; 39000 km; 175; 7
-Tuas; Penang; 39000 km; 175; 7
-Tuas; Medan; 39000 km; 175; 7
-Tuas; Melaka; 20000 km; 60; 4
-Tuas; Satun; 20000 km; 60; 4
-Tuas; Cox’s Bazar; 20000 km; 60; 4
-Tuas; Chennai; 20000 km; 60; 4
-Tuas; Melaka; 20000 km; 150; 6
-Tuas; Dumai; 20000 km; 150; 6
-Tuas; Medan; 20000 km; 150; 6
-Tuas; Ngwe Saung; 20000 km; 150; 6
-Tuas; Kuakata; 20000 km; 150; 6
-Tuas; Matara; 20000 km; 150; 6
-Tuas; Thanlyin; 2227 km; 15; 1
-Tuas; Chikura; 8900 km; 75; 5
-Tuas; Chung Hom Kok; 8900 km; 75; 5
-Tuas; Nasugbu; 8900 km; 75; 5
-Tuas; Shantou; 8900 km; 75; 5
-Tuas; Telisai; 8900 km; 75; 5
-Tuas; Chennai; 3200 km; 15; 1
-Tuasivi; Apia; 1693 km; 75; 5
-Tuasivi; Leava; 1693 km; 75; 5
-Tuasivi; Mata-Utu; 1693 km; 75; 5
-Tuasivi; Savusavu; 1693 km; 75; 5
-Tuasivi; Suva; 1693 km; 75; 5
-Tuborg; Barsebäck; 25 km; 15; 1
-Tubruq; Derna; 1639 km; 15; 1
-Tubruq; El-Quawef; 178 km; 15; 1
-Tuckerton; St. David’s; 23500 km; 30; 2
-Tuckerton; Boca Raton; 23500 km; 30; 2
-Tuckerton; Manasquan; 15295 km; 45; 3
-Tuckerton; Bude; 15295 km; 45; 3
-Tuckerton; Blaabjerg; 15295 km; 45; 3
-Tulum; Cancún; 8600 km; 30; 2
-Tulum; Belize City; 8600 km; 30; 2
-Tumon Bay; Maruyama; 12700 km;  75; 5
-Tumon Bay; Oxford Falls; 12700 km;  75; 5
-Tumon Bay; Paddington; 12700 km;  75; 5
-Tumon Bay; Shima; 12700 km;  75; 5
-Tumon Bay; Tanguisson Point; 12700 km;  75; 5
-Tumon Bay; Kita-kyushu; 4244 km; 30; 2
-Tumon Bay; Okinawa; 4244 km; 30; 2
-Tungku; Lantau Island; 20000 km; 60; 4
-Tungku; Vung Tau; 20000 km; 60; 4
-Tungku; Sriracha; 20000 km; 60; 4
-Tungku; Mersing; 20000 km; 60; 4
-Tungku; Kiamsam; 52 km; 15; 1
-Tungku; Geoje; 39000 km; 630; 14
-Tungku; Shanghai; 39000 km; 630; 14
-Tungku; Okinawa; 39000 km; 630; 14
-Tungku; Toucheng; 39000 km; 630; 14
-Tungku; Fangshan; 39000 km; 630; 14
-Tungku; Shantou; 39000 km; 630; 14
-Tungku; Deep Water Bay; 39000 km; 630; 14
-Tungku; Taipa; 39000 km; 630; 14
-Tungku; Batangas; 39000 km; 630; 14
-Tungku; Danang; 39000 km; 630; 14
-Tungku; Mersing; 39000 km; 630; 14
-Tungku; Ancol; 39000 km; 630; 14
-Tungku; Perth; 39000 km; 630; 14
-Tungku; Tuas; 39000 km; 630; 14
-Turku; Norrtalge; 254 km; 15; 1
-Tuticorine; Mt. Lavinia; 325 km; 15; 1
-Tutuyan; Luwuk; 446 km; 15; 1
-Tyra; Valdemar; 2500 km; 15; 1
-Ujung Pankah; Bawean; 543 km; 30; 2
-Ujung Pankah; Takesung; 543 km; 30; 2
-Ulsteinvik; Ålesund; 750 km; 30; 2
-Ulsteinvik; Måløy; 750 km; 30; 2
-Umag; Mestre; 230 km; 15; 1
-Umbogintwini; Baie du Tombeau; 3200 km; 45; 3
-Umbogintwini; Fort Dauphin; 3200 km; 45; 3
-Umbogintwini; Le Port; 3200 km; 45; 3
-Umeå; Vaasa; 93 km; 15; 1
-Union Island; Bequia; 225 km; 150; 6
-Union Island; Canouan; 225 km; 150; 6
-Union Island; Carriacou; 225 km; 150; 6
-Union Island; Conference; 225 km; 150; 6
-Union Island; Kingstown; 225 km; 150; 6
-Union Island; Mustique; 225 km; 150; 6
-Unqui; Fort Amador; 10000 km; 60; 4
-Unqui; Grover Beach; 10000 km; 60; 4
-Unqui; Mazatlán; 10000 km; 60; 4
-Unqui; Tijuana; 10000 km; 60; 4
-Ust-Bolsheretsk; Okha; 1855 km; 15; 1
-Utqiaġvik; Kotzebue; 1900 km; 75; 5
-Utqiaġvik; Nome; 1900 km; 75; 5
-Utqiaġvik; Point Hope; 1900 km; 75; 5
-Utqiaġvik; Prudhoe Bay; 1900 km; 75; 5
-Utqiaġvik; Wainwright; 1900 km; 75; 5
-Utskarpen; Hemnesberget; 0 km; 30; 2
-Utskarpen; Nesna; 0 km; 30; 2
-Uturoa; Vaitape; 4805 km; 30; 2
-Uturoa; Huahine; 4805 km; 30; 2
-Vaasa; Umeå; 93 km; 15; 1
-Väddö; Mariehamn; 142 km; 15; 1
-Vaitape; Aitutaki; 3166 km; 75; 5
-Vaitape; Alofi; 3166 km; 75; 5
-Vaitape; Apia; 3166 km; 75; 5
-Vaitape; Rarotonga; 3166 km; 75; 5
-Vaitape; To'ahotu; 3166 km; 75; 5
-Vaitape; Uturoa; 4805 km; 15; 1
-Valdemar; Blaabjerg; 2500 km; 150; 6
-Valdemar; South Arn; 2500 km; 150; 6
-Valdemar; Sylt; 2500 km; 2500 km; 150; 6; 150; 6
-Valdemar; Tjornuvik; 2500 km; 150; 6
-Valdemar; Tyra; 2500 km; 150; 6
-Valdemar; Vestmannaeyjar; 2500 km; 150; 6
-Valdez; Whittier; 3751 km; 15; 1
-Valdez; Whittier; 3229 km; 15; 1
-Valencia; Palma; 274 km; 15; 1
-Valencia; Algiers; 770 km; 30; 2
-Valencia; Oran; 770 km; 30; 2
-Valparaíso; Arica; 8790 km; 60; 4
-Valparaíso; Lurin; 8790 km; 60; 4
-Valparaíso; Puerto San Jose; 8790 km; 60; 4
-Valparaíso; Salinas; 8790 km; 60; 4
-Valparaíso; Balboa; 10476 km; 30; 2
-Valparaíso; Los Angeles; 10476 km; 30; 2
-Valparaíso; Talcahuano; 3500 km; 15; 1
-Valparaíso; Arica; 25000 km; 15; 1
-Valparaíso; Lurin; 20000 km; 15; 1
-Valverde; San Sebastian de la Gomera; 0 km; 15; 1
-Vanimo; Jayapura; 5457 km; 200; 8
-Vanimo; Wewak; 5457 km; 200; 8
-Vanimo; Lorengau; 5457 km; 200; 8
-Vanimo; Madang; 5457 km; 200; 8
-Vanimo; Kimbe; 5457 km; 200; 8
-Vanimo; Kavieng; 5457 km; 200; 8
-Vanimo; Kokopo; 5457 km; 200; 8
-Vanimo; Arawa; 5457 km; 200; 8
-Varberg; Laeso; 0 km; 15; 1
-Vassbygda; Trondheim; 750 km; 45; 3
-Vassbygda; Brekstad; 750 km; 45; 3
-Vassbygda; Smola; 750 km; 45; 3
-Velas; Graciosa; 1100 km; 30; 2
-Velas; Faial; 1100 km; 30; 2
-Velling; Mosede; 15 km; 15; 1
-Ventspils; Nynashamn; 304 km; 15; 1
-Ventspils; Farosund; 391 km; 15; 1
-Vero Beach; Magen’s Bay; 2012 km; 15; 1
-Vero Beach; Eight-Mile Rock; 470 km; 15; 1
-Vestero; Lyngsa; 75 km; 15; 1
-Vestmannaeyjar; Tjornuvik; 2500 km; 75; 5
-Vestmannaeyjar; South Arne; 2500 km; 75; 5
-Vestmannaeyjar; Valdemar; 2500 km; 75; 5
-Vestmannaeyjar; Blaabjerg; 2500 km; 75; 5
-Vestmannaeyjar; Sylt; 2500 km; 75; 5
-Victoria; Zafarana; 15000 km; 225; 9
-Victoria; Djibouti City; 15000 km; 225; 9
-Victoria; Bosaso; 15000 km; 225; 9
-Victoria; Gwadar; 15000 km; 225; 9
-Victoria; Karachi; 15000 km; 225; 9
-Victoria; Hobyo; 15000 km; 225; 9
-Victoria; Mogadishu; 15000 km; 225; 9
-Victoria; Kismayo; 15000 km; 225; 9
-Victoria; Mombasa; 15000 km; 225; 9
-Victoria; Dar Es Salaam; 1930 km; 15; 1
-Vila do Maio; Sal Rei; 0 km; 30; 2
-Vila do Maio; Praia; 0 km; 30; 2
-Vila do Porto; Ponta Delgada; 1100 km; 30; 2
-Vila do Porto; Sao Mateus; 1100 km; 30; 2
-Vila Olga; Banana Bay; 183 km; 60; 4
-Vila Olga; Brewer's Bay; 183 km; 60; 4
-Vila Olga; Flamingo Bay; 183 km; 60; 4
-Vila Olga; Great Bay; 183 km; 60; 4
-Virginia Beach; Fortaleza; 11000 km; 45; 3
-Virginia Beach; Rio de Janeiro; 11000 km; 45; 3
-Virginia Beach; San Juan; 11000 km; 45; 3
-Virginia Beach; Saint-Hilaire-de-Riez; 6400 km; 15; 1
-Virginia Beach; Bilbao; 6605 km; 15; 1
-Vitória; São Mateus; 2543 km; 30; 2
-Vitória; Atafona; 2543 km; 30; 2
-Vung Tau; Songkhla; 25000 km; 45; 3
-Vung Tau; Sihanoukville; 25000 km; 45; 3
-Vung Tau; Cape D’Aguilar; 25000 km; 45; 3
-Vung Tau; La Union; 20000 km; 75; 5
-Vung Tau; Lantau Island; 20000 km; 75; 5
-Vung Tau; Tungku; 20000 km; 75; 5
-Vung Tau; Sriracha; 20000 km; 75; 5
-Vung Tau; Mersing; 20000 km; 75; 5
-Vung Tau; Ballesteros; 6700 km; 45; 3
-Vung Tau; Changi North; 6700 km; 45; 3
-Vung Tau; Deep Water Bay; 6700 km; 45; 3
-Wada; Busan; 9504 km; 30; 2
-Wada; Toucheng; 9504 km; 30; 2
-Waikato; Auckland; 0 km; 30; 2 
-Waikato; Taranaki;; 0 km; 30; 2 
-Waingapu; Ende; 1318 km; 30; 2
-Waingapu; Saraemee; 1318 km; 30; 2
-Waingapu; Seba; 6300 km; 15; 1
-Wainwright; Kotzebue; 1900 km; 75; 5
-Wainwright; Nome; 1900 km; 75; 5
-Wainwright; Point Hope; 1900 km; 75; 5
-Wainwright; Prudhoe Bay; 1900 km; 75; 5
-Wainwright; Utqiaġvik; 1900 km; 75; 5
-Waisai; Sorong; 3498 km; 15; 1
-Wall Township; Blaabjerg; 7200 km; 45; 3
-Wall Township; Kristiansand; 7200 km; 45; 3
-Wall Township; Lecanvey; 7200 km; 45; 3
-Wall Township; Praia Grande; 10800 km; 15; 1
-Wall Township; Highbridge; 13000 km; 15; 1
-Wall Township; Westbury; 60 km; 15; 1
-Warrenton; Seward; 2485 km; 15; 1
-Wawonii; Kendari; 2100 km; 30; 2
-Wawonii; Raha; 2100 km; 30; 2
-Wellington; Marlborough; 0 km; 30; 2
-Wellington; Manawatu-Wanganui; 0 km; 30; 2
-Wenchang; Zhuhai; 780 km; 15; 1
-Weno; Pohnpei; 1200 km; 15; 1
-West Palm Beach; Magen’s Bay; 2068 km; 15; 1
-Westbury; Wall Township; 60 km; 15; 1
-Wewak; Jayapura; 5457 km; 200; 8
-Wewak; Vanimo; 5457 km; 200; 8
-Wewak; Lorengau; 5457 km; 200; 8
-Wewak; Madang; 5457 km; 200; 8
-Wewak; Kimbe; 5457 km; 200; 8
-Wewak; Kavieng; 5457 km; 200; 8
-Wewak; Kokopo; 5457 km; 200; 8
-Wewak; Arawa; 5457 km; 200; 8
-Whenuapai; Alexandria; 30500 km; 15; 1
-Whitehead;  Troon; 122 km; 15; 1
-Whitesands Bay; Beverwijk; 14301 km; 30; 2
-Whitesands Bay; Brookhaven; 14301 km; 30; 2
-Whitesands Bay; Ballygrangans; 495 km; 15; 1
-Whittier; Juneau; 3751 km; 45; 3
-Whittier; Lynnwood; 3751 km; 45; 3
-Whittier; Valdez; 3751 km; 45; 3
-Whittier; Hillsboro; 3229 km; 45; 3
-Whittier; Lena Point; 3229 km; 45; 3
-Whittier; Valdez; 3229 km; 45; 3
-Willemstad; Punto Fijo; 8600 km; 30; 2
-Willemstad; Isla Verde; 8600 km; 30; 2
-Willemstad; Baby Beach; 128 km; 15; 1
-Willemstad; St. Croix; 8373 km; 150; 6
-Willemstad; Camuri; 8373 km; 150; 6
-Willemstad; Cayenne; 8373 km; 150; 6 
-Willemstad; Fortaleza; 8373 km; 150; 6 
-Willemstad; Le Lamentin; 8373 km; 150; 6 
-Willemstad; Port of Spain; 8373 km; 150; 6 
-Willemstad; Kralendijk; 85 km; 15; 1
-Willemstad; Chaguaramas;  987 km; 15; 1
-Willemstad; North Salina; 0 km; 15; 1
-Winterton-on-Sea; Egmond; 208 km; 15; 1
-Wrangell; Petersburg; 626 km; 15; 1
-Wurrumiyanga; Darwin; 2100 km; 30; 2
-Wurrumiyanga; Port Hedland; 2100 km; 30; 2
-Xepenehe; Mouly; 0 km; 30; 2
-Xepenehe; Poindimie; 0 km; 30; 2
-Yanbu; Zafarana; 20000 km; 175; 7
-Yanbu; Al Hudaydah; 20000 km; 175; 7
-Yanbu; Haramous; 20000 km; 175; 7
-Yanbu; Qalhat; 20000 km; 175; 7
-Yanbu; Fujairah; 20000 km; 175; 7
-Yanbu; Karachi; 20000 km; 175; 7
-Yanbu; Matara; 20000 km; 175; 7
-Yapen; Supiori; 6300 km; 30; 2
-Yapen; Nabire; 6300 km; 30; 2
-Yeroskipos; Chania;  868 km; 15; 1
-Yeroskipos; Alexandria; 3400 km; 30; 2
-Yeroskipos; Marseille; 3400 km; 30; 2
-Yeroskipos; Mazara del Vallo; 2600 km; 30; 2
-Yeroskipos; Tel Aviv; 2600 km; 30; 2
-Yeroskipos; Pentaskhinos; 800 km; 15; 1
-Yeroskipos; Alexandria; 39000 km; 60; 4 
-Yeroskipos; Marmaris; 39000 km; 60; 4 
-Yeroskipos; Chania; 39000 km; 60; 4 
-Yeroskipos; Mazara del Vallo; 39000 km; 60; 4 
-Yeroskipos; Haifa; 345 km; 15; 1
-Ystad; Pedersker; 437 km; 15; 1
-Yuzhno Kurilsk; Krabozavodskoye; 940 km; 30; 2
-Yuzhno Kurilsk; Kurilsk; 940 km; 30; 2
-Yuzhno-Sakhalinsk; Kurilsk; 940 km; 15; 1
-Yzerfontein; Abidjan; 14530 km; 540; 12
-Yzerfontein; Accra; 14530 km; 540; 12
-Yzerfontein; Alta Vista; 14530 km; 540; 12
-Yzerfontein; Lagos; 14530 km; 540; 12
-Yzerfontein; Limbe; 14530 km; 540; 12
-Yzerfontein; Lome; 14530 km; 540; 12
-Yzerfontein; Muanda; 14530 km; 540; 12
-Yzerfontein; Pointe-Noire; 14530 km; 540; 12
-Yzerfontein; Praia; 14530 km; 540; 12
-Yzerfontein; Sangano; 14530 km; 540; 12
-Yzerfontein; Seixal; 14530 km; 540; 12
-Yzerfontein; Swakopmund; 14530 km; 540; 12
-Zafarana; Abu Talat; 25000 km; 540; 12
-Zafarana; Jeddah; 25000 km; 540; 12
-Zafarana; Djibouti City; 25000 km; 540; 12
-Zafarana; Aden; 25000 km; 540; 12
-Zafarana; Doha; 25000 km; 540; 12
-Zafarana; Fujairah; 25000 km; 540; 12
-Zafarana; Al Bustan; 25000 km; 540; 12
-Zafarana; Karachi; 25000 km; 540; 12
-Zafarana; Mumbai; 25000 km; 540; 12
-Zafarana; Ngwe Saung; 25000 km; 540; 12
-Zafarana; Kuala Kurau; 25000 km; 540; 12
-Zafarana; Satun; 25000 km; 540; 12
-Zafarana; Abu Talat; 15000 km; 75; 5 
-Zafarana; Jeddah; 15000 km; 75; 5 
-Zafarana; Haramous; 15000 km; 75; 5 
-Zafarana; Barka; 15000 km; 75; 5 
-Zafarana; Mumbai; 15000 km; 75; 5 
-Zafarana; Abu Talat; 8000 km; 45; 3
-Zafarana; Al Seeb; 8000 km; 45; 3
-Zafarana; Jeddah; 8000 km; 45; 3
-Zafarana; Abu Talat; 15000 km; 250; 10
-Zafarana; Bosaso; 15000 km; 250; 10
-Zafarana; Djibouti City; 15000 km; 250; 10
-Zafarana; Gwadar; 15000 km; 250; 10
-Zafarana; Hobyo; 15000 km; 250; 10
-Zafarana; Karachi; 15000 km; 250; 10
-Zafarana; Kismayo; 15000 km; 250; 10
-Zafarana; Mogadishu; 15000 km; 250; 10
-Zafarana; Mombasa; 15000 km; 250; 10
-Zafarana; Victoria; 15000 km; 250; 10
-Zafarana; Dar Es Salaam; 15000 km; 175; 7
-Zafarana; Djibouti City; 15000 km; 175; 7
-Zafarana; Jeddah; 15000 km; 175; 7
-Zafarana; Maputo; 15000 km; 175; 7
-Zafarana; Mombasa; 15000 km; 175; 7
-Zafarana; Mtunzini; 15000 km; 175; 7
-Zafarana; Mumbai; 15000 km; 175; 7
-Zafarana; Abu Talat; 20000 km; 200; 8
-Zafarana; Yanbu; 20000 km; 200; 8
-Zafarana; Al Hudaydah; 20000 km; 200; 8
-Zafarana; Haramous; 20000 km; 200; 8
-Zafarana; Fujairah; 20000 km; 200; 8
-Zafarana; Karachi; 20000 km; 200; 8
-Zafarana; Qalhat; 20000 km; 200; 8
-Zafarana; Matara; 20000 km; 200; 8
-Zandvoort; Lowestoft; 203 km; 15; 1
-Zandvoort; Sizewell; 550 km; 30; 2
-Zandvoort; Zeebrugge; 550 km; 30; 2
-Zawia; Tripoli; 1639 km; 30; 2
-Zawia; Zuwara; 1639 km; 30; 2
-Zeebrugge; Zandvoort; 550 km; 30; 2
-Zeebrugge; Thorpeness; 550 km; 30; 2
-Zhuhai; Hong Kong; 780 km; 30; 2
-Zhuhai; Wenchang; 780 km; 30; 2
-Zuwara; Zawia; 1639 km; 15; 1
+Tseung Kwan O; Komesu; 8148; 75; 5
+Tseung Kwan O; Maruyama; 8148; 75; 5
+Tseung Kwan O; Mersing; 8148; 75; 5
+Tseung Kwan O; Fangshan; 36500; 150; 6
+Tseung Kwan O; Changi South; 36500; 150; 6
+Tseung Kwan O; Pa Li; 36500; 150; 6
+Tseung Kwan O; Shindu-Ri; 36500; 150; 6
+Tseung Kwan O; Qingdao; 36500; 150; 6
+Tseung Kwan O; Shima; 36500; 150; 6
+Tseung Kwan O; Piti; 3693; 15; 1
+Tual; Kep. Aru; 6300; 30; 2
+Tual; Suemlaki; 6300; 30; 2
+Tual; Fakfak; 3498; 60; 4
+Tual; Kaimana; 3498; 60; 4
+Tual; Timika; 3498; 60; 4
+Tual; Merauke; 3498; 60; 4
+Tuas; Jakarta; 4600; 15; 1
+Tuas; Dumai; 5300; 225; 9
+Tuas; Batam; 5300; 225; 9
+Tuas; Jakarta; 5300; 225; 9
+Tuas; Madura; 5300; 225; 9
+Tuas; Bali; 5300; 225; 9
+Tuas; Makassar; 5300; 225; 9
+Tuas; Balikpapan; 5300; 225; 9
+Tuas; Manado; 5300; 225; 9
+Tuas; Tarakan; 5300; 225; 9
+Tuas; Chennai; 11000; 45; 3
+Tuas; Mumbai; 11000; 45; 3
+Tuas; Ngwe Saung; 11000; 45; 3
+Tuas; Mumbai; 39000; 175; 7
+Tuas; Cochin; 39000; 175; 7
+Tuas; Mt. Lavinia; 39000 175; 7
+Tuas; Pyapon; 39000; 175; 7
+Tuas; Satun; 39000; 175; 7
+Tuas; Penang; 39000; 175; 7
+Tuas; Medan; 39000; 175; 7
+Tuas; Melaka; 20000; 60; 4
+Tuas; Satun; 20000; 60; 4
+Tuas; Cox’s Bazar; 20000; 60; 4
+Tuas; Chennai; 20000; 60; 4
+Tuas; Melaka; 20000; 150; 6
+Tuas; Dumai; 20000; 150; 6
+Tuas; Medan; 20000; 150; 6
+Tuas; Ngwe Saung; 20000; 150; 6
+Tuas; Kuakata; 20000; 150; 6
+Tuas; Matara; 20000; 150; 6
+Tuas; Thanlyin; 2227; 15; 1
+Tuas; Chikura; 8900; 75; 5
+Tuas; Chung Hom Kok; 8900; 75; 5
+Tuas; Nasugbu; 8900; 75; 5
+Tuas; Shantou; 8900; 75; 5
+Tuas; Telisai; 8900; 75; 5
+Tuas; Chennai; 3200; 15; 1
+Tuasivi; Apia; 1693; 75; 5
+Tuasivi; Leava; 1693; 75; 5
+Tuasivi; Mata-Utu; 1693; 75; 5
+Tuasivi; Savusavu; 1693; 75; 5
+Tuasivi; Suva; 1693; 75; 5
+Tuborg; Barsebäck; 25; 15; 1
+Tubruq; Derna; 1639; 15; 1
+Tubruq; El-Quawef; 178; 15; 1
+Tuckerton; St. David’s; 23500; 30; 2
+Tuckerton; Boca Raton; 23500; 30; 2
+Tuckerton; Manasquan; 15295; 45; 3
+Tuckerton; Bude; 15295; 45; 3
+Tuckerton; Blaabjerg; 15295; 45; 3
+Tulum; Cancún; 8600; 30; 2
+Tulum; Belize City; 8600; 30; 2
+Tumon Bay; Maruyama; 12700;  75; 5
+Tumon Bay; Oxford Falls; 12700;  75; 5
+Tumon Bay; Paddington; 12700;  75; 5
+Tumon Bay; Shima; 12700;  75; 5
+Tumon Bay; Tanguisson Point; 12700;  75; 5
+Tumon Bay; Kita-kyushu; 4244; 30; 2
+Tumon Bay; Okinawa; 4244; 30; 2
+Tungku; Lantau Island; 20000; 60; 4
+Tungku; Vung Tau; 20000; 60; 4
+Tungku; Sriracha; 20000; 60; 4
+Tungku; Mersing; 20000; 60; 4
+Tungku; Kiamsam; 52; 15; 1
+Tungku; Geoje; 39000; 630; 14
+Tungku; Shanghai; 39000; 630; 14
+Tungku; Okinawa; 39000; 630; 14
+Tungku; Toucheng; 39000; 630; 14
+Tungku; Fangshan; 39000; 630; 14
+Tungku; Shantou; 39000; 630; 14
+Tungku; Deep Water Bay; 39000; 630; 14
+Tungku; Taipa; 39000; 630; 14
+Tungku; Batangas; 39000; 630; 14
+Tungku; Danang; 39000; 630; 14
+Tungku; Mersing; 39000; 630; 14
+Tungku; Ancol; 39000; 630; 14
+Tungku; Perth; 39000; 630; 14
+Tungku; Tuas; 39000; 630; 14
+Turku; Norrtalge; 254; 15; 1
+Tuticorine; Mt. Lavinia; 325; 15; 1
+Tutuyan; Luwuk; 446; 15; 1
+Tyra; Valdemar; 2500; 15; 1
+Ujung Pankah; Bawean; 543; 30; 2
+Ujung Pankah; Takesung; 543; 30; 2
+Ulsteinvik; Ålesund; 750; 30; 2
+Ulsteinvik; Måløy; 750; 30; 2
+Umag; Mestre; 230; 15; 1
+Umbogintwini; Baie du Tombeau; 3200; 45; 3
+Umbogintwini; Fort Dauphin; 3200; 45; 3
+Umbogintwini; Le Port; 3200; 45; 3
+Umeå; Vaasa; 93; 15; 1
+Union Island; Bequia; 225; 150; 6
+Union Island; Canouan; 225; 150; 6
+Union Island; Carriacou; 225; 150; 6
+Union Island; Conference; 225; 150; 6
+Union Island; Kingstown; 225; 150; 6
+Union Island; Mustique; 225; 150; 6
+Unqui; Fort Amador; 10000; 60; 4
+Unqui; Grover Beach; 10000; 60; 4
+Unqui; Mazatlán; 10000; 60; 4
+Unqui; Tijuana; 10000; 60; 4
+Ust-Bolsheretsk; Okha; 1855; 15; 1
+Utqiaġvik; Kotzebue; 1900; 75; 5
+Utqiaġvik; Nome; 1900; 75; 5
+Utqiaġvik; Point Hope; 1900; 75; 5
+Utqiaġvik; Prudhoe Bay; 1900; 75; 5
+Utqiaġvik; Wainwright; 1900; 75; 5
+Utskarpen; Hemnesberget; 0; 30; 2
+Utskarpen; Nesna; 0; 30; 2
+Uturoa; Vaitape; 4805; 30; 2
+Uturoa; Huahine; 4805; 30; 2
+Vaasa; Umeå; 93; 15; 1
+Väddö; Mariehamn; 142; 15; 1
+Vaitape; Aitutaki; 3166; 75; 5
+Vaitape; Alofi; 3166; 75; 5
+Vaitape; Apia; 3166; 75; 5
+Vaitape; Rarotonga; 3166; 75; 5
+Vaitape; To'ahotu; 3166; 75; 5
+Vaitape; Uturoa; 4805; 15; 1
+Valdemar; Blaabjerg; 2500; 150; 6
+Valdemar; South Arn; 2500; 150; 6
+Valdemar; Sylt; 2500; 150; 6; 150; 6
+Valdemar; Tjornuvik; 2500; 150; 6
+Valdemar; Tyra; 2500; 150; 6
+Valdemar; Vestmannaeyjar; 2500; 150; 6
+Valdez; Whittier; 3751; 15; 1
+Valdez; Whittier; 3229; 15; 1
+Valencia; Palma; 274; 15; 1
+Valencia; Algiers; 770; 30; 2
+Valencia; Oran; 770; 30; 2
+Valparaíso; Arica; 8790; 60; 4
+Valparaíso; Lurin; 8790; 60; 4
+Valparaíso; Puerto San Jose; 8790; 60; 4
+Valparaíso; Salinas; 8790; 60; 4
+Valparaíso; Balboa; 10476; 30; 2
+Valparaíso; Los Angeles; 10476; 30; 2
+Valparaíso; Talcahuano; 3500; 15; 1
+Valparaíso; Arica; 25000; 15; 1
+Valparaíso; Lurin; 20000; 15; 1
+Valverde; San Sebastian de la Gomera; 0; 15; 1
+Vanimo; Jayapura; 5457; 200; 8
+Vanimo; Wewak; 5457; 200; 8
+Vanimo; Lorengau; 5457; 200; 8
+Vanimo; Madang; 5457; 200; 8
+Vanimo; Kimbe; 5457; 200; 8
+Vanimo; Kavieng; 5457; 200; 8
+Vanimo; Kokopo; 5457; 200; 8
+Vanimo; Arawa; 5457; 200; 8
+Varberg; Laeso; 0; 15; 1
+Vassbygda; Trondheim; 750; 45; 3
+Vassbygda; Brekstad; 750; 45; 3
+Vassbygda; Smola; 750; 45; 3
+Velas; Graciosa; 1100; 30; 2
+Velas; Faial; 1100; 30; 2
+Velling; Mosede; 15; 15; 1
+Ventspils; Nynashamn; 304; 15; 1
+Ventspils; Farosund; 391; 15; 1
+Vero Beach; Magen’s Bay; 2012; 15; 1
+Vero Beach; Eight-Mile Rock; 470; 15; 1
+Vestero; Lyngsa; 75; 15; 1
+Vestmannaeyjar; Tjornuvik; 2500; 75; 5
+Vestmannaeyjar; South Arne; 2500; 75; 5
+Vestmannaeyjar; Valdemar; 2500; 75; 5
+Vestmannaeyjar; Blaabjerg; 2500; 75; 5
+Vestmannaeyjar; Sylt; 2500; 75; 5
+Victoria; Zafarana; 15000; 225; 9
+Victoria; Djibouti City; 15000; 225; 9
+Victoria; Bosaso; 15000; 225; 9
+Victoria; Gwadar; 15000; 225; 9
+Victoria; Karachi; 15000; 225; 9
+Victoria; Hobyo; 15000; 225; 9
+Victoria; Mogadishu; 15000; 225; 9
+Victoria; Kismayo; 15000; 225; 9
+Victoria; Mombasa; 15000; 225; 9
+Victoria; Dar Es Salaam; 1930; 15; 1
+Vila do Maio; Sal Rei; 0; 30; 2
+Vila do Maio; Praia; 0; 30; 2
+Vila do Porto; Ponta Delgada; 1100; 30; 2
+Vila do Porto; Sao Mateus; 1100; 30; 2
+Vila Olga; Banana Bay; 183; 60; 4
+Vila Olga; Brewer's Bay; 183; 60; 4
+Vila Olga; Flamingo Bay; 183; 60; 4
+Vila Olga; Great Bay; 183; 60; 4
+Virginia Beach; Fortaleza; 11000; 45; 3
+Virginia Beach; Rio de Janeiro; 11000; 45; 3
+Virginia Beach; San Juan; 11000; 45; 3
+Virginia Beach; Saint-Hilaire-de-Riez; 6400; 15; 1
+Virginia Beach; Bilbao; 6605; 15; 1
+Vitória; São Mateus; 2543; 30; 2
+Vitória; Atafona; 2543; 30; 2
+Vung Tau; Songkhla; 25000; 45; 3
+Vung Tau; Sihanoukville; 25000; 45; 3
+Vung Tau; Cape D’Aguilar; 25000; 45; 3
+Vung Tau; La Union; 20000; 75; 5
+Vung Tau; Lantau Island; 20000; 75; 5
+Vung Tau; Tungku; 20000; 75; 5
+Vung Tau; Sriracha; 20000; 75; 5
+Vung Tau; Mersing; 20000; 75; 5
+Vung Tau; Ballesteros; 6700; 45; 3
+Vung Tau; Changi North; 6700; 45; 3
+Vung Tau; Deep Water Bay; 6700; 45; 3
+Wada; Busan; 9504; 30; 2
+Wada; Toucheng; 9504; 30; 2
+Waikato; Auckland; 0; 30; 2 
+Waikato; Taranaki;; 0; 30; 2 
+Waingapu; Ende; 1318; 30; 2
+Waingapu; Saraemee; 1318; 30; 2
+Waingapu; Seba; 6300; 15; 1
+Wainwright; Kotzebue; 1900; 75; 5
+Wainwright; Nome; 1900; 75; 5
+Wainwright; Point Hope; 1900; 75; 5
+Wainwright; Prudhoe Bay; 1900; 75; 5
+Wainwright; Utqiaġvik; 1900; 75; 5
+Waisai; Sorong; 3498; 15; 1
+Wall Township; Blaabjerg; 7200; 45; 3
+Wall Township; Kristiansand; 7200; 45; 3
+Wall Township; Lecanvey; 7200; 45; 3
+Wall Township; Praia Grande; 10800; 15; 1
+Wall Township; Highbridge; 13000; 15; 1
+Wall Township; Westbury; 60; 15; 1
+Warrenton; Seward; 2485; 15; 1
+Wawonii; Kendari; 2100; 30; 2
+Wawonii; Raha; 2100; 30; 2
+Wellington; Marlborough; 0; 30; 2
+Wellington; Manawatu-Wanganui; 0; 30; 2
+Wenchang; Zhuhai; 780; 15; 1
+Weno; Pohnpei; 1200; 15; 1
+West Palm Beach; Magen’s Bay; 2068; 15; 1
+Westbury; Wall Township; 60; 15; 1
+Wewak; Jayapura; 5457; 200; 8
+Wewak; Vanimo; 5457; 200; 8
+Wewak; Lorengau; 5457; 200; 8
+Wewak; Madang; 5457; 200; 8
+Wewak; Kimbe; 5457; 200; 8
+Wewak; Kavieng; 5457; 200; 8
+Wewak; Kokopo; 5457; 200; 8
+Wewak; Arawa; 5457; 200; 8
+Whenuapai; Alexandria; 30500; 15; 1
+Whitehead;  Troon; 122; 15; 1
+Whitesands Bay; Beverwijk; 14301; 30; 2
+Whitesands Bay; Brookhaven; 14301; 30; 2
+Whitesands Bay; Ballygrangans; 495; 15; 1
+Whittier; Juneau; 3751; 45; 3
+Whittier; Lynnwood; 3751; 45; 3
+Whittier; Valdez; 3751; 45; 3
+Whittier; Hillsboro; 3229; 45; 3
+Whittier; Lena Point; 3229; 45; 3
+Whittier; Valdez; 3229; 45; 3
+Willemstad; Punto Fijo; 8600; 30; 2
+Willemstad; Isla Verde; 8600; 30; 2
+Willemstad; Baby Beach; 128; 15; 1
+Willemstad; St. Croix; 8373; 150; 6
+Willemstad; Camuri; 8373; 150; 6
+Willemstad; Cayenne; 8373; 150; 6 
+Willemstad; Fortaleza; 8373; 150; 6 
+Willemstad; Le Lamentin; 8373; 150; 6 
+Willemstad; Port of Spain; 8373; 150; 6 
+Willemstad; Kralendijk; 85; 15; 1
+Willemstad; Chaguaramas;  987; 15; 1
+Willemstad; North Salina; 0; 15; 1
+Winterton-on-Sea; Egmond; 208; 15; 1
+Wrangell; Petersburg; 626; 15; 1
+Wurrumiyanga; Darwin; 2100; 30; 2
+Wurrumiyanga; Port Hedland; 2100; 30; 2
+Xepenehe; Mouly; 0; 30; 2
+Xepenehe; Poindimie; 0; 30; 2
+Yanbu; Zafarana; 20000; 175; 7
+Yanbu; Al Hudaydah; 20000; 175; 7
+Yanbu; Haramous; 20000; 175; 7
+Yanbu; Qalhat; 20000; 175; 7
+Yanbu; Fujairah; 20000; 175; 7
+Yanbu; Karachi; 20000; 175; 7
+Yanbu; Matara; 20000; 175; 7
+Yapen; Supiori; 6300; 30; 2
+Yapen; Nabire; 6300; 30; 2
+Yeroskipos; Chania;  868; 15; 1
+Yeroskipos; Alexandria; 3400; 30; 2
+Yeroskipos; Marseille; 3400; 30; 2
+Yeroskipos; Mazara del Vallo; 2600; 30; 2
+Yeroskipos; Tel Aviv; 2600; 30; 2
+Yeroskipos; Pentaskhinos; 800; 15; 1
+Yeroskipos; Alexandria; 39000; 60; 4 
+Yeroskipos; Marmaris; 39000; 60; 4 
+Yeroskipos; Chania; 39000; 60; 4 
+Yeroskipos; Mazara del Vallo; 39000; 60; 4 
+Yeroskipos; Haifa; 345; 15; 1
+Ystad; Pedersker; 437; 15; 1
+Yuzhno Kurilsk; Krabozavodskoye; 940; 30; 2
+Yuzhno Kurilsk; Kurilsk; 940; 30; 2
+Yuzhno-Sakhalinsk; Kurilsk; 940; 15; 1
+Yzerfontein; Abidjan; 14530; 540; 12
+Yzerfontein; Accra; 14530; 540; 12
+Yzerfontein; Alta Vista; 14530; 540; 12
+Yzerfontein; Lagos; 14530; 540; 12
+Yzerfontein; Limbe; 14530; 540; 12
+Yzerfontein; Lome; 14530; 540; 12
+Yzerfontein; Muanda; 14530; 540; 12
+Yzerfontein; Pointe-Noire; 14530; 540; 12
+Yzerfontein; Praia; 14530; 540; 12
+Yzerfontein; Sangano; 14530; 540; 12
+Yzerfontein; Seixal; 14530; 540; 12
+Yzerfontein; Swakopmund; 14530; 540; 12
+Zafarana; Abu Talat; 25000; 540; 12
+Zafarana; Jeddah; 25000; 540; 12
+Zafarana; Djibouti City; 25000; 540; 12
+Zafarana; Aden; 25000; 540; 12
+Zafarana; Doha; 25000; 540; 12
+Zafarana; Fujairah; 25000; 540; 12
+Zafarana; Al Bustan; 25000; 540; 12
+Zafarana; Karachi; 25000; 540; 12
+Zafarana; Mumbai; 25000; 540; 12
+Zafarana; Ngwe Saung; 25000; 540; 12
+Zafarana; Kuala Kurau; 25000; 540; 12
+Zafarana; Satun; 25000; 540; 12
+Zafarana; Abu Talat; 15000; 75; 5 
+Zafarana; Jeddah; 15000; 75; 5 
+Zafarana; Haramous; 15000; 75; 5 
+Zafarana; Barka; 15000; 75; 5 
+Zafarana; Mumbai; 15000; 75; 5 
+Zafarana; Abu Talat; 8000; 45; 3
+Zafarana; Al Seeb; 8000; 45; 3
+Zafarana; Jeddah; 8000; 45; 3
+Zafarana; Abu Talat; 15000; 250; 10
+Zafarana; Bosaso; 15000; 250; 10
+Zafarana; Djibouti City; 15000; 250; 10
+Zafarana; Gwadar; 15000; 250; 10
+Zafarana; Hobyo; 15000; 250; 10
+Zafarana; Karachi; 15000; 250; 10
+Zafarana; Kismayo; 15000; 250; 10
+Zafarana; Mogadishu; 15000; 250; 10
+Zafarana; Mombasa; 15000; 250; 10
+Zafarana; Victoria; 15000; 250; 10
+Zafarana; Dar Es Salaam; 15000; 175; 7
+Zafarana; Djibouti City; 15000; 175; 7
+Zafarana; Jeddah; 15000; 175; 7
+Zafarana; Maputo; 15000; 175; 7
+Zafarana; Mombasa; 15000; 175; 7
+Zafarana; Mtunzini; 15000; 175; 7
+Zafarana; Mumbai; 15000; 175; 7
+Zafarana; Abu Talat; 20000; 200; 8
+Zafarana; Yanbu; 20000; 200; 8
+Zafarana; Al Hudaydah; 20000; 200; 8
+Zafarana; Haramous; 20000; 200; 8
+Zafarana; Fujairah; 20000; 200; 8
+Zafarana; Karachi; 20000; 200; 8
+Zafarana; Qalhat; 20000; 200; 8
+Zafarana; Matara; 20000; 200; 8
+Zandvoort; Lowestoft; 203; 15; 1
+Zandvoort; Sizewell; 550; 30; 2
+Zandvoort; Zeebrugge; 550; 30; 2
+Zawia; Tripoli; 1639; 30; 2
+Zawia; Zuwara; 1639; 30; 2
+Zeebrugge; Zandvoort; 550; 30; 2
+Zeebrugge; Thorpeness; 550; 30; 2
+Zhuhai; Hong Kong; 780; 30; 2
+Zhuhai; Wenchang; 780; 30; 2
+Zuwara; Zawia; 1639; 15; 1
